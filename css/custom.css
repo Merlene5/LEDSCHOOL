@@ -1,0 +1,184 @@
+/** ADD YOUR AWESOME CODES HERE **/
+
+  body {
+ 
+    font-family: 'Poppins', sans-serif;
+    /* background-color: #beb6b6; */
+  
+  } 
+  
+/* style concercant la partie pedagogie*/
+
+.card {
+  border: 1px solid #ccc;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  color: black;
+  background: transparent
+  
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+
+.card-title {
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  font-size: 25px;
+  /* color:#2c3e50; */
+  color: black
+  
+}
+.card-text{
+ 
+  font-size: 1.5  rem;
+}
+
+.card-title i {
+  margin-right: 10px;
+  font-size: 35px;
+  color: #ecdb07; 
+
+}
+
+.container h2 {
+  margin-bottom: 60px;
+}
+
+
+
+.show-more{
+  background-color: transparent;
+  color:#2c3e50;
+  font-size: 15px;
+  margin-left: 985px;
+
+}
+.btn:hover {
+  background:transparent;
+  color: #0b1da5;
+  
+}
+/* style de la partie evenement*/
+.event-container {
+    position: relative;
+    border-radius: 20px;
+    background-image: url('../images/istockphoto-1571704743-1024x1024.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    width: 100%;
+    max-width: 400px;
+    overflow: hidden;
+  }
+
+  .event-text {
+    position: absolute;
+    left: 20px;
+    right: 10px;
+    bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-weight: 600;    
+  }
+
+/*.event-text div {
+    background-color: white;
+    margin: 3pX;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+*/
+
+  .event-date {
+    font-size: 16px;
+  }
+
+  .event-status {
+    font-size: 16px;
+  }
+
+  .event-details {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    padding: 0 10px;
+  }
+
+  .event-location {
+    font-size: 20px;
+  }
+
+  .register-btn button {
+    font-size: 16px;
+    padding: 8px 16px;
+    border: 1x solid rgb(221, 221, 226);
+    background: rgb(221, 221, 226);
+    color: blue ;
+    border: none;
+    border-radius: 5px;
+  }
+
+ /* .voir-plus-btn {
+    text-align: right;
+    border: none;
+    margin-top: 20px;
+  }*/
+
+  .styled-button {
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    background-color: rgb(59, 59, 59); /* Couleur de fond */
+    color: #fff; /* Couleur du texte */
+    font-size: 15px;
+    text-decoration: none;
+
+
+}
+
+.styled-button i {
+    margin-right: 10px; /* Espacement entre l'icône et le texte */
+}
+
+.styled-button::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 35;
+}
+
+.styled-button:hover {
+    background-color:#0b1da5; /* Couleur de fond au survol */
+    color: white;
+}
+
+
+
+.styled-button:active {
+    transform: translateY(2px); /* Effet de clic */
+    box-shadow: 0px 3px 7px rgba(0, 0, 0, 0.2);
+}
+
+  
+
+  /*la style de la partie resume des autres rubriques*/
+.option-box h3 {
+    color: #524646;
+    margin-top: 15px;
+    cursor: pointer;
+ 
+}
+
+

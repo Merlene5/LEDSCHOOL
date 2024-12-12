@@ -1,0 +1,43 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #fff;
+}
+
+.text {
+    color: #0b1da5;
+    font-size: 1.9rem;
+    font-weight: 700;
+}
+
+
+.font-weight-bold {
+    font-weight: bold;
+}
+
+.container h2, .container h3 {
+    color:#0b1da5;
+}
+
+.border-right {
+    border-right: 2px solid transparent;
+}
+
+/* p {
+    font-size: 0.9rem;
+    line-height: 2;
+} */
+
+.mb-4 {
+    margin-bottom: 1.5rem;
+}
+.mb-4 p{
+    text-align: justify;
+
+}
+
+/* Ajoutez une transition pour des animations fluides */
+/* .animate__animated {
+    visibility: hidden;
+    
+} */
+
