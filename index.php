@@ -339,6 +339,8 @@
                         <li><a class="nav-link" href="admission.php">Admission</a></li>
                         <li><a class="nav-link" href="pedagogie.php">Pédadogie</a></li>
                         <li><a class="nav-link" href="actualites.php">Actualités</a></li>
+                        <li><a class="nav-link" href="contact.php">Contactez-nous </a></li>
+
 
                     </ul>
                 </div>
@@ -954,7 +956,7 @@
                             <li><img src="images/i5.png"><span>Ladjifarani, voie camp Séro Kpéra rue Cap Finance<br>
                                     Parakou,Benin
                                 </span></li>
-                            <li><img src="images/i6.png"><span>www.waxangarilabs.org</span></li>
+                            <li><img src="images/i6.png"></li>
                             <li><img src="images/i7.png"><span> (+229) 67589631 / 63100010 </span></li>
                         </ul>
                     </div>
@@ -965,7 +967,7 @@
         </div>
     </footer>
     <!-- End Footer -->
-    <!-- 
+    
     <div class="footer_bottom">
         <div class="container">
             <div class="row">
@@ -974,7 +976,7 @@
                 </div>
             </div>
         </div>
-    </div> -->
+    </div>
 
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 
