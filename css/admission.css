@@ -1,0 +1,29 @@
+body {
+            
+            color: black;
+        }
+
+
+        h2 {
+            font-size: 1.3rem;
+            font-weight: 600;
+            color: black;
+        }
+
+        p {
+            font-size: 1rem;
+            line-height: 1.6;
+        }
+
+        .list-group-item {
+            font-size: 1rem;
+            padding: 15px;
+            border: none;
+        }
+
+        /* Style pour les icônes à côté des éléments de la liste */
+        .list-group-item i {
+            margin-right: 10px; /* Espace entre l'icône et le texte */
+            color: #ecdb05; /* Couleur de l'icône */
+            font-size: 10px;
+        }

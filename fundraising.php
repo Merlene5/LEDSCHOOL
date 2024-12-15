@@ -50,7 +50,7 @@
         <div class="Superpose"></div>
         <div class="container">
             <div class="full animate__animated animate__fadeInDown">
-                <h3>Superviseur de Zone</h3>
+                <h3> Fundraising</h3>
             </div>
         </div>
     </section>
@@ -60,10 +60,15 @@
             <div class="row">
                 <div class="col-md-12">
                     <p style="font-size: 2rem; font-weight: 600;line-height: 1.6; text-align: center">
-                    Devenez un  expert superviseur de zone efficace </p>
+                        Devenez Expert en Fundraising : Maîtrisez les Techniques de Levée de Fonds et de Mobilisation de
+                        Ressources
+                    </p>
                 </div>
                 <div class="col-md-12 text-justify ">
-                    <p style="font-size:1rem " ;>Cette formation est destinée à ceux qui souhaitent exceller dans le rôle de supervision et de gestion d'activités dans des zones géographiques définies. Vous apprendrez à coordonner, superviser et optimiser les opérations, tout en assurant le suivi et l’atteinte des objectifs fixés.</p>
+                    <p style="font-size:1rem " ;>Cette formation vous prépare à devenir un professionnel du fundraising
+                        en vous dotant des compétences nécessaires pour élaborer et mettre en œuvre des stratégies
+                        efficaces de levée de fonds. Vous apprendrez à mobiliser des ressources financières, humaines et
+                        matérielles pour soutenir des projets ou des organisations à but non lucratif.</p>
                 </div>
             </div>
         </div>
@@ -75,99 +80,117 @@
 
         <div class="centered-columns">
             <div>
-                <p><i class="fas fa-chevron-right"></i>Coordonner les équipes sur le terrain pour atteindre les objectifs définis.</p>
-                <p><i class="fas fa-chevron-right"></i> Superviser les activités dans une zone géographique spécifique </p>
-                <p><i class="fas fa-chevron-right"></i> Planifier et organiser les tâches en fonction des priorités et des ressources disponibles. </p>
-                <p><i class="fas fa-chevron-right"></i> Assurer un suivi rigoureux des indicateurs de performance.</p>
-                <p><i class="fas fa-chevron-right"></i> Résoudre les problèmes opérationnels et prendre des décisions stratégiques.</p>
+                <p><i class="fas fa-chevron-right"></i> Concevoir et implémenter une stratégie de fundraising adaptée à
+                    différents publics cibles.</p>
+                <p><i class="fas fa-chevron-right"></i> Identifier et approcher des donateurs potentiels : particuliers,
+                    entreprises, fondations et institutions.</p>
+                <p><i class="fas fa-chevron-right"></i> Rédiger des propositions de financement convaincantes pour les
+                    bailleurs de fonds</p>
+                <p><i class="fas fa-chevron-right"></i> Organiser des campagnes de collecte de fonds en ligne et hors
+                    ligne.</p>
+                <p><i class="fas fa-chevron-right"></i> Communiquer efficacement sur les réalisations financées pour
+                    fidéliser les donateurs.</p>
+
             </div>
             <div>
-                
-
-                
-                <p><i class="fas fa-chevron-right"></i> Préparer des rapports détaillés pour la hiérarchie et les parties prenantes.</p>
-                <p><i class="fas fa-chevron-right"></i> Favoriser une communication efficace entre les équipes et les structures partenaires.</p>
-                <p><i class="fas fa-chevron-right"></i> Animer des formations pour renforcer les capacités des équipes sous votre supervision.</p>
-            
+                <p><i class="fas fa-chevron-right"></i> Planifier des événements caritatifs pour mobiliser des soutiens
+                    financiers.</p>
+                <p><i class="fas fa-chevron-right"></i> Développer des partenariats stratégiques et durables.</p>
+                <p><i class="fas fa-chevron-right"></i> Utiliser des outils numériques tels que les plateformes de
+                    crowdfunding et de CRM.</p>
+                <p><i class="fas fa-chevron-right"></i> Mesurer et évaluer l’impact des campagnes de levée de fonds.</p>
             </div>
         </div>
+
     </section>
 
     <!-- Programme de la Formation -->
     <section style="padding: 50px;">
         <h2 class="section-title">Programme de la Formation</h2>
-        <p> D'une masse totale horaire de <span class="section-info"> 560 heures</span>, le programme est structuré
+        <p> D'une masse horaire de  <span style="font-weight: 600;"> 900 heures </span> ,le programme est structuré
             autour de modules progressifs permettant une approche globale et pratique de la gestion des réseaux sociaux.
         </p>
         <div class="columns">
- <!-- Column 1 -->
- <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>: Introduction au rôle de superviseur (40h)</p>
-            <ul>
-                
-            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Comprendre les missions et responsabilités du superviseur.</li>
-
-            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Les qualités d’un bon superviseur.</li>
-
-            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Rôles et relations hiérarchiques.</li>
-
-
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> :Gestion des équipes (80h)</p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Techniques de management et leadership.</li><br>
-
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion des conflits et médiation.</li><br>
-
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Motivation et évaluation des performances.</li><br>
-
-              
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> :Planification et organisation (70h)</p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Élaboration de plannings opérationnels.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion des priorités et optimisation des ressources</li>
-
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Mise en place de tableaux de bord pour le suivi des activités.</li>
-
-            </ul>
-
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span> :Techniques de supervision (100h)</p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Stratégies de supervision sur le terrain.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Utilisation des outils numériques pour le suivi des activités.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>   Mise en place de mécanismes d’audit interne.</li>
-            </ul>
-        </div>
-
-        <!-- Column 2 -->
-        <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> : Communication et relations interpersonnelles (60h)</p>
+            <!-- Column 1 -->
+            <div>
+                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                        1</span>: Introduction au Fundraising (100 heures)</p>
                 <ul>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Techniques de communication assertive.</li>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Gestion des relations avec les parties prenantes internes et externes.</li>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>    Présentation et défense des rapports de supervision.</li>
+
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Concepts fondamentaux de la levée
+                        de fonds</li>
+
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Panorama des acteurs et sources de
+                        financement</li>
+
+
+                    <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                            2</span> : Stratégies et Techniques de Levée de Fonds (150 heures)</p>
+                    <ul>
+                        <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Elaboration de plans
+                            stratégiques</li><br>
+
+                        <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Techniques de segmentation et
+                            ciblage des donateurs</li><br>
+
+                        <p class="module-title"><i class="fas fa-chevron-right"></i><span
+                                style="font-weight: 600">Module 3</span> :Gestion des ressources et des parties
+                            prenantes (150h)</p>
+                        <ul>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Rédaction de dossiers de
+                                financement percutantsss </li>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Techniques de storytelling
+                                et communication persuasive </li>
+
+
+
+                        </ul>
+
+                        <p class="module-title"><i class="fas fa-chevron-right"></i><span
+                                style="font-weight: 600">Module 4</span> :Fundraising Digital (100 heures)</p>
+                        <ul>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Initiation au crowdfunding
+                            </li>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Utilisation des réseaux
+                                sociaux et campagnes d’emailing </li>
+
+                        </ul>
+            </div>
+
+            <!-- Column 2 -->
+            <div>
+                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                        5</span> : Gestion des Donateurs et CRM (100 heures)</p>
+                <ul>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Planification logistique et
+                        mobilisation des participants</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion des relations publiques et
+                        des partenariats </li>
                 </ul>
-            </p>
+                </p>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 6</span> : Résolution de problèmes et prise de décision (60h) </p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Identification et analyse des problèmes.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Prise de décision basée sur des données concrètes</li>  
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Gestion des imprévus..</li>      
-            </ul>
+                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                        6</span> :Gestion des Donateurs et CRM (150 heures)</p>
+                <ul>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Fidélisation des donateurs</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Utilisation d’outils pour le suivi
+                        et la gestion des contributions</li>
+                </ul>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 7</span>:   Suivi et évaluation des performances (80h)</p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Élaboration des indicateurs clés de performance (KPI).</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Analyse et interprétation des résultats.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Préparation des rapports d’évaluation.</li>
+                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                        7</span>: Évaluation et Reporting  (100 heures)</p>
+                <ul>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Mesure de l’efficacité des
+                        campagnes</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Rédaction de rapports d’impact</li>
+                </ul>
 
-            </ul>
-            
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 8</span>:   Projet Final (70h)</p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Élaboration et supervision d’un projet dans une zone réelle ou simulée.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Présentation et défense du projet devant un jury.</li>
-            </ul>
+                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                        8</span>: Projet Final (150h)</p>
+                <ul>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Conception et mise en œuvre d’une
+                        campagne complète de fundraising</li>
+                </ul>
             </div>
         </div>
     </section>
@@ -189,22 +212,18 @@
                     </div>
                     <div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#accordion">
                         <div class="card-body">
+
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
-                                Superviseur de zone.
+                                    Chargé de Fundraising
                                 </li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
-                                Responsable opérationnel.
+                                    Consultant en Levée de Fonds
                                 </li> <br>
                                 <li><i class="fas fa-chevron-right"></i>
-                                Chargé de suivi et évaluation.
+                                    Organisateur d’Événements Caritatifs
                                 </li> <br>
-                                <li><i class="fas fa-chevron-right"></i>
-                                Manager d’équipes terrain.
-                                </li> <br>
-
-                                
                             </ul>
                         </div>
                     </div>
@@ -225,11 +244,12 @@
                         <div class="card-body">
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
-                                Avoir des compétences de base en organisation et en communication.</li> <br>
+                                    Bonne maîtrise de la communication écrite et orale.</li> <br>
                                 <li><i class="fas fa-chevron-right"></i>
-                                Expérience ou intérêt dans la gestion ou supervision d'équipes.</li> <br>
+                                    Intérêt pour le secteur associatif ou les organisations à but non lucratif..</li>
+                                <br>
                                 <li><i class="fas fa-chevron-right"></i>
-                                Motivation à travailler sur le terrain..</li> <br>
+                                    Aisance avec les outils numériques.</li> <br>
                             </ul>
                         </div>
                     </div>
@@ -251,13 +271,13 @@
                             <p> L'évaluation se fera tout au long de la formation à travers :</p>
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
-                                ontrôles continus (quiz, exercices).</li> <br>
+                                    ontrôles continus (quiz, exercices).</li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
-                                Évaluations pratiques sur le terrain ou en atelier.</li> <br>
+                                    Projets individuels et en groupe.</li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
-                                Soutenance du projet final.</li> <br>
+                                    Présentation et défense du projet final.</li> <br>
 
                             </ul>
                         </div>
@@ -279,7 +299,7 @@
                     </div>
                     <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#accordion">
                         <div class="card-body">
-                            <p> La formation se déroule sur une durée de <span style="font-weight: 700;"> 4  mois</span>
+                            <p> La formation se déroule sur une durée de <span style="font-weight: 700;"> 8 mois</span>
                                 pour permettre aux participants de concilier apprentissage et application pratique.</p>
                         </div>
                     </div>
@@ -301,29 +321,26 @@
                             <p>Notre méthode d'apprentissage combine théorie et pratique, s'articulant autour des
                                 éléments suivants :</p>
                             <ul>
-                            
+
                                 <li><i class="fas fa-chevron-right"></i>
-                                    <span style="font-weight: 600;">Cours interactifs</span> :Accédez à des modules
-                                    complets sur notre plateforme e-learning, incluant vidéos, études de cas et
-                                    exercices pratiques.
+                                    <span style="font-weight: 600;">Cours interactifs</span> : En présentiel ou en
+                                    ligne, combinant théorie et exercices.
                                 </li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
-                                        Ateliers pratiques 
-                                    </span> :Simulations de supervision et gestion de zone
+                                        Ateliers pratiques
+                                    </span> : Application des concepts sur des projets réels ou simulés
                                 </li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
                                         Mentorat personnalisé
-                                    </span> : Bénéficiez de l’accompagnement d’un formateur expert tout au long de votre parcours.
+                                    </span> : Suivi par des formateurs expérimentés
                                 </li>
                                 <br>
-                                <li><i class="fas fa-chevron-right"></i>
-                                    <span style="font-weight: 600;">
-                                    Immersion terrain 
-                                    </span> : Supervision d’une zone réelle en collaboration avec des partenaires.
+
+
                         </div>
                     </div>
                 </div>
@@ -369,24 +386,42 @@
                                 nous vous proposons plusieurs options de paiement :</p>
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
-                                     Paiement en trois tranches de 70 000 FCFA.
-                                </li> <br>
-                                <li><i class="fas fa-chevron-right"></i>
-                                     Paiement journalier : 1000 FCFA après un acompte initial.
+                                    <span style="font-weight: 600;">
+                                        Paiement en trois fois
+                                    </span> :Versez un acompte de 100 000 FCFA à l'inscription, puis deux autres
+                                    tranches de 100 000 FCFA respectivement deux et cinq mois après le début de la
+                                    formation.
                                 </li>
                                 <br>
-                                <p style="font-weight: 600;">Le coût total de la formation s'élève à 200 000 FCFA et
+                                <li><i class="fas fa-chevron-right"></i>
+                                    <span style="font-weight: 600;">
+                                        Paiement flexible
+                                    </span> :Réglez la formation à votre rythme, en versant des sommes variables selon
+                                    vos disponibilités financières. Le montant total doit être acquitté dans un délai de
+                                    six mois.
+                                </li> <br>
+                                <li><i class="fas fa-chevron-right"></i>
+                                    <span style="font-weight: 600;">
+                                        Paiement journalier
+                                    </span> :Optez pour un paiement quotidien de 2000 FCFA ou 1000 FCFA via Momopay,
+                                    après avoir versé l'acompte initial.
+                                </li>
+                                <br>
+                                <p style="font-weight: 600;">Le coût total de la formation s'élève à 350 000 FCFA et
                                     inclut l'accès à tous les supports pédagogiques, le suivi personnalisé par un
                                     mentor, ainsi que la participation aux ateliers et événements organisés dans le
                                     cadre de la formation.</p>
+                                <p style="font-weight: 600;">Les outils  nécessaires  restent à la charge de l'apprenant.</p>
+
 
                             </ul>
 
                         </div>
                     </div>
                 </div>
-
             </div>
+
+        </div>
         </div>
     </section>
 

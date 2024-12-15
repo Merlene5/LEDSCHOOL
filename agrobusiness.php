@@ -94,7 +94,7 @@
     <!-- Programme de la Formation -->
     <section style="padding: 50px;">
         <h2 class="section-title">Programme de la Formation</h2>
-        <p> D'une masse totale horaire de <span class="section-info"> 500 heures</span>, le programme est structuré
+        <p>Le programme est structuré
             autour de modules progressifs permettant une approche globale et pratique de la gestion des réseaux sociaux.
         </p>
         <div class="columns">

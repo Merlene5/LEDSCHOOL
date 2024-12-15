@@ -50,7 +50,7 @@
         <div class="Superpose"></div>
         <div class="container">
             <div class="full animate__animated animate__fadeInDown">
-                <h3>Superviseur de Zone</h3>
+                <h3> Suivi -Evaluation</h3>
             </div>
         </div>
     </section>
@@ -60,10 +60,12 @@
             <div class="row">
                 <div class="col-md-12">
                     <p style="font-size: 2rem; font-weight: 600;line-height: 1.6; text-align: center">
-                    Devenez un  expert superviseur de zone efficace </p>
+                    Suivi et Évaluation de Projets et Programmes
+                    </p>
                 </div>
                 <div class="col-md-12 text-justify ">
-                    <p style="font-size:1rem " ;>Cette formation est destinée à ceux qui souhaitent exceller dans le rôle de supervision et de gestion d'activités dans des zones géographiques définies. Vous apprendrez à coordonner, superviser et optimiser les opérations, tout en assurant le suivi et l’atteinte des objectifs fixés.</p>
+                    <p style="font-size:1rem " ;>La formation en Suivi et Evaluation (S&E) vous fournira les compétences nécessaires pour mettre en place des systèmes de suivi efficaces, évaluer l'impact des projets et optimiser la gestion des programmes. Vous apprendrez à collecter, analyser et utiliser les données pour garantir 
+                        que les projets atteignent leurs objectifs tout en respectant les délais et les budgets.</p>
                 </div>
             </div>
         </div>
@@ -75,99 +77,99 @@
 
         <div class="centered-columns">
             <div>
-                <p><i class="fas fa-chevron-right"></i>Coordonner les équipes sur le terrain pour atteindre les objectifs définis.</p>
-                <p><i class="fas fa-chevron-right"></i> Superviser les activités dans une zone géographique spécifique </p>
-                <p><i class="fas fa-chevron-right"></i> Planifier et organiser les tâches en fonction des priorités et des ressources disponibles. </p>
-                <p><i class="fas fa-chevron-right"></i> Assurer un suivi rigoureux des indicateurs de performance.</p>
-                <p><i class="fas fa-chevron-right"></i> Résoudre les problèmes opérationnels et prendre des décisions stratégiques.</p>
+                <p><i class="fas fa-chevron-right"></i> Collecter et analyser des données quantitatives et qualitatives.</p>
+                <p><i class="fas fa-chevron-right"></i> Élaborer des indicateurs de performance pour mesurer les résultats et l'impact des projets.
+                </p>
+                <p><i class="fas fa-chevron-right"></i> Mener des évaluations intermédiaires et finales pour assurer l'atteinte des objectifs.</p>
+                <p><i class="fas fa-chevron-right"></i> Rédiger des rapports d’évaluation détaillés pour les parties prenantes.</p>
+                
             </div>
             <div>
-                
-
-                
-                <p><i class="fas fa-chevron-right"></i> Préparer des rapports détaillés pour la hiérarchie et les parties prenantes.</p>
-                <p><i class="fas fa-chevron-right"></i> Favoriser une communication efficace entre les équipes et les structures partenaires.</p>
-                <p><i class="fas fa-chevron-right"></i> Animer des formations pour renforcer les capacités des équipes sous votre supervision.</p>
-            
-            </div>
+                <p><i class="fas fa-chevron-right"></i> Proposer des recommandations pour améliorer la mise en œuvre des projets en cours.</p>
+                <p><i class="fas fa-chevron-right"></i> Utiliser des outils numériques pour la collecte et l'analyse des données de S&E.</p>
+                <p><i class="fas fa-chevron-right"></i> Assurer la transparence et la redevabilité dans les projets suivis.</p>
         </div>
+
     </section>
 
     <!-- Programme de la Formation -->
     <section style="padding: 50px;">
         <h2 class="section-title">Programme de la Formation</h2>
-        <p> D'une masse totale horaire de <span class="section-info"> 560 heures</span>, le programme est structuré
+        <p> Le programme est structuré
             autour de modules progressifs permettant une approche globale et pratique de la gestion des réseaux sociaux.
         </p>
         <div class="columns">
- <!-- Column 1 -->
- <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>: Introduction au rôle de superviseur (40h)</p>
-            <ul>
-                
-            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Comprendre les missions et responsabilités du superviseur.</li>
-
-            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Les qualités d’un bon superviseur.</li>
-
-            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Rôles et relations hiérarchiques.</li>
-
-
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> :Gestion des équipes (80h)</p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Techniques de management et leadership.</li><br>
-
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion des conflits et médiation.</li><br>
-
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Motivation et évaluation des performances.</li><br>
-
-              
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> :Planification et organisation (70h)</p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Élaboration de plannings opérationnels.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion des priorités et optimisation des ressources</li>
-
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Mise en place de tableaux de bord pour le suivi des activités.</li>
-
-            </ul>
-
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span> :Techniques de supervision (100h)</p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Stratégies de supervision sur le terrain.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Utilisation des outils numériques pour le suivi des activités.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>   Mise en place de mécanismes d’audit interne.</li>
-            </ul>
-        </div>
-
-        <!-- Column 2 -->
-        <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> : Communication et relations interpersonnelles (60h)</p>
+            <!-- Column 1 -->
+            <div>
+                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Introduction au Suivi et à l’Évaluation</p>
                 <ul>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Techniques de communication assertive.</li>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Gestion des relations avec les parties prenantes internes et externes.</li>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>    Présentation et défense des rapports de supervision.</li>
+
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Concepts fondamentaux du suivi et de l’évaluation</li>
+
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Le rôle du suivi et de l’évaluation dans les projets</li>
+
+
+                    <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                            2</span> :  Conception d’un Système de Suivi et d’Évaluation</p>
+                    <ul>
+                        <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Élaboration d'un cadre logique (logframe)</li>
+
+                        <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Identification et définition des indicateurs de performance</li><br>
+
+                        <p class="module-title"><i class="fas fa-chevron-right"></i><span
+                                style="font-weight: 600">Module 3</span> : Collecte et Analyse des Données</p>
+                        <ul>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i>    Techniques de collecte de données qualitatives et quantitatives</li>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Analyse des données à l’aide d’outils (Excel, SPSS, etc.) </li>
+                            
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Utilisation des résultats pour la prise de décision</li>
+
+
+
+                        </ul>
+
+                        <p class="module-title"><i class="fas fa-chevron-right"></i><span
+                                style="font-weight: 600">Module 4</span> :Mener des Évaluations de Projets</p>
+                        <ul>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Types d’évaluations (intermédiaires, finales, impact)
+                            </li>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Rédaction de rapports d’évaluation et recommandations </li>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Utilisation des résultats de l’évaluation pour améliorer la gestion du projet </li>
+
+                        </ul>
+            </div>
+
+            <!-- Column 2 -->
+            <div>
+                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                        5</span> : Gestion de la Reddabilité et Transparence</p>
+                <ul>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Assurer la transparence dans les processus de suivi et d’évaluation</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Impliquer les parties prenantes dans le suivi et l’évaluation </li>
                 </ul>
-            </p>
+                </p>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 6</span> : Résolution de problèmes et prise de décision (60h) </p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Identification et analyse des problèmes.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Prise de décision basée sur des données concrètes</li>  
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Gestion des imprévus..</li>      
-            </ul>
+                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                        6</span> :Suivi et Évaluation dans les Projets de Développement</p>
+                <ul>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Suivi dans les projets sociaux, économiques et environnementaux</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Adaptation des outils S&E aux spécificités de chaque secteur</li>
+                </ul>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 7</span>:   Suivi et évaluation des performances (80h)</p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Élaboration des indicateurs clés de performance (KPI).</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Analyse et interprétation des résultats.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Préparation des rapports d’évaluation.</li>
+                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                        7</span>:  Outils de collecte de données en ligne (Google Forms, KoboToolbox, etc.)</p>
+                <ul>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Introduction à des plateformes d’analyse des données</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Rédaction de rapports d’impact</li>
+                </ul>
 
-            </ul>
-            
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 8</span>:   Projet Final (70h)</p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Élaboration et supervision d’un projet dans une zone réelle ou simulée.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Présentation et défense du projet devant un jury.</li>
-            </ul>
+                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                        8</span>: Projet Final</p>
+                <ul>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Conception et mise en place d’un système de suivi et d’évaluation pour un projet réel ou fictif</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Présentation et défense du projet final</li>
+
+                </ul>
             </div>
         </div>
     </section>
@@ -191,20 +193,24 @@
                         <div class="card-body">
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
-                                Superviseur de zone.
+                                Responsable Suivi et Évaluation
                                 </li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
-                                Responsable opérationnel.
+                                Consultant en Suivi et Évaluation
                                 </li> <br>
                                 <li><i class="fas fa-chevron-right"></i>
-                                Chargé de suivi et évaluation.
+                                Spécialiste en M&E (Monitoring and Evaluation)
                                 </li> <br>
                                 <li><i class="fas fa-chevron-right"></i>
-                                Manager d’équipes terrain.
+                                Coordinateur de Projets de Développement
                                 </li> <br>
-
-                                
+                                <li><i class="fas fa-chevron-right"></i>
+                                Expert en Reddabilité et Transparence
+                                </li> <br>
+                                <li><i class="fas fa-chevron-right"></i>
+                                Spécialiste en M&E (Monitoring and Evaluation)
+                                </li> <br>
                             </ul>
                         </div>
                     </div>
@@ -225,11 +231,12 @@
                         <div class="card-body">
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
-                                Avoir des compétences de base en organisation et en communication.</li> <br>
+                                    Bonne maîtrise de la communication écrite et orale.</li> <br>
                                 <li><i class="fas fa-chevron-right"></i>
-                                Expérience ou intérêt dans la gestion ou supervision d'équipes.</li> <br>
+                                    Intérêt pour le secteur associatif ou les organisations à but non lucratif..</li>
+                                <br>
                                 <li><i class="fas fa-chevron-right"></i>
-                                Motivation à travailler sur le terrain..</li> <br>
+                                    Aisance avec les outils numériques.</li> <br>
                             </ul>
                         </div>
                     </div>
@@ -251,13 +258,13 @@
                             <p> L'évaluation se fera tout au long de la formation à travers :</p>
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
-                                ontrôles continus (quiz, exercices).</li> <br>
+                                    ontrôles continus (quiz, exercices).</li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
-                                Évaluations pratiques sur le terrain ou en atelier.</li> <br>
+                                    Projets individuels et en groupe.</li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
-                                Soutenance du projet final.</li> <br>
+                                    Présentation et défense du projet final.</li> <br>
 
                             </ul>
                         </div>
@@ -279,7 +286,7 @@
                     </div>
                     <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#accordion">
                         <div class="card-body">
-                            <p> La formation se déroule sur une durée de <span style="font-weight: 700;"> 4  mois</span>
+                            <p> La formation se déroule sur une durée de <span style="font-weight: 700;"> 7 mois</span>
                                 pour permettre aux participants de concilier apprentissage et application pratique.</p>
                         </div>
                     </div>
@@ -301,29 +308,31 @@
                             <p>Notre méthode d'apprentissage combine théorie et pratique, s'articulant autour des
                                 éléments suivants :</p>
                             <ul>
-                            
+
                                 <li><i class="fas fa-chevron-right"></i>
-                                    <span style="font-weight: 600;">Cours interactifs</span> :Accédez à des modules
-                                    complets sur notre plateforme e-learning, incluant vidéos, études de cas et
-                                    exercices pratiques.
+                                    <span style="font-weight: 600;">Cours interactifs</span> : En présentiel ou en
+                                    ligne, combinant théorie et exercices.
                                 </li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
-                                        Ateliers pratiques 
-                                    </span> :Simulations de supervision et gestion de zone
+                                    Ateliers présentiels
+                                    </span> : Sessions de groupe pour approfondir les concepts et travailler sur des projets concrets.lés
                                 </li> <br>
-
+                               
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
                                         Mentorat personnalisé
-                                    </span> : Bénéficiez de l’accompagnement d’un formateur expert tout au long de votre parcours.
+                                    </span> :Accompagnement d’un expert en suivi et évaluation pour vous aider tout au long du parcours.
                                 </li>
+
                                 <br>
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
-                                    Immersion terrain 
-                                    </span> : Supervision d’une zone réelle en collaboration avec des partenaires.
+                                    Projet final
+                                    </span>   : Présentation d'un projet final devant un jury pour évaluer les compétences acquises.                                </li>
+
+
                         </div>
                     </div>
                 </div>
@@ -369,24 +378,42 @@
                                 nous vous proposons plusieurs options de paiement :</p>
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
-                                     Paiement en trois tranches de 70 000 FCFA.
-                                </li> <br>
-                                <li><i class="fas fa-chevron-right"></i>
-                                     Paiement journalier : 1000 FCFA après un acompte initial.
+                                    <span style="font-weight: 600;">
+                                        Paiement en trois fois
+                                    </span> :Versez un acompte de 100 000 FCFA à l'inscription, puis deux autres
+                                    tranches de 100 000 FCFA respectivement deux et cinq mois après le début de la
+                                    formation.
                                 </li>
                                 <br>
-                                <p style="font-weight: 600;">Le coût total de la formation s'élève à 200 000 FCFA et
+                                <li><i class="fas fa-chevron-right"></i>
+                                    <span style="font-weight: 600;">
+                                        Paiement flexible
+                                    </span> :Réglez la formation à votre rythme, en versant des sommes variables selon
+                                    vos disponibilités financières. Le montant total doit être acquitté dans un délai de
+                                    six mois.
+                                </li> <br>
+                                <li><i class="fas fa-chevron-right"></i>
+                                    <span style="font-weight: 600;">
+                                        Paiement journalier
+                                    </span> :Optez pour un paiement quotidien de 2000 FCFA ou 1000 FCFA via Momopay,
+                                    après avoir versé l'acompte initial.
+                                </li>
+                                <br>
+                                <p style="font-weight: 600;">Le coût total de la formation s'élève à 350 000 FCFA et
                                     inclut l'accès à tous les supports pédagogiques, le suivi personnalisé par un
                                     mentor, ainsi que la participation aux ateliers et événements organisés dans le
                                     cadre de la formation.</p>
+                                <p style="font-weight: 600;">Les outils  nécessaires  restent à la charge de l'apprenant.</p>
+
 
                             </ul>
 
                         </div>
                     </div>
                 </div>
-
             </div>
+
+        </div>
         </div>
     </section>
 

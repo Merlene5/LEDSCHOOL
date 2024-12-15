@@ -50,7 +50,7 @@
         <div class="Superpose"></div>
         <div class="container">
             <div class="full animate__animated animate__fadeInDown">
-                <h3>Superviseur de Zone</h3>
+                <h3> Animation Economique</h3>
             </div>
         </div>
     </section>
@@ -60,10 +60,13 @@
             <div class="row">
                 <div class="col-md-12">
                     <p style="font-size: 2rem; font-weight: 600;line-height: 1.6; text-align: center">
-                    Devenez un  expert superviseur de zone efficace </p>
+                        Devenez un expert animateur economique
+                    </p>
                 </div>
                 <div class="col-md-12 text-justify ">
-                    <p style="font-size:1rem " ;>Cette formation est destinée à ceux qui souhaitent exceller dans le rôle de supervision et de gestion d'activités dans des zones géographiques définies. Vous apprendrez à coordonner, superviser et optimiser les opérations, tout en assurant le suivi et l’atteinte des objectifs fixés.</p>
+                    <p style="font-size:1rem " ;>Cette formation vise à développer les compétences nécessaires pour
+                        stimuler l’économie locale et accompagner les communautés dans la création et la gestion
+                        d'activités économiques durables.</p>
                 </div>
             </div>
         </div>
@@ -75,99 +78,118 @@
 
         <div class="centered-columns">
             <div>
-                <p><i class="fas fa-chevron-right"></i>Coordonner les équipes sur le terrain pour atteindre les objectifs définis.</p>
-                <p><i class="fas fa-chevron-right"></i> Superviser les activités dans une zone géographique spécifique </p>
-                <p><i class="fas fa-chevron-right"></i> Planifier et organiser les tâches en fonction des priorités et des ressources disponibles. </p>
-                <p><i class="fas fa-chevron-right"></i> Assurer un suivi rigoureux des indicateurs de performance.</p>
-                <p><i class="fas fa-chevron-right"></i> Résoudre les problèmes opérationnels et prendre des décisions stratégiques.</p>
+                <p><i class="fas fa-chevron-right"></i> Comprendre les principes et les dynamiques de l'économie locale.
+                </p>
+                <p><i class="fas fa-chevron-right"></i> Élaborer et mettre en œuvre des stratégies de développement
+                    économique adaptées aux besoins des communautés.
+                </p>
+                <p><i class="fas fa-chevron-right"></i> Mobiliser et coordonner les acteurs locaux (entrepreneurs,
+                    coopératives, associations, etc.) pour créer des synergies économiques.</p>
+                <p><i class="fas fa-chevron-right"></i> Animer des ateliers de sensibilisation et de renforcement des
+                    capacités économiques.</p>
+
             </div>
             <div>
-                
-
-                
-                <p><i class="fas fa-chevron-right"></i> Préparer des rapports détaillés pour la hiérarchie et les parties prenantes.</p>
-                <p><i class="fas fa-chevron-right"></i> Favoriser une communication efficace entre les équipes et les structures partenaires.</p>
-                <p><i class="fas fa-chevron-right"></i> Animer des formations pour renforcer les capacités des équipes sous votre supervision.</p>
-            
+                <p><i class="fas fa-chevron-right"></i> Gérer des partenariats public-privé pour soutenir le
+                    développement économique.</p>
+                <p><i class="fas fa-chevron-right"></i> Identifier et valoriser les opportunités économiques locales.
+                </p>
+                <p><i class="fas fa-chevron-right"></i> Promouvoir l’entrepreneuriat et accompagner les projets
+                    innovants.</p>
+                <p><i class="fas fa-chevron-right"></i> Assurer le suivi et l’évaluation des initiatives économiques
+                    locales.</p>
             </div>
-        </div>
+
     </section>
 
     <!-- Programme de la Formation -->
     <section style="padding: 50px;">
         <h2 class="section-title">Programme de la Formation</h2>
-        <p> D'une masse totale horaire de <span class="section-info"> 560 heures</span>, le programme est structuré
+        <p> Le programme est structuré
             autour de modules progressifs permettant une approche globale et pratique de la gestion des réseaux sociaux.
         </p>
         <div class="columns">
- <!-- Column 1 -->
- <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>: Introduction au rôle de superviseur (40h)</p>
-            <ul>
-                
-            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Comprendre les missions et responsabilités du superviseur.</li>
-
-            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Les qualités d’un bon superviseur.</li>
-
-            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Rôles et relations hiérarchiques.</li>
-
-
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> :Gestion des équipes (80h)</p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Techniques de management et leadership.</li><br>
-
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion des conflits et médiation.</li><br>
-
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Motivation et évaluation des performances.</li><br>
-
-              
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> :Planification et organisation (70h)</p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Élaboration de plannings opérationnels.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion des priorités et optimisation des ressources</li>
-
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Mise en place de tableaux de bord pour le suivi des activités.</li>
-
-            </ul>
-
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span> :Techniques de supervision (100h)</p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Stratégies de supervision sur le terrain.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Utilisation des outils numériques pour le suivi des activités.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>   Mise en place de mécanismes d’audit interne.</li>
-            </ul>
-        </div>
-
-        <!-- Column 2 -->
-        <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> : Communication et relations interpersonnelles (60h)</p>
+            <!-- Column 1 -->
+            <div>
+                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1
+                    </span>: Introduction à l’Animation Économique</p>
                 <ul>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Techniques de communication assertive.</li>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Gestion des relations avec les parties prenantes internes et externes.</li>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>    Présentation et défense des rapports de supervision.</li>
+
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Concepts fondamentaux : économie
+                        locale, développement communautaire.</li>
+
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Acteurs et partenaires du
+                        développement économique.</li>
+
+
+                    <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                            2</span> : Diagnostic et Analyse Économique Locale</p>
+                    <ul>
+                        <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Réalisation d’un diagnostic
+                            participatif.</li>
+
+                        <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Cartographie des ressources
+                            économiques locales.</li><br>
+                        <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Identification des opportunités
+                            économiques.</li><br>
+
+
+                        <p class="module-title"><i class="fas fa-chevron-right"></i><span
+                                style="font-weight: 600">Module 3</span> : Promotion de l’Entrepreneuriat Local</p>
+                        <ul>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Techniques d'accompagnement
+                                entrepreneurial.</li>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Animation d’ateliers de
+                                formation pour les entrepreneurs. </li>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Stratégies de financement
+                                des projets économiques. </li>
+                        </ul>
+
+                        <p class="module-title"><i class="fas fa-chevron-right"></i><span
+                                style="font-weight: 600">Module 4</span> :Techniques d’Animation et de Mobilisation</p>
+                        <ul>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Types d’évaluations
+                                (intermédiaires, finales, impact)
+                            </li>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Rédaction de rapports
+                                d’évaluation et recommandations </li>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Utilisation des résultats de
+                                l’évaluation pour améliorer la gestion du projet </li>
+
+                        </ul>
+            </div>
+
+            <!-- Column 2 -->
+            <div>
+                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                        5</span> : Gestion de la Reddabilité et Transparence</p>
+                <ul>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Outils et méthodes d'animation
+                        participative.</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Techniques de mobilisation des
+                        communautés et des partenaires. </li>
                 </ul>
-            </p>
+                </p>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 6</span> : Résolution de problèmes et prise de décision (60h) </p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Identification et analyse des problèmes.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Prise de décision basée sur des données concrètes</li>  
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Gestion des imprévus..</li>      
-            </ul>
+                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                        6</span> :Gestion des Partenariats Public-Privé</p>
+                <ul>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Développement des partenariats pour
+                        soutenir les initiatives locales.</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Négociation et gestion des
+                        conventions avec les parties prenantes.</li>
+                </ul>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 7</span>:   Suivi et évaluation des performances (80h)</p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Élaboration des indicateurs clés de performance (KPI).</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Analyse et interprétation des résultats.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Préparation des rapports d’évaluation.</li>
+                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                        7</span>: Projet Final</p>
+                <ul>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Élaboration et mise en œuvre d’un
+                        plan de développement économique pour une communauté ou une région.</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Présentation et défense du projet
+                        devant un jury.</li>
+                </ul>
 
-            </ul>
-            
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 8</span>:   Projet Final (70h)</p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Élaboration et supervision d’un projet dans une zone réelle ou simulée.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Présentation et défense du projet devant un jury.</li>
-            </ul>
+
             </div>
         </div>
     </section>
@@ -191,20 +213,19 @@
                         <div class="card-body">
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
-                                Superviseur de zone.
+                                    Animateur économique.
                                 </li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
-                                Responsable opérationnel.
+                                    Chargé de développement local.
                                 </li> <br>
                                 <li><i class="fas fa-chevron-right"></i>
-                                Chargé de suivi et évaluation.
+                                    Conseiller en entrepreneuriat et innovation
                                 </li> <br>
                                 <li><i class="fas fa-chevron-right"></i>
-                                Manager d’équipes terrain.
+                                    Facilitateur de partenariats public-privé.
                                 </li> <br>
 
-                                
                             </ul>
                         </div>
                     </div>
@@ -223,13 +244,15 @@
                     </div>
                     <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#accordion">
                         <div class="card-body">
+
+                            .
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
-                                Avoir des compétences de base en organisation et en communication.</li> <br>
+                                    Posséder une forte motivation pour le développement local et l'entrepreneuriat
+                                    communautaire.</li> <br>
                                 <li><i class="fas fa-chevron-right"></i>
-                                Expérience ou intérêt dans la gestion ou supervision d'équipes.</li> <br>
-                                <li><i class="fas fa-chevron-right"></i>
-                                Motivation à travailler sur le terrain..</li> <br>
+                                    Être sensible aux enjeux économiques et sociaux des communautés localesli>
+                                    <br>
                             </ul>
                         </div>
                     </div>
@@ -251,13 +274,13 @@
                             <p> L'évaluation se fera tout au long de la formation à travers :</p>
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
-                                ontrôles continus (quiz, exercices).</li> <br>
+                                    ontrôles continus (quiz, exercices).</li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
-                                Évaluations pratiques sur le terrain ou en atelier.</li> <br>
+                                    Projets individuels et en groupe.</li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
-                                Soutenance du projet final.</li> <br>
+                                    Présentation et défense du projet final.</li> <br>
 
                             </ul>
                         </div>
@@ -279,7 +302,7 @@
                     </div>
                     <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#accordion">
                         <div class="card-body">
-                            <p> La formation se déroule sur une durée de <span style="font-weight: 700;"> 4  mois</span>
+                            <p> La formation se déroule sur une durée de <span style="font-weight: 700;"> 6 mois</span>
                                 pour permettre aux participants de concilier apprentissage et application pratique.</p>
                         </div>
                     </div>
@@ -301,29 +324,49 @@
                             <p>Notre méthode d'apprentissage combine théorie et pratique, s'articulant autour des
                                 éléments suivants :</p>
                             <ul>
-                            
+
                                 <li><i class="fas fa-chevron-right"></i>
-                                    <span style="font-weight: 600;">Cours interactifs</span> :Accédez à des modules
-                                    complets sur notre plateforme e-learning, incluant vidéos, études de cas et
-                                    exercices pratiques.
+                                    <span style="font-weight: 600;"> Études de cas réels </span> :
+                                    Analyse de projets économiques existants pour mieux comprendre les stratégies et les
+                                    défis de l'animation économique.
                                 </li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
-                                        Ateliers pratiques 
-                                    </span> :Simulations de supervision et gestion de zone
+                                        Ateliers pratiques
+                                    </span> :
+                                    Mise en situation dans des contextes locaux, avec la création de plans de
+                                    développement économique en groupe
                                 </li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
                                         Mentorat personnalisé
-                                    </span> : Bénéficiez de l’accompagnement d’un formateur expert tout au long de votre parcours.
+                                    </span> :
+                                    Chaque participant bénéficie d'un mentor dédié pour le guider dans la mise en œuvre
+                                    de ses idées et projets.
+
                                 </li>
+
                                 <br>
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
-                                    Immersion terrain 
-                                    </span> : Supervision d’une zone réelle en collaboration avec des partenaires.
+                                        Stages en milieu professionnel
+                                    </span> :
+                                    Immersion dans une communauté ou une structure locale pour participer à des
+                                    initiatives économiques réelles.
+                                </li> <br>
+                                <li><i class="fas fa-chevron-right"></i>
+                                    <span style="font-weight: 600;">
+                                        Projet final
+                                    </span>
+                                    :
+                                    Mise en application des acquis à travers un projet de développement économique
+                                    local, présenté devant un jury.
+                                </li>
+
+
+
                         </div>
                     </div>
                 </div>
@@ -369,24 +412,43 @@
                                 nous vous proposons plusieurs options de paiement :</p>
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
-                                     Paiement en trois tranches de 70 000 FCFA.
-                                </li> <br>
-                                <li><i class="fas fa-chevron-right"></i>
-                                     Paiement journalier : 1000 FCFA après un acompte initial.
+                                    <span style="font-weight: 600;">
+                                        Paiement en trois fois
+                                    </span> :Versez un acompte de 100 000 FCFA à l'inscription, puis deux autres
+                                    tranches de 100 000 FCFA respectivement deux et cinq mois après le début de la
+                                    formation.
                                 </li>
                                 <br>
-                                <p style="font-weight: 600;">Le coût total de la formation s'élève à 200 000 FCFA et
+                                <li><i class="fas fa-chevron-right"></i>
+                                    <span style="font-weight: 600;">
+                                        Paiement flexible
+                                    </span> :Réglez la formation à votre rythme, en versant des sommes variables selon
+                                    vos disponibilités financières. Le montant total doit être acquitté dans un délai de
+                                    six mois.
+                                </li> <br>
+                                <li><i class="fas fa-chevron-right"></i>
+                                    <span style="font-weight: 600;">
+                                        Paiement journalier
+                                    </span> :Optez pour un paiement quotidien de 2000 FCFA ou 1000 FCFA via Momopay,
+                                    après avoir versé l'acompte initial.
+                                </li>
+                                <br>
+                                <p style="font-weight: 600;">Le coût total de la formation s'élève à 350 000 FCFA et
                                     inclut l'accès à tous les supports pédagogiques, le suivi personnalisé par un
                                     mentor, ainsi que la participation aux ateliers et événements organisés dans le
                                     cadre de la formation.</p>
+                                <p style="font-weight: 600;">Les outils nécessaires restent à la charge de l'apprenant.
+                                </p>
+
 
                             </ul>
 
                         </div>
                     </div>
                 </div>
-
             </div>
+
+        </div>
         </div>
     </section>
 

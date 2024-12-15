@@ -63,7 +63,7 @@
                         Devenez un expert facilitateur communautaire efficace </p>
                 </div>
                 <div class="col-md-12 text-justify ">
-                    <p style="font-size:1rem " ;>Cette formation vous prépare à devenir un facilitateur communautaire efficace, capable de créer et de gérer des espaces de dialogue et de collaboration au sein de communautés diverses. Vous apprendrez à comprendre les besoins et les attentes des communautés, à créer des stratégies de facilitation efficaces et à gérer les conflits et les difficultés.</p>
+                    <p style="font-size:1rem " ;>Cette formation vous prépare à jouer un rôle clé dans le développement des communautés en tant que catalyseur de projets collectifs et de changements positifs. Vous apprendrez à mobiliser, former et accompagner les communautés dans l’identification et la réalisation de leurs objectifs.</p>
                 </div>
             </div>
         </div>
@@ -75,16 +75,18 @@
 
         <div class="centered-columns">
             <div>
-                <p><i class="fas fa-chevron-right"></i> Comprendre les principes fondamentaux de la facilitation communautaire</p>
-                <p><i class="fas fa-chevron-right"></i> Développer des compétences en gestion et en management de groupes </p>
-                <p><i class="fas fa-chevron-right"></i> Apprendre à créer des stratégies de facilitation efficaces </p>
-              
+                <p><i class="fas fa-chevron-right"></i> Mobiliser les membres d’une communauté autour d’un projet commun.</p>
+                <p><i class="fas fa-chevron-right"></i> Faciliter les discussions pour résoudre les conflits et renforcer la cohésion sociale. </p>
+                <p><i class="fas fa-chevron-right"></i> Identifier les besoins et priorités des communautés à travers des diagnostics participatifs. </p>
+                <p><i class="fas fa-chevron-right"></i> Former les membres de la communauté aux techniques de leadership et de gestion de projets.</p>
 
             </div>
             <div>
-                <p><i class="fas fa-chevron-right"></i> Maîtriser les techniques de communication et de résolution de conflits</p>
+                <p><i class="fas fa-chevron-right"></i> Élaborer et mettre en œuvre des plans d’actions communautaires </p>
+                <p><i class="fas fa-chevron-right"></i> Superviser et évaluer les projets communautaires. </p>
+                <p><i class="fas fa-chevron-right"></i> Animer des ateliers et des rencontres participatives. </p>
+                <p><i class="fas fa-chevron-right"></i> Travailler en collaboration avec les organisations locales et internationales pour obtenir des soutiens techniques et financiers. </p>
 
-                <p><i class="fas fa-chevron-right"></i> Comprendre les enjeux de la diversité et de l'inclusion dans les communautés </p>
             </div>
         </div>
     </section>
@@ -92,19 +94,21 @@
     <!-- Programme de la Formation -->
     <section style="padding: 50px;">
         <h2 class="section-title">Programme de la Formation</h2>
-        <p> D'une masse totale horaire de <span class="section-info"> 550 heures</span>, le programme est structuré
+        <p> D'une masse totale horaire de <span class="section-info"> 720 heures</span>, le programme est structuré
             autour de modules progressifs permettant une approche globale et pratique de la gestion des réseaux sociaux.
         </p>
         <div class="columns">
             <!-- Column 1 -->
         <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>: Introduction à la facilitation communautaire (100h)</p>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> : Comprendre les besoins et les attentes des communautés (150h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>: Introduction à la facilitation communautaire (50h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> : Communication et animation participative  (150h)</p>
           
               
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> : Créer des stratégies de facilitation efficaces(50h)</p>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span> : Gestion et management de groupes (50h)</p>
-
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> : Diagnostic participatif (100h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span> : Mobilisation communautaire et leadership (100h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> :Gestion de projets communautaires (150h)</p>
+                
+            </p>
             
         </div>
 
@@ -112,13 +116,14 @@
         <div>
           
            
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> :Techniques de communication et de résolution de conflits(100h)</p>
-                
-            </p>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 6</span> :  Diversité et inclusion dans les communautés (50h)</p>
+            
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 6</span> :  Collaboration avec les partenaires et institutions (80h)</p>
                 
         </p>
-        <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 7</span> :    Gestion des conflits et des difficultés (50h)</p>
+        <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 7</span> :  Outils numériques pour les facilitateurs (60h)</p>
+                
+        </p>
+    <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 7</span> :   Projet final (100h)</p>
                 
     </p>
         
@@ -146,13 +151,17 @@
                     </div>
                     <div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#accordion">
                         <div class="card-body">
+                      
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
                                 Facilitateur communautaire
                                 </li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
-                                Gestionnaire de projet communautaire
+                                Animateur de développement local.
+                                </li> <br>
+                                <li><i class="fas fa-chevron-right"></i>
+                                Médiateur social.
                                 </li> <br>
 
                                 
@@ -174,12 +183,21 @@
                     </div>
                     <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#accordion">
                         <div class="card-body">
+                        
+
 
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
-                                    Aucun de prérequis</li> <br>
+                                Intérêt pour le développement communautaire.
+                                </li> <br>
+                                <li><i class="fas fa-chevron-right"></i>
+                                Bonnes compétences relationnelles et en communication
+                                </li> <br>
+                                <li><i class="fas fa-chevron-right"></i>
+                                Motivation et capacité d’écoute active.
+                                </li> <br>
 
-                                <
+                                
 
                             </ul>
                         </div>
@@ -251,30 +269,29 @@
                         <div class="card-body">
                             <p>Notre méthode d'apprentissage combine théorie et pratique, s'articulant autour des
                                 éléments suivants :</p>
+                                
                             <ul>
                             
                                 <li><i class="fas fa-chevron-right"></i>
-                                    <span style="font-weight: 600;">Cours interactifs</span> :Accédez à des modules
-                                    complets sur notre plateforme e-learning, incluant vidéos, études de cas et
-                                    exercices pratiques.
+                                    <span style="font-weight: 600;">Cours interactifs</span> :Sessions théoriques en présentiel ou en ligne
                                 </li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
                                         Ateliers pratiques 
-                                    </span> :Élaboration de projets en groupe ou individuel.
+                                    </span> :Simulations, études de cas et travaux collaboratifs.
                                 </li> <br>
 
-                                <li><i class="fas fa-chevron-right"></i>
-                                    <span style="font-weight: 600;">
-                                        Mentorat personnalisé
-                                    </span> : Bénéficiez de l’accompagnement d’un formateur expert tout au long de votre parcours.
-                                </li>
                                 <br>
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
-                                        Stage professionnel
-                                    </span> Participation à des projets réels                                </li>
+                                        Stages
+                                    </span> : Immersion dans une communauté ou une organisation locale.                               </li>
+                                <br>
+                                <li><i class="fas fa-chevron-right"></i>
+                                    <span style="font-weight: 600;">
+                                     Événements 
+                                    </span> : Organisation de forums communautaires.</li>
                                 <br>
                         </div>
                     </div>

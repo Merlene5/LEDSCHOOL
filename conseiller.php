@@ -50,7 +50,7 @@
         <div class="Superpose"></div>
         <div class="container">
             <div class="full animate__animated animate__fadeInDown">
-                <h3>Superviseur de Zone</h3>
+                <h3> Conseiller d'Entreprise</h3>
             </div>
         </div>
     </section>
@@ -60,10 +60,10 @@
             <div class="row">
                 <div class="col-md-12">
                     <p style="font-size: 2rem; font-weight: 600;line-height: 1.6; text-align: center">
-                    Devenez un  expert superviseur de zone efficace </p>
+                        Devenez un conseiller d'entreprise efficace
                 </div>
                 <div class="col-md-12 text-justify ">
-                    <p style="font-size:1rem " ;>Cette formation est destinée à ceux qui souhaitent exceller dans le rôle de supervision et de gestion d'activités dans des zones géographiques définies. Vous apprendrez à coordonner, superviser et optimiser les opérations, tout en assurant le suivi et l’atteinte des objectifs fixés.</p>
+                    <p style="font-size:1rem " ;>Cette formation vous permettra de devenir uun expert en accompagnement des entreprises et en stratégie de développement pour les aider à atteindre leurs objectifs organisationnels, financiers et opérationnels .</p>
                 </div>
             </div>
         </div>
@@ -75,99 +75,88 @@
 
         <div class="centered-columns">
             <div>
-                <p><i class="fas fa-chevron-right"></i>Coordonner les équipes sur le terrain pour atteindre les objectifs définis.</p>
-                <p><i class="fas fa-chevron-right"></i> Superviser les activités dans une zone géographique spécifique </p>
-                <p><i class="fas fa-chevron-right"></i> Planifier et organiser les tâches en fonction des priorités et des ressources disponibles. </p>
-                <p><i class="fas fa-chevron-right"></i> Assurer un suivi rigoureux des indicateurs de performance.</p>
-                <p><i class="fas fa-chevron-right"></i> Résoudre les problèmes opérationnels et prendre des décisions stratégiques.</p>
+                <p><i class="fas fa-chevron-right"></i> Diagnostiquer les besoins et les enjeux des entreprises.
+                </p>
+                <p><i class="fas fa-chevron-right"></i> Proposer des solutions adaptées en termes de stratégie, finances, et organisation.</p>
+                <p><i class="fas fa-chevron-right"></i> Accompagner les entreprises dans la mise en œuvre de leurs plans d’action.</p>
+
             </div>
             <div>
-                
-
-                
-                <p><i class="fas fa-chevron-right"></i> Préparer des rapports détaillés pour la hiérarchie et les parties prenantes.</p>
-                <p><i class="fas fa-chevron-right"></i> Favoriser une communication efficace entre les équipes et les structures partenaires.</p>
-                <p><i class="fas fa-chevron-right"></i> Animer des formations pour renforcer les capacités des équipes sous votre supervision.</p>
-            
+                <p><i class="fas fa-chevron-right"></i> Conduire des négociations commerciales complexes avec succès.</p>
+                <p><i class="fas fa-chevron-right"></i> Superviser et optimiser les processus commerciaux
+                </p>
+                <p><i class="fas fa-chevron-right"></i> Utiliser des outils numériques et d’analyse pour piloter la performance commerciale.</p>
+                <p><i class="fas fa-chevron-right"></i> Réaliser des études de marché et adapter les stratégies en conséquence.</p>
             </div>
-        </div>
+
     </section>
 
     <!-- Programme de la Formation -->
     <section style="padding: 50px;">
         <h2 class="section-title">Programme de la Formation</h2>
-        <p> D'une masse totale horaire de <span class="section-info"> 560 heures</span>, le programme est structuré
+        <p> Le programme est structuré
             autour de modules progressifs permettant une approche globale et pratique de la gestion des réseaux sociaux.
         </p>
         <div class="columns">
- <!-- Column 1 -->
- <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>: Introduction au rôle de superviseur (40h)</p>
-            <ul>
-                
-            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Comprendre les missions et responsabilités du superviseur.</li>
-
-            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Les qualités d’un bon superviseur.</li>
-
-            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Rôles et relations hiérarchiques.</li>
-
-
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> :Gestion des équipes (80h)</p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Techniques de management et leadership.</li><br>
-
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion des conflits et médiation.</li><br>
-
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Motivation et évaluation des performances.</li><br>
-
-              
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> :Planification et organisation (70h)</p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Élaboration de plannings opérationnels.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion des priorités et optimisation des ressources</li>
-
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Mise en place de tableaux de bord pour le suivi des activités.</li>
-
-            </ul>
-
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span> :Techniques de supervision (100h)</p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Stratégies de supervision sur le terrain.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Utilisation des outils numériques pour le suivi des activités.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>   Mise en place de mécanismes d’audit interne.</li>
-            </ul>
-        </div>
-
-        <!-- Column 2 -->
-        <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> : Communication et relations interpersonnelles (60h)</p>
+            <!-- Column 1 -->
+            <div>
+                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1
+                    </span>: Diagnostic et Analyse de l’Entreprise</p>
                 <ul>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Techniques de communication assertive.</li>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Gestion des relations avec les parties prenantes internes et externes.</li>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>    Présentation et défense des rapports de supervision.</li>
+
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Étude des marchés et analyse des opportunités.</li>
+
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Évaluation des forces et faiblesses internes.</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion de la communication et de l’image de marque.</li>
+                        
+
+
+                    <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                            2</span> :Stratégies de Développement</p>
+                    <ul>
+                        <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Élaboration de business plans Techniques de gestion budgétaire.</li>
+
+                        <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Conception de stratégies marketing et commerciales.</li><br>
+                        <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion de la communication et de l’image de marque.</li><br>
+
+
+                        <p class="module-title"><i class="fas fa-chevron-right"></i><span
+                                style="font-weight: 600">Module 3</span> : Gestion Administrative et Financière</p>
+                        <ul>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Techniques de gestion budgétaire.</li>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion des flux de trésorerie et financement. </li>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Suivi et analyse des performances financières. </li>
+                        </ul>
+
+                        <p class="module-title"><i class="fas fa-chevron-right"></i><span
+                                style="font-weight: 600">Module 4</span> :Conseil en Ressources Humaines</p>
+                        <ul>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Recrutement et gestion des talents
+                            </li>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Formation et développement des compétences.</li>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Mise en place de politiques RH efficaces. </li>
+
+                        </ul>
+            </div>
+
+            <!-- Column 2 -->
+            <div>
+                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                        5</span> : Techniques de Conseil et Communication</p>
+                <ul>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion des relations client.</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Animation d’ateliers de travail et de coaching. </li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Proposition de solutions correctives.</li>
+
                 </ul>
-            </p>
+                </p>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 6</span> : Résolution de problèmes et prise de décision (60h) </p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Identification et analyse des problèmes.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Prise de décision basée sur des données concrètes</li>  
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Gestion des imprévus..</li>      
-            </ul>
+                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                        6</span> :Projet Final</p>
+                <ul>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Accompagnement réel d’une entreprise locale et défense d’un rapport devant un jury.e</li>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 7</span>:   Suivi et évaluation des performances (80h)</p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Élaboration des indicateurs clés de performance (KPI).</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Analyse et interprétation des résultats.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Préparation des rapports d’évaluation.</li>
-
-            </ul>
-            
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 8</span>:   Projet Final (70h)</p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Élaboration et supervision d’un projet dans une zone réelle ou simulée.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Présentation et défense du projet devant un jury.</li>
-            </ul>
+                </ul>
             </div>
         </div>
     </section>
@@ -191,20 +180,22 @@
                         <div class="card-body">
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
-                                Superviseur de zone.
+                                Conseiller d’entreprise.
                                 </li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
-                                Responsable opérationnel.
+                                Consultant en stratégie.
                                 </li> <br>
                                 <li><i class="fas fa-chevron-right"></i>
-                                Chargé de suivi et évaluation.
+                                Analyste d’affaires.
                                 </li> <br>
                                 <li><i class="fas fa-chevron-right"></i>
-                                Manager d’équipes terrain.
+                                Consultant en gestion.
+                                </li> <br>
+                                li><i class="fas fa-chevron-right"></i>
+                                Formateur en entrepreneuriat.
                                 </li> <br>
 
-                                
                             </ul>
                         </div>
                     </div>
@@ -223,13 +214,11 @@
                     </div>
                     <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#accordion">
                         <div class="card-body">
+
+                            .
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
-                                Avoir des compétences de base en organisation et en communication.</li> <br>
-                                <li><i class="fas fa-chevron-right"></i>
-                                Expérience ou intérêt dans la gestion ou supervision d'équipes.</li> <br>
-                                <li><i class="fas fa-chevron-right"></i>
-                                Motivation à travailler sur le terrain..</li> <br>
+                                Forte envie d’accompagner et de conseiller des entreprises dans leur développement</li> <br>
                             </ul>
                         </div>
                     </div>
@@ -251,13 +240,13 @@
                             <p> L'évaluation se fera tout au long de la formation à travers :</p>
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
-                                ontrôles continus (quiz, exercices).</li> <br>
+                                    contrôles continus (quiz, exercices).</li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
-                                Évaluations pratiques sur le terrain ou en atelier.</li> <br>
+                                    Projets individuels et en groupe.</li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
-                                Soutenance du projet final.</li> <br>
+                                    Présentation et défense du projet final.</li> <br>
 
                             </ul>
                         </div>
@@ -279,7 +268,7 @@
                     </div>
                     <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#accordion">
                         <div class="card-body">
-                            <p> La formation se déroule sur une durée de <span style="font-weight: 700;"> 4  mois</span>
+                            <p> La formation se déroule sur une durée de <span style="font-weight: 700;"> 6 mois</span>
                                 pour permettre aux participants de concilier apprentissage et application pratique.</p>
                         </div>
                     </div>
@@ -301,29 +290,42 @@
                             <p>Notre méthode d'apprentissage combine théorie et pratique, s'articulant autour des
                                 éléments suivants :</p>
                             <ul>
-                            
+
                                 <li><i class="fas fa-chevron-right"></i>
-                                    <span style="font-weight: 600;">Cours interactifs</span> :Accédez à des modules
-                                    complets sur notre plateforme e-learning, incluant vidéos, études de cas et
-                                    exercices pratiques.
+                                    <span style="font-weight: 600;">    Ateliers d'accompagnement </span> :
+                                  en situation réelle.
                                 </li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
-                                        Ateliers pratiques 
-                                    </span> :Simulations de supervision et gestion de zone
+                                        Simulation de négociationss
+                                    </span> : Mise en pratique des compétences en direct
                                 </li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
                                         Mentorat personnalisé
-                                    </span> : Bénéficiez de l’accompagnement d’un formateur expert tout au long de votre parcours.
-                                </li>
+                                    </span> :
+                                    Accompagnement par des professionnels du secteur
+
+                                </li>.
                                 <br>
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
-                                    Immersion terrain 
-                                    </span> : Supervision d’une zone réelle en collaboration avec des partenaires.
+                                    Stages pratiques
+                                    </span> :
+                                    en entreprise partenaire
+                                </li> <br>
+                                <li><i class="fas fa-chevron-right"></i>
+                                    <span style="font-weight: 600;">
+                                        Projet final
+                                    </span>
+                                    :
+                                 présenté devant un jury.
+                                </li>
+
+
+
                         </div>
                     </div>
                 </div>
@@ -369,24 +371,43 @@
                                 nous vous proposons plusieurs options de paiement :</p>
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
-                                     Paiement en trois tranches de 70 000 FCFA.
-                                </li> <br>
-                                <li><i class="fas fa-chevron-right"></i>
-                                     Paiement journalier : 1000 FCFA après un acompte initial.
+                                    <span style="font-weight: 600;">
+                                        Paiement en trois fois
+                                    </span> :Versez un acompte de 100 000 FCFA à l'inscription, puis deux autres
+                                    tranches de 100 000 FCFA respectivement deux et cinq mois après le début de la
+                                    formation.
                                 </li>
                                 <br>
-                                <p style="font-weight: 600;">Le coût total de la formation s'élève à 200 000 FCFA et
+                                <li><i class="fas fa-chevron-right"></i>
+                                    <span style="font-weight: 600;">
+                                        Paiement flexible
+                                    </span> :Réglez la formation à votre rythme, en versant des sommes variables selon
+                                    vos disponibilités financières. Le montant total doit être acquitté dans un délai de
+                                    six mois.
+                                </li> <br>
+                                <li><i class="fas fa-chevron-right"></i>
+                                    <span style="font-weight: 600;">
+                                        Paiement journalier
+                                    </span> :Optez pour un paiement quotidien de 2000 FCFA ou 1000 FCFA via Momopay,
+                                    après avoir versé l'acompte initial.
+                                </li>
+                                <br>
+                                <p style="font-weight: 600;">Le coût total de la formation s'élève à 450 000fcfa et
                                     inclut l'accès à tous les supports pédagogiques, le suivi personnalisé par un
                                     mentor, ainsi que la participation aux ateliers et événements organisés dans le
                                     cadre de la formation.</p>
+                                <p style="font-weight: 600;">Les outils nécessaires restent à la charge de l'apprenant.
+                                </p>
+
 
                             </ul>
 
                         </div>
                     </div>
                 </div>
-
             </div>
+
+        </div>
         </div>
     </section>
 

@@ -407,22 +407,17 @@
                 <div class="col-md-12">
                     <div class="tab_menu">
                         <ul>
-                            <li><a href="#"><span class="icon"><img src="images/i1.png"
-                                            alt="#" /></span><span>University Life</span></a></li>
-                            <li><a href="#"><span class="icon"><img src="images/i2.png"
-                                            alt="#" /></span><span>Graduation</span></a></li>
-                            <li><a href="#"><span class="icon"><img src="images/i3.png"
-                                            alt="#" /></span><span>Athletics</span></a></li>
-                            <li><a href="#"><span class="icon"><img src="images/i4.png"
-                                            alt="#" /></span><span>Social</span></a></li>
-                            <li><a href="#"><span class="icon"><img src="images/i5.png"
-                                            alt="#" /></span><span>Location</span></a></li>
-                            <li><a href="#"><span class="icon"><img src="images/i6.png" alt="#" /></span><span>Call
-                                        us</span></a></li>
-                            <li><a href="#"><span class="icon"><img src="images/i7.png"
-                                            alt="#" /></span><span>Email</span></a></li>
+                            <li><a href="#"><span class="icon"><i class="fas fa-lightbulb"></i></span><span>Innovation</span></a></li>
+                            <li><a href="#"><span class="icon"><i class="fas fa-user-tie"></i></span><span>Leadership</span></a></li>
+                            <li><a href="#"><span class="icon"><i class="fas fa-project-diagram"></i></span><span>Projets Réels</span></a></li>
+                            <li><a href="#"><span class="icon"><i class="fas fa-compass"></i></span><span>Coaching </span></a></li>
+                            <li><a href="#"><span class="icon"><i class="fas fa-handshake"></i></span><span>Mentorat</span></a></li>
+                            <li><a href="#"><span class="icon"><i class="fas fa-users"></i></span><span>Communauté</span></a></li>
+                            <li><a href="#"><span class="icon"><i class="fas fa-hands-helping"></i></span><span>Soft Skills</span></a></li>
                         </ul>
                     </div>
+                    
+                    
                 </div>
             </div>
         </div>
@@ -659,10 +654,15 @@
             </div> -->
 
             <!-- Bouton Suite -->
-            <div class="show-more text-center mt-3">
+            <!-- <div class="show-more text-center mt-3">
                 <a href="pedagogie.php" class=" decouvrir">
                     Détails plus <i class="fa fa-arrow-right" aria-hidden="true"></i>
                 </a>
+            </div> -->
+            <div class="show-more">
+            <a href="pedagogie.php" class="btn-decouvrir">
+            Découvrir <i class="fas fa-arrow-right"></i>
+             </a>
             </div>
 
 
@@ -777,42 +777,58 @@
                                 <div class="carousel-item active">
                                     <div class="row">
                                         <div style="display: flex; justify-content: space-between;">
-                                            <div class="full blog_img_popular">
-                                                <img class="img-responsive" src="images/img9.png" alt="#" />
+                                            <div>
+                                                <img  src="images/img9.png" alt="#"  width="500px" height="350 px"/>
                                             </div>
                                             <div class="text-justify" style="margin: 30px;">
-                                                <p> 09 octobre 2024</p>
-                                                <p>Pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                                                    culpa qui officia deserunt mollit anim id est laborum.Pariatur. <br>
-                                                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-                                                    officia deserunt mollit anim id est laborum</p>
-                                                    <div>
-                                                        <a href="#" class="styled-button">
-                                                            Lire la suite   <i class="fa fa-eye"></i> 
-                                                        </a>
-                                                    </div>
+                                                <p
+                                                    style="color:#0b1da5; font-family: cursive; font-size: 25px;font-weight: 600;">
+                                                    09 octobre 2024</p>
+                                                <h6 style="font-weight: bold; font-size: 20px;">Lancement de la nouvelle
+                                                    promotion du programme de formation en Community Management</h6>
+
+                                                <p>LED School a lancé une nouvelle promotion pour son programme <br> de
+                                                    formation
+                                                    en Community Management. Ce programme intensif, conçu pour les
+                                                    jeunes diplômés
+                                                    et professionnels en reconversion, propose une formation complète en
+                                                    création de contenu,
+                                                    gestion des communautés, et stratégie sur les réseaux sociaux. </p>
+                                                <div>
+                                                    <a href="#" class="styled-button">
+                                                        Lire la suite <i class="fa fa-eye"></i>
+                                                    </a>
+                                                </div>
                                             </div>
                                         </div>
-                                            
+
                                     </div>
                                 </div>
                                 <div class="carousel-item">
                                     <div class="row">
                                         <div style="display: flex; justify-content: space-between;">
-                                            <div class="full blog_img_popular">
-                                                <img class="img-responsive" src="images/img9.png" alt="#" />
+                                            <div>
+                                                <img  src="images/img9.png" alt="#"  width="500px" height="350 px"/>
                                             </div>
                                             <div class="text-justify" style="margin: 30px;">
-                                                <p> 09 octobre 2024</p>
-                                                <p>Pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                                                    culpa qui officia deserunt mollit anim id est laborum.Pariatur. <br>
-                                                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-                                                    officia deserunt mollit anim id est laborum</p>
-                                                    <div>
-                                                        <a href="#" class="styled-button">
-                                                            Lire la suite  <i class="fa fa-eye"></i>
-                                                        </a>
-                                                    </div>
+                                                <p
+                                                    style="color:#0b1da5; font-family: cursive; font-size: 25px;font-weight: 600;">
+                                                    09 octobre 2024</p>
+                                                <h6 style="font-weight: bold; font-size: 20px;">Lancement de la nouvelle
+                                                    promotion du programme de formation en Community Management</h6>
+
+                                                <p>LED School a lancé une nouvelle promotion pour son programme <br> de
+                                                    formation
+                                                    en Community Management. Ce programme intensif, conçu pour les
+                                                    jeunes diplômés
+                                                    et professionnels en reconversion, propose une formation complète en
+                                                    création de contenu,
+                                                    gestion des communautés, et stratégie sur les réseaux sociaux. </p>
+                                                <div>
+                                                    <a href="#" class="styled-button">
+                                                        Lire la suite <i class="fa fa-eye"></i>
+                                                    </a>
+                                                </div>
                                             </div>
                                         </div>
 
@@ -836,66 +852,52 @@
         </div>
         <!-- end section -->
         <!-- Section -->
-        <div class="section-bg py-5">
-            <div class="container">
-                <div class="heading_main text_align_center col-md-12">
-                    <h2><span>
-                            Résumé des rubriques
-                        </span></h2>
+        <div class="container mt-5">
+            <div class="heading_main text_align_center" style="padding-top: 30px;">
+                <h2><span>Résumé des autres rubriques</span></h2>
+            </div>
+            <!-- Icônes et descriptions -->
+            <div class="row mt-4">
+                <!-- Première ligne -->
+                <div class="col-md-4 icon-box">
+                    <div class="icon-circle">
+                        <i class="fas fa-handshake"></i>
+                    </div>
+                    <h5>Nous rencontrer</h5>
                 </div>
-                <div class="row text-center ">
-                    <!-- Nous rencontrer -->
-                    <div class="col-md-4">
-                        <div class="option-box p-4">
-                            <!-- <i class="fas fa-users"></i> -->
-                            <img src="images/rencontre-removebg-preview.png" alt="" height="100">
+                <div class="col-md-4 icon-box">
+                    <div class="icon-circle">
+                        <i class="fas fa-user-plus"></i>
+                    </div>
+                    <h5>S'inscrire</h5>
+                </div>
+                <div class="col-md-4 icon-box">
+                    <div class="icon-circle">
+                        <i class="fas fa-users"></i>
+                    </div>
+                    <h5>Services aux apprenants</h5>
+                </div>
+            </div>
 
-                            <h3>Nous rencontrer</h3>
-                        </div>
+            <div class="row">
+                <!-- Deuxième ligne -->
+                <div class="col-md-4 icon-box">
+                    <div class="icon-circle">
+                        <i class="fas fa-book"></i>
                     </div>
-                    <!-- S'inscrire -->
-                    <div class="col-md-4">
-
-                        <div class="option-box p-4">
-                            <!-- <i class="fas fa-edit"></i> -->
-                            <img src="images/inscription-removebg-preview.png" alt="" height="100">
-                            <h3>S'inscrire</h3>
-                        </div>
+                    <h5>Les formations</h5>
+                </div>
+                <div class="col-md-4 icon-box">
+                    <div class="icon-circle">
+                        <i class="fas fa-download"></i>
                     </div>
-                    <!-- Service aux apprenants -->
-                    <div class="col-md-4">
-                        <div class="option-box p-4">
-                            <!-- <i class="fas fa-chalkboard-teacher"></i> -->
-                            <img src="images/service-removebg-preview.png" alt="" height="100">
-
-                            <h3>Service aux apprenants</h3>
-                        </div>
+                    <h5>Télécharger la brochure</h5>
+                </div>
+                <div class="col-md-4 icon-box">
+                    <div class="icon-circle">
+                        <i class="fas fa-check-circle"></i>
                     </div>
-                    <!-- Les formations -->
-                    <div class="col-md-4">
-                        <div class="option-box p-4">
-                            <!-- <i class="fas fa-book"></i> -->
-                            <img src="images/formation-removebg-preview.png" alt="" height="100">
-
-                            <h3>Les formations</h3>
-                        </div>
-                    </div>
-                    <!-- Télécharger brochure -->
-                    <div class="col-md-4">
-                        <div class="option-box p-4">
-                            <!-- <i class="fas fa-download"></i> -->
-                            <img src="images/telechargement-removebg-preview.png" alt="" height="100">
-                            <h3>Télécharger brochure</h3>
-                        </div>
-                    </div>
-                    <!-- Admission -->
-                    <div class="col-md-4">
-                        <div class="option-box p-4">
-                            <!-- <i class="fas fa-door-open"></i> -->
-                            <img src="images/admission-removebg-preview.png" alt="" height="100">
-                            <h3>Admission</h3>
-                        </div>
-                    </div>
+                    <h5>Admission</h5>
                 </div>
             </div>
         </div>
@@ -963,7 +965,7 @@
         </div>
     </footer>
     <!-- End Footer -->
-<!-- 
+    <!-- 
     <div class="footer_bottom">
         <div class="container">
             <div class="row">

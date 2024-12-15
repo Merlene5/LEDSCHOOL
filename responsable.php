@@ -50,7 +50,7 @@
         <div class="Superpose"></div>
         <div class="container">
             <div class="full animate__animated animate__fadeInDown">
-                <h3>Superviseur de Zone</h3>
+                <h3> Responsable /Agent Commercial</h3>
             </div>
         </div>
     </section>
@@ -60,10 +60,16 @@
             <div class="row">
                 <div class="col-md-12">
                     <p style="font-size: 2rem; font-weight: 600;line-height: 1.6; text-align: center">
-                    Devenez un  expert superviseur de zone efficace </p>
+                        Devenez Responsable/Agent Commercial : Maîtrisez les Techniques de Vente et le Développement
+                        Commercial
                 </div>
                 <div class="col-md-12 text-justify ">
-                    <p style="font-size:1rem " ;>Cette formation est destinée à ceux qui souhaitent exceller dans le rôle de supervision et de gestion d'activités dans des zones géographiques définies. Vous apprendrez à coordonner, superviser et optimiser les opérations, tout en assurant le suivi et l’atteinte des objectifs fixés.</p>
+                    <p style="font-size:1rem " ;>Cette formation vous permettra d'acquérir les compétences essentielles
+                        pour réussir dans un rôle clé au sein des entreprises. Vous apprendrez à développer des
+                        stratégies commerciales efficaces, à prospecter et fidéliser les clients, et à atteindre des
+                        objectifs de vente ambitieux. En tant que Responsable/Agent Commercial, vous serez en mesure de
+                        contribuer activement à la croissance et au succès des entreprises grâce à votre maîtrise des
+                        techniques de vente, de négociation et de gestion des relations clients.</p>
                 </div>
             </div>
         </div>
@@ -75,99 +81,82 @@
 
         <div class="centered-columns">
             <div>
-                <p><i class="fas fa-chevron-right"></i>Coordonner les équipes sur le terrain pour atteindre les objectifs définis.</p>
-                <p><i class="fas fa-chevron-right"></i> Superviser les activités dans une zone géographique spécifique </p>
-                <p><i class="fas fa-chevron-right"></i> Planifier et organiser les tâches en fonction des priorités et des ressources disponibles. </p>
-                <p><i class="fas fa-chevron-right"></i> Assurer un suivi rigoureux des indicateurs de performance.</p>
-                <p><i class="fas fa-chevron-right"></i> Résoudre les problèmes opérationnels et prendre des décisions stratégiques.</p>
+                <p><i class="fas fa-chevron-right"></i> Élaborer et mettre en œuvre une stratégie commerciale adaptée
+                    aux besoins du marché.
+                </p>
+                <p><i class="fas fa-chevron-right"></i> Identifier des prospects et développer un portefeuille client.
+                </p>
+                <p><i class="fas fa-chevron-right"></i> Maîtriser les techniques de vente et de négociation pour
+                    conclure des contrats.</p>
+                <p><i class="fas fa-chevron-right"></i> Assurer un suivi efficace des clients et renforcer leur
+                    fidélité.</p>
             </div>
             <div>
-                
-
-                
-                <p><i class="fas fa-chevron-right"></i> Préparer des rapports détaillés pour la hiérarchie et les parties prenantes.</p>
-                <p><i class="fas fa-chevron-right"></i> Favoriser une communication efficace entre les équipes et les structures partenaires.</p>
-                <p><i class="fas fa-chevron-right"></i> Animer des formations pour renforcer les capacités des équipes sous votre supervision.</p>
-            
+                <p><i class="fas fa-chevron-right"></i> Analyser les performances commerciales et proposer des actions
+                    correctives.
+                <p><i class="fas fa-chevron-right"></i> Utiliser des outils numériques pour optimiser les processus de
+                    vente et la gestion client (CRM, plateformes de marketing, etc.).</p>
+                <p><i class="fas fa-chevron-right"></i> Collaborer avec les équipes marketing pour aligner les
+                    stratégies commerciales.</p>
             </div>
-        </div>
+
     </section>
 
     <!-- Programme de la Formation -->
     <section style="padding: 50px;">
         <h2 class="section-title">Programme de la Formation</h2>
-        <p> D'une masse totale horaire de <span class="section-info"> 560 heures</span>, le programme est structuré
-            autour de modules progressifs permettant une approche globale et pratique de la gestion des réseaux sociaux.
+        <p> Le programme est structuré
+            autour de modules progressifs permettant une approche globale et pratique 
         </p>
         <div class="columns">
- <!-- Column 1 -->
- <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>: Introduction au rôle de superviseur (40h)</p>
-            <ul>
-                
-            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Comprendre les missions et responsabilités du superviseur.</li>
-
-            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Les qualités d’un bon superviseur.</li>
-
-            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Rôles et relations hiérarchiques.</li>
-
-
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> :Gestion des équipes (80h)</p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Techniques de management et leadership.</li><br>
-
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion des conflits et médiation.</li><br>
-
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Motivation et évaluation des performances.</li><br>
-
-              
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> :Planification et organisation (70h)</p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Élaboration de plannings opérationnels.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion des priorités et optimisation des ressources</li>
-
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Mise en place de tableaux de bord pour le suivi des activités.</li>
-
-            </ul>
-
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span> :Techniques de supervision (100h)</p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Stratégies de supervision sur le terrain.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Utilisation des outils numériques pour le suivi des activités.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>   Mise en place de mécanismes d’audit interne.</li>
-            </ul>
-        </div>
-
-        <!-- Column 2 -->
-        <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> : Communication et relations interpersonnelles (60h)</p>
+            <!-- Column 1 -->
+            <div>
+                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1
+                    </span>: Introduction au métier d’Agent Commercial</p>
                 <ul>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Techniques de communication assertive.</li>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Gestion des relations avec les parties prenantes internes et externes.</li>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>    Présentation et défense des rapports de supervision.</li>
+
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Découverte du rôle, des
+                        responsabilités et des compétences clés.</li>
+                    <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                            2</span> :Techniques de Prospection et Gestion de Portefeuille</p>
+                    <ul>
+                        <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Stratégies pour identifier,
+                            approcher, et fidéliser des clients potentiels.
+
+                        </li>
+                        <p class="module-title"><i class="fas fa-chevron-right"></i><span
+                                style="font-weight: 600">Module 3</span> :  Techniques de Vente et Négociation</p>
+                        <ul>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Apprentissage des techniques de persuasion, gestion des objections et conclusion de ventes</li>
+                        </ul>
+
+                        <p class="module-title"><i class="fas fa-chevron-right"></i><span
+                                style="font-weight: 600">Module 4</span> : Analyse et Suivi des Performances Commerciales</p>
+                        <ul>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Apprentissage des KPIs, tableaux de bord, et reporting.                            </li>
+                        </ul>
+            </div>
+
+            <!-- Column 2 -->
+            <div>
+                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                        5</span> : Digitalisation du Processus Commercial</p>
+                <ul>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Utilisation des outils CRM et plateformes numériques pour améliorer la performance.</li>
                 </ul>
-            </p>
+                </p>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 6</span> : Résolution de problèmes et prise de décision (60h) </p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Identification et analyse des problèmes.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Prise de décision basée sur des données concrètes</li>  
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Gestion des imprévus..</li>      
-            </ul>
+                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                        6</span> : Communication Commerciale </p>
+                <ul>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Développement des compétences relationnelles pour interagir avec les clients et partenaires.</li>
+                </ul>
+                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                        7 </span> : Projet Final  </p>
+                <ul>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Élaboration et défense d’un plan de prospection ou d’une stratégie de développement commercial.</li>
+                </ul>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 7</span>:   Suivi et évaluation des performances (80h)</p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Élaboration des indicateurs clés de performance (KPI).</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Analyse et interprétation des résultats.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Préparation des rapports d’évaluation.</li>
-
-            </ul>
-            
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 8</span>:   Projet Final (70h)</p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Élaboration et supervision d’un projet dans une zone réelle ou simulée.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Présentation et défense du projet devant un jury.</li>
-            </ul>
             </div>
         </div>
     </section>
@@ -190,21 +179,25 @@
                     <div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#accordion">
                         <div class="card-body">
                             <ul>
+
+
                                 <li><i class="fas fa-chevron-right"></i>
-                                Superviseur de zone.
+                                    Responsable Commercial
                                 </li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
-                                Responsable opérationnel.
+                                    Agent Commercial
                                 </li> <br>
                                 <li><i class="fas fa-chevron-right"></i>
-                                Chargé de suivi et évaluation.
+                                    Conseiller en Vente
                                 </li> <br>
                                 <li><i class="fas fa-chevron-right"></i>
-                                Manager d’équipes terrain.
+                                    Développeur d'Affaires
+                                </li> <br>
+                               <li><i class="fas fa-chevron-right"></i>
+                                Responsable des Ventes
                                 </li> <br>
 
-                                
                             </ul>
                         </div>
                     </div>
@@ -225,11 +218,11 @@
                         <div class="card-body">
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
-                                Avoir des compétences de base en organisation et en communication.</li> <br>
-                                <li><i class="fas fa-chevron-right"></i>
-                                Expérience ou intérêt dans la gestion ou supervision d'équipes.</li> <br>
-                                <li><i class="fas fa-chevron-right"></i>
-                                Motivation à travailler sur le terrain..</li> <br>
+                                    Esprit de persuasion et aptitude à la communication.</li> <br>
+                                    <li><i class="fas fa-chevron-right"></i>
+                                        Motivation et goût pour les relations humaines.</li> <br>
+                                        <li><i class="fas fa-chevron-right"></i>
+                                            Sens de l’organisation et de la négociation.</li> <br>
                             </ul>
                         </div>
                     </div>
@@ -251,13 +244,13 @@
                             <p> L'évaluation se fera tout au long de la formation à travers :</p>
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
-                                ontrôles continus (quiz, exercices).</li> <br>
+                                    contrôles continus (quiz, exercices).</li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
-                                Évaluations pratiques sur le terrain ou en atelier.</li> <br>
+                                    Projets individuels et en groupe.</li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
-                                Soutenance du projet final.</li> <br>
+                                    Présentation et défense du projet final.</li> <br>
 
                             </ul>
                         </div>
@@ -279,7 +272,7 @@
                     </div>
                     <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#accordion">
                         <div class="card-body">
-                            <p> La formation se déroule sur une durée de <span style="font-weight: 700;"> 4  mois</span>
+                            <p> La formation se déroule sur une durée de <span style="font-weight: 700;"> 6 mois</span>
                                 pour permettre aux participants de concilier apprentissage et application pratique.</p>
                         </div>
                     </div>
@@ -301,29 +294,32 @@
                             <p>Notre méthode d'apprentissage combine théorie et pratique, s'articulant autour des
                                 éléments suivants :</p>
                             <ul>
-                            
+
                                 <li><i class="fas fa-chevron-right"></i>
-                                    <span style="font-weight: 600;">Cours interactifs</span> :Accédez à des modules
-                                    complets sur notre plateforme e-learning, incluant vidéos, études de cas et
-                                    exercices pratiques.
+                                    <span style="font-weight: 600;"> Cours interactifs </span> : Apprentissage en ligne
+                                    et en présentiel.
                                 </li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
-                                        Ateliers pratiques 
-                                    </span> :Simulations de supervision et gestion de zone
+                                        Ateliers pratiques
+                                    </span> : Simulation de projets réels.
                                 </li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
                                         Mentorat personnalisé
-                                    </span> : Bénéficiez de l’accompagnement d’un formateur expert tout au long de votre parcours.
-                                </li>
+                                    </span> :
+                                    Accompagnement personnalisé tout au long de la formation.
+
+                                </li>.
                                 <br>
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
-                                    Immersion terrain 
-                                    </span> : Supervision d’une zone réelle en collaboration avec des partenaires.
+                                        Hackathons et challenges
+                                    </span> :
+                                    Participation à des événements pour mettre les acquis en pratique.
+                                </li> <br>
                         </div>
                     </div>
                 </div>
@@ -369,24 +365,43 @@
                                 nous vous proposons plusieurs options de paiement :</p>
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
-                                     Paiement en trois tranches de 70 000 FCFA.
-                                </li> <br>
-                                <li><i class="fas fa-chevron-right"></i>
-                                     Paiement journalier : 1000 FCFA après un acompte initial.
+                                    <span style="font-weight: 600;">
+                                        Paiement en trois fois
+                                    </span> :Versez un acompte de 100 000 FCFA à l'inscription, puis deux autres
+                                    tranches de 100 000 FCFA respectivement deux et cinq mois après le début de la
+                                    formation.
                                 </li>
                                 <br>
-                                <p style="font-weight: 600;">Le coût total de la formation s'élève à 200 000 FCFA et
+                                <li><i class="fas fa-chevron-right"></i>
+                                    <span style="font-weight: 600;">
+                                        Paiement flexible
+                                    </span> :Réglez la formation à votre rythme, en versant des sommes variables selon
+                                    vos disponibilités financières. Le montant total doit être acquitté dans un délai de
+                                    six mois.
+                                </li> <br>
+                                <li><i class="fas fa-chevron-right"></i>
+                                    <span style="font-weight: 600;">
+                                        Paiement journalier
+                                    </span> :Optez pour un paiement quotidien de 2000 FCFA ou 1000 FCFA via Momopay,
+                                    après avoir versé l'acompte initial.
+                                </li>
+                                <br>
+                                <p style="font-weight: 600;">Le coût total de la formation s'élève à 350 000fcfa et
                                     inclut l'accès à tous les supports pédagogiques, le suivi personnalisé par un
                                     mentor, ainsi que la participation aux ateliers et événements organisés dans le
                                     cadre de la formation.</p>
+                                <p style="font-weight: 600;">Les outils nécessaires restent à la charge de l'apprenant.
+                                </p>
+
 
                             </ul>
 
                         </div>
                     </div>
                 </div>
-
             </div>
+
+        </div>
         </div>
     </section>
 

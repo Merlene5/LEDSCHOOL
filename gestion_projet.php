@@ -50,7 +50,7 @@
         <div class="Superpose"></div>
         <div class="container">
             <div class="full animate__animated animate__fadeInDown">
-                <h3>Superviseur de Zone</h3>
+                <h3>Gestion de Projet</h3>
             </div>
         </div>
     </section>
@@ -60,10 +60,11 @@
             <div class="row">
                 <div class="col-md-12">
                     <p style="font-size: 2rem; font-weight: 600;line-height: 1.6; text-align: center">
-                    Devenez un  expert superviseur de zone efficace </p>
+                        Maîtrisez  la Gestion et Pilotage de Projets Innovants
+                    </p>
                 </div>
                 <div class="col-md-12 text-justify ">
-                    <p style="font-size:1rem " ;>Cette formation est destinée à ceux qui souhaitent exceller dans le rôle de supervision et de gestion d'activités dans des zones géographiques définies. Vous apprendrez à coordonner, superviser et optimiser les opérations, tout en assurant le suivi et l’atteinte des objectifs fixés.</p>
+                    <p style="font-size:1rem " ;>Cette formation est conçue pour ceux qui souhaitent maîtriser la gestion de projets, de la planification à l’évaluation finale. Elle vous permettra d'acquérir des compétences pratiques pour gérer efficacement des projets dans divers domaines, en tenant compte des contraintes de temps, de ressources et de qualité.</p>
                 </div>
             </div>
         </div>
@@ -74,45 +75,42 @@
         <p>A l'issue de la formation vous serez capable de : </p>
 
         <div class="centered-columns">
-            <div>
-                <p><i class="fas fa-chevron-right"></i>Coordonner les équipes sur le terrain pour atteindre les objectifs définis.</p>
-                <p><i class="fas fa-chevron-right"></i> Superviser les activités dans une zone géographique spécifique </p>
-                <p><i class="fas fa-chevron-right"></i> Planifier et organiser les tâches en fonction des priorités et des ressources disponibles. </p>
-                <p><i class="fas fa-chevron-right"></i> Assurer un suivi rigoureux des indicateurs de performance.</p>
-                <p><i class="fas fa-chevron-right"></i> Résoudre les problèmes opérationnels et prendre des décisions stratégiques.</p>
-            </div>
-            <div>
-                
+    <div>
+        <p><i class="fas fa-chevron-right"></i> Planifier et organiser un projet de manière structurée et stratégique.</p>
+        <p><i class="fas fa-chevron-right"></i> Identifier et mobiliser les ressources nécessaires à la réalisation du projet.</p>
+        <p><i class="fas fa-chevron-right"></i> Gérer les risques et les imprévus tout en respectant les délais et le budget.</p>
+        <p><i class="fas fa-chevron-right"></i> Superviser les équipes et les activités liées au projet.</p>
+    </div>
+    <div>
+        <p><i class="fas fa-chevron-right"></i> Utiliser des outils de gestion de projet tels que Gantt, Kanban, ou Trello.</p>
+        <p><i class="fas fa-chevron-right"></i> Effectuer un suivi rigoureux et évaluer l’impact du projet.</p>
+        <p><i class="fas fa-chevron-right"></i> Rédiger des rapports de progression et des évaluations finales.</p>
+        <p><i class="fas fa-chevron-right"></i> Présenter et défendre vos projets devant des parties prenantes.</p>
+    </div>
+</div>
 
-                
-                <p><i class="fas fa-chevron-right"></i> Préparer des rapports détaillés pour la hiérarchie et les parties prenantes.</p>
-                <p><i class="fas fa-chevron-right"></i> Favoriser une communication efficace entre les équipes et les structures partenaires.</p>
-                <p><i class="fas fa-chevron-right"></i> Animer des formations pour renforcer les capacités des équipes sous votre supervision.</p>
-            
-            </div>
-        </div>
     </section>
 
     <!-- Programme de la Formation -->
     <section style="padding: 50px;">
         <h2 class="section-title">Programme de la Formation</h2>
-        <p> D'une masse totale horaire de <span class="section-info"> 560 heures</span>, le programme est structuré
+        <p> D'une masse totale horaire de <span class="section-info"> 550 heures</span>, le programme est structuré
             autour de modules progressifs permettant une approche globale et pratique de la gestion des réseaux sociaux.
         </p>
         <div class="columns">
  <!-- Column 1 -->
  <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>: Introduction au rôle de superviseur (40h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>:  Introduction à la gestion de projet (40h)</p>
             <ul>
                 
-            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Comprendre les missions et responsabilités du superviseur.</li>
+            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Définition et concepts clés.</li>
 
-            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Les qualités d’un bon superviseur.</li>
+            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Cycle de vie d’un projet.</li>
 
-            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Rôles et relations hiérarchiques.</li>
+            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Rôles et responsabilités du chef de projet.</li>
 
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> :Gestion des équipes (80h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> : Planification stratégique (80h)</p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Techniques de management et leadership.</li><br>
 
@@ -121,52 +119,52 @@
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Motivation et évaluation des performances.</li><br>
 
               
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> :Planification et organisation (70h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> :Gestion des ressources et des parties prenantes (70h)</p>
             <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Élaboration de plannings opérationnels.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion des priorités et optimisation des ressources</li>
+                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Cartographie des parties prenantes </li>
+                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Mobilisation et gestion des équipes.</li>
 
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Mise en place de tableaux de bord pour le suivi des activités.</li>
+                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion des ressources matérielles et financières.</li>
 
             </ul>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span> :Techniques de supervision (100h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span> :Gestion des risques (60h)</p>
             <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Stratégies de supervision sur le terrain.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Utilisation des outils numériques pour le suivi des activités.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>   Mise en place de mécanismes d’audit interne.</li>
+                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Identification des risques.</li>
+                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Analyse et priorisation des risques.</li>
+                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>  Mise en place de plans de contingence</li>
             </ul>
         </div>
 
         <!-- Column 2 -->
         <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> : Communication et relations interpersonnelles (60h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> : Outils de gestion de projet (80h)</p>
                 <ul>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Techniques de communication assertive.</li>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Gestion des relations avec les parties prenantes internes et externes.</li>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>    Présentation et défense des rapports de supervision.</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Utilisation de logiciels de gestion de projet (Trello, Microsoft Project, etc.).</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Création et suivi des diagrammes de Gantt et tableaux Kanban.</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>    Reporting et mise à jour des outils de suivi.</li>
                 </ul>
             </p>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 6</span> : Résolution de problèmes et prise de décision (60h) </p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 6</span> : Suivi et évaluation (70h)</p>
             <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Identification et analyse des problèmes.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Prise de décision basée sur des données concrètes</li>  
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Gestion des imprévus..</li>      
+                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Élaboration des indicateurs de performance.</li>
+                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Collecte et analyse des données.</li>  
+                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Techniques d’évaluation finale.</li>      
             </ul>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 7</span>:   Suivi et évaluation des performances (80h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 7</span>:   Communication et gestion d’équipe (60h)</p>
             <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Élaboration des indicateurs clés de performance (KPI).</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Analyse et interprétation des résultats.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Préparation des rapports d’évaluation.</li>
+                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Techniques de communication interne et externe.</li>
+                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Motivation et leadership.</li>
+                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Résolution des conflits en milieu de projet.</li>
 
             </ul>
             
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 8</span>:   Projet Final (70h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 8</span>:  Projet Final (90h)</p>
             <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Élaboration et supervision d’un projet dans une zone réelle ou simulée.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Présentation et défense du projet devant un jury.</li>
+                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Réalisation d’un projet complet (de la planification à l’évaluation).</li>
+                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Soutenance du projet devant un jury.</li>
             </ul>
             </div>
         </div>
@@ -189,19 +187,20 @@
                     </div>
                     <div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#accordion">
                         <div class="card-body">
+                       
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
-                                Superviseur de zone.
+                                Chef de projet.
                                 </li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
-                                Responsable opérationnel.
+                                Coordinateur de projet.
                                 </li> <br>
                                 <li><i class="fas fa-chevron-right"></i>
-                                Chargé de suivi et évaluation.
+                                Responsable de programme.
                                 </li> <br>
                                 <li><i class="fas fa-chevron-right"></i>
-                                Manager d’équipes terrain.
+                                Consultant en gestion de projets.
                                 </li> <br>
 
                                 
@@ -225,11 +224,11 @@
                         <div class="card-body">
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
-                                Avoir des compétences de base en organisation et en communication.</li> <br>
+                                Avoir une bonne maîtrise des outils bureautiques.</li> <br>
                                 <li><i class="fas fa-chevron-right"></i>
-                                Expérience ou intérêt dans la gestion ou supervision d'équipes.</li> <br>
+                                Avoir des aptitudes en organisation et en communication..</li> <br>
                                 <li><i class="fas fa-chevron-right"></i>
-                                Motivation à travailler sur le terrain..</li> <br>
+                                Motivation et intérêt pour la gestion de projets.</li> <br>
                             </ul>
                         </div>
                     </div>
@@ -254,10 +253,10 @@
                                 ontrôles continus (quiz, exercices).</li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
-                                Évaluations pratiques sur le terrain ou en atelier.</li> <br>
+                                Projets individuels et en groupe.</li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
-                                Soutenance du projet final.</li> <br>
+                                Présentation et défense du projet final.</li> <br>
 
                             </ul>
                         </div>
@@ -279,7 +278,7 @@
                     </div>
                     <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#accordion">
                         <div class="card-body">
-                            <p> La formation se déroule sur une durée de <span style="font-weight: 700;"> 4  mois</span>
+                            <p> La formation se déroule sur une durée de <span style="font-weight: 700;"> 5 mois</span>
                                 pour permettre aux participants de concilier apprentissage et application pratique.</p>
                         </div>
                     </div>
@@ -303,27 +302,31 @@
                             <ul>
                             
                                 <li><i class="fas fa-chevron-right"></i>
-                                    <span style="font-weight: 600;">Cours interactifs</span> :Accédez à des modules
-                                    complets sur notre plateforme e-learning, incluant vidéos, études de cas et
-                                    exercices pratiques.
+                                    <span style="font-weight: 600;">Cours interactifs</span> : En présentiel ou en ligne, combinant théorie et exercices.
                                 </li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
                                         Ateliers pratiques 
-                                    </span> :Simulations de supervision et gestion de zone
+                                    </span> : Application des concepts sur des projets réels ou simulés
                                 </li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
                                         Mentorat personnalisé
-                                    </span> : Bénéficiez de l’accompagnement d’un formateur expert tout au long de votre parcours.
+                                    </span>  : Suivi par des formateurs expérimentés.rs.
                                 </li>
                                 <br>
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
-                                    Immersion terrain 
-                                    </span> : Supervision d’une zone réelle en collaboration avec des partenaires.
+                                    Immersion professionnelle
+                                    </span>  : Réalisation d’un projet en partenariat avec une organisation.
+                                </li>
+                                <li><i class="fas fa-chevron-right"></i>
+                                    <span style="font-weight: 600;">
+                                    Feedback continu 
+                                    </span> : Amélioration grâce aux retours personnalisés.
+                                </li>
                         </div>
                     </div>
                 </div>
@@ -369,16 +372,18 @@
                                 nous vous proposons plusieurs options de paiement :</p>
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
-                                     Paiement en trois tranches de 70 000 FCFA.
+                                Paiement en trois tranches de 85 000 FCFA.
                                 </li> <br>
                                 <li><i class="fas fa-chevron-right"></i>
-                                     Paiement journalier : 1000 FCFA après un acompte initial.
+                                Paiement journalier : 1200 FCFA après un acompte initial.
                                 </li>
                                 <br>
-                                <p style="font-weight: 600;">Le coût total de la formation s'élève à 200 000 FCFA et
+                                <p style="font-weight: 600;">Le coût total de la formation s'élève à 250 000 FCFA et
                                     inclut l'accès à tous les supports pédagogiques, le suivi personnalisé par un
                                     mentor, ainsi que la participation aux ateliers et événements organisés dans le
                                     cadre de la formation.</p>
+                                    <p style="font-weight: 600;">Les outils  nécessaires restent à la charge de l'apprenant.</p>
+
 
                             </ul>
 
