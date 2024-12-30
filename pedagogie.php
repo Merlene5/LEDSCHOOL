@@ -47,12 +47,11 @@
       .section-title {
         color: #0b1da5;
         font-size: 1.9rem;
-        margin-bottom: 15px;
-        font-weight: 600;
+        margin-bottom: 10px;
+        font-weight: 500;
         position: relative;
       }
-     
-  
+    
       .text-muted {
         font-size: 1.1rem;
         color:black;
@@ -64,18 +63,6 @@
           object-fit: cover; /* Garde le ratio et recadre si nécessaire */
           border-radius: 10px; /* Coins arrondis pour un look agréable */
       }
-
-      /* Image Styling */
-      /* img {
-        object-fit: cover;
-        border-radius: 8px;
-        transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
-      } */
-      img:hover {
-        transform: scale(1.05);
-        box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
-      }
-  
       /* Row Styling */
       .row {
         margin-bottom: 50px;
