@@ -27,7 +27,7 @@
 
                 <!-- Bloc 2 -->
                 <div class="col-md-4">
-                    <a href="dossier\Fichier CM2.pdf" download class="hover-block">
+                    <a href="dossier\Document.pdf" download class="hover-block">
                         <div style="display: flex;">
                             <div class="service-item">
                                 <i class="fas fa-file-alt"></i>
