@@ -1,9 +1,9 @@
 <?php
 // Connexion à la base de données
-$host = 'localhost'; // Adresse du serveur MySQL
-$dbname = 'ledschool'; // Nom de la base de données
-$user = 'root'; // Nom d'utilisateur MySQL
-$pass = ''; // Mot de passe MySQL
+$host = '127.0.0.1'; // Adresse du serveur MySQL
+$dbname = 'u924654367_led'; // Nom de la base de données
+$user = 'u924654367_led'; // Nom d'utilisateur MySQL
+$pass = 'McJ[|Kw6a+5'; // Mot de passe MySQL
 
 try {
     // Création de la connexion PDO
