@@ -22,8 +22,8 @@
                         <ul>
                             <li><a href="index.php">>  Accueil</a></li>
                             <li><a href="presentation.php">> Presentation</a></li>
-                            <li><a href="#">> Admission</a></li>
-                            <li><a href="#">> Pedagogie</a></li>
+                            <li><a href="admission.php">> Admission</a></li>
+                            <li><a href="pedagogie.php">> Pedagogie</a></li>
                             
                         </ul>
                     </div>
