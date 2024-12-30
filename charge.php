@@ -95,28 +95,28 @@
    <!-- Programme de la Formation -->
 <section style="padding: 50px;">
     <h2 class="section-title">Programme de la Formation</h2>
-    <p> D'une masse totale horaire de <span class="section-info"> 1200 heures</span>, le programme est structuré autour de modules progressifs permettant une approche globale et pratique de la gestion des réseaux sociaux.</p><div class="columns">
+    <p> Le programme est structuré autour de modules progressifs permettant une approche globale et pratique :</p><div class="columns">
         <!-- Column 1 -->
         <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>: Introduction au Marketing Digital (100h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>: Introduction au Marketing Digital </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Fondamentaux du marketing digital</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Compréhension de l'écosystème numérique</li>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> : Stratégies de Communication Digitale (150h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> : Stratégies de Communication Digitale </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Élaboration de stratégies de communication adaptées aux différents médias</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Conception de plans de communication omnicanaux</li>
 
               
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> : Création de Contenus (200h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> : Création de Contenus </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Techniques de rédaction web et storytelling</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Création de visuels et de vidéos à l'aide de logiciels comme Adobe Creative Suite</li>
 
             </ul>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span>: Réseaux Sociaux et Community Management (150h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span>: Réseaux Sociaux et Community Management </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Création de contenu visuel : Gestion de comptes et création de contenu sur les réseaux sociaux</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Stratégies d'engagement et d'interaction avec la communauté</li>
@@ -125,7 +125,7 @@
 
         <!-- Column 2 -->
         <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> : Publicité en Ligne et SEO/SEM (200h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> : Publicité en Ligne et SEO/SEM </p>
                 <ul>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Conception et gestion de campagnes publicitaires payantes (Google Ads, Facebook Ads).</li>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Optimisation pour les moteurs de recherche (SEO) et marketing par moteur de recherche (SE)</li>
@@ -133,19 +133,19 @@
                 </ul>
             </p>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600"> Module 6</span>: Analyse de Données et Outils de Performance (150h) </p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600"> Module 6</span>: Analyse de Données et Outils de Performance  </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Utilisation de Google Analytics, outils de veille et de reporting</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>    Analyse des résultats et optimisation des campagnes</li>             
             </ul>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 7</span>: Gestion de Crise et Communication de Marque (100h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 7</span>: Gestion de Crise et Communication de Marque </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Techniques de gestion de crise digitale</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>  Stratégies pour la protection et la gestion de l'image de marque</li>
 
             </ul>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 8</span> Projet Final (150h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 8</span> Projet Final </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>    Réalisation et présentation d'une campagne complète de communication et marketing digital</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>  Évaluation et feedback par des experts du domaine</li>
@@ -397,71 +397,12 @@
             </div>
         </div>
     </section>
-
-
-    <section>
-    <div class="container" style="margin: 110px;">
-        <div class="row">
-            <!-- Bloc 1 -->
-            <div class="col-md-4">
-                <a href="formulaire_inscription.php" class="hover-block">
-                    <div style="display: flex;">
-                        <div class="service-item">
-                            <i class="fas fa-user-plus"></i>
-                        </div>
-                        <div style="padding: 10px;">
-                            <span style="font-weight: 900; font-size: 20px;">Candidature</span> <br>
-                            <span>Inscrivez-vous dès maintenant</span>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            
-            <!-- Bloc 2 -->
-            <div class="col-md-4">
-    <a href="dossier\Fichier CM2.pdf" download class="hover-block">
-        <div style="display: flex;">
-            <div class="service-item">
-                <i class="fas fa-file-alt"></i>
-            </div>
-            <div style="padding: 10px;">
-                <span style="font-weight: 900; font-size: 20px;">Documentation</span> <br>
-                <span>Obtenir une documentation</span>
-            </div>
-        </div>
-    </a>
-</div>
-     <!-- Bloc 3 -->
-     <div class="col-md-4">
-                <a href="contact.php" class="hover-block">
-                    <div style="display: flex;">
-                        <div class="service-item">
-                            <i class="fas fa-question-circle"></i>
-                        </div>
-                        <div style="padding: 10px;">
-                            <span style="font-weight: 900; font-size: 20px;">Contact</span> <br>
-                            <span>Posez-nous vos questions!</span>
-                        </div>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </div>
-</section>
+ <?php  include 'suite_formation.php'?>
 
     <!-- Start Footer -->
    <?php  include 'footer.php'?>
     <!-- End Footer -->
-
-    <div class="footer_bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p class="crp">© Copyrights 2024</p>
-                </div>
-            </div>
-        </div>
-    </div>
+        <?php include 'footer_bottom.php'?>
 
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 

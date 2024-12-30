@@ -101,21 +101,21 @@
     <!-- Programme de la Formation -->
     <section style="padding: 50px;">
         <h2 class="section-title">Programme de la Formation</h2>
-        <p> D'une masse totale horaire de <span class="section-info"> 650 heures</span>, le programme est structuré
-            autour de modules progressifs permettant une approche globale et pratique de la gestion des réseaux sociaux.
+        <p>  Le programme est structuré
+            autour de modules progressifs permettant une approche globale et pratique 
         </p>
         <div class="columns">
             <!-- Column 1 -->
             <div>
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        1</span>:Introduction au web journalisme (50h)</p>
+                        1</span>: Introduction au web journalisme </p>
                 <ul>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Historique et évolution du journalisme numérique.</li>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Différences entre le journalisme traditionnel et le web journalisme</li>
                 </ul>
 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        2</span> :Techniques de rédaction web (100h)</p>
+                        2</span> :Techniques de rédaction web </p>
                 <ul>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Rédaction optimisée pour le SEO.</li>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Structuration des articles et storytelling pour le web.</li>
@@ -125,30 +125,24 @@
                 </ul><br>
 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        3</span> :Outils multimédias pour le journalisme (150h)</p>
+                        3</span> :Outils multimédias pour le journalisme </p>
                 <ul>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i>  Initiation aux logiciels de montage vidéo (Adobe Premiere, Final Cut Pro).</li>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i>  Création d’infographies interactives.</li>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i>  Enregistrement et montage audio pour podcasts</li>
 
                 </ul>
-                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                    4 </span> :Gestion des réseaux sociaux et stratégie digitale (100h)</p>
-            <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Animation des communautés en ligne </li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Élaboration d’une stratégie de communication sur les réseaux sociaux.</li>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Utilisation des plateformes de gestion de contenu (WordPress, Medium) </li>
-
-            </ul>
+               
 
                 
             </div>
 
             <!-- Column 2 -->
             <div>
+                
            
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                    5</span> :Enquêtes et reportages numériques (150h)</p>
+                    5</span> :Enquêtes et reportages numériques </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Techniques d’interview en ligne.</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Rédaction d’enquêtes approfondies.</li>
@@ -156,13 +150,13 @@
 
             </ul>
             <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                    6 </span> : Mesure de performance et analyse d’audience (50h)</p>
+                    6 </span> : Mesure de performance et analyse d’audience </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Analyse des statistiques web (Google Analytics, outils réseaux sociaux).</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Optimisation du contenu selon les données collectées</li> <br>
             </ul>
             <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                     7</span> : Projet final(50h)</p>
+                     7</span> : Projet final </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Réalisation d’un site d’actualités ou d’un reportage multimédia complet.</li>
             </ul>
@@ -436,71 +430,12 @@
             </div>
         </div>
     </section>
-
-
-    <section>
-        <div class="container" style="margin: 110px;">
-            <div class="row">
-                <!-- Bloc 1 -->
-                <div class="col-md-4">
-                    <a href="formulaire_inscription.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-user-plus"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Candidature</span> <br>
-                                <span>Inscrivez-vous dès maintenant</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-                <!-- Bloc 2 -->
-                <div class="col-md-4">
-                    <a href="dossier\Fichier CM2.pdf" download class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-file-alt"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Documentation</span> <br>
-                                <span>Obtenir une documentation</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- Bloc 3 -->
-                <div class="col-md-4">
-                    <a href="contact.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-question-circle"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Contact</span> <br>
-                                <span>Posez-nous vos questions!</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
-
+    <?php include 'suite_formation.php'?>
     <!-- Start Footer -->
     <?php  include 'footer.php'?>
     <!-- End Footer -->
 
-    <div class="footer_bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p class="crp">© Copyrights 2024</p>
-                </div>
-            </div>
-        </div>
-    </div>
+   <?php include 'footer_bottom.php'?>
 
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 

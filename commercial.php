@@ -113,32 +113,32 @@
     <!-- Programme de la Formation -->
     <section style="padding: 50px;">
         <h2 class="section-title">Programme de la Formation</h2>
-        <p> D'une masse totale horaire de <span class="section-info"> 1050 heures</span>, le programme est structuré
-            autour de modules progressifs permettant une approche globale et pratique de la gestion des réseaux sociaux.
+        <p> Le programme est structuré
+            autour de modules progressifs permettant une approche globale et pratique :
         </p>
         <div class="columns">
             <!-- Column 1 -->
             <div>
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
                         1</span>: Introduction à l'Entrepreneuriat et Esprit d'Entreprise (Initiation à
-                    l'entrepreneuriat, qualités requises, rôle de l'entrepreneur) - 50h</p>
+                    l'entrepreneuriat, qualités requises, rôle de l'entrepreneur) </p>
 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
                         2</span> : Études de Marché et Identification des Opportunités (Analyse de la demande,
-                    Concurrence, Tendances du marché) - 100h </p>
+                    Concurrence, Tendances du marché)  </p>
 
 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
                         3</span> :Élaboration du Business Plan (Stratégie d'affaires, Modèle financier, Prévisions de
-                    revenus et coûts) - 100h </p>
+                    revenus et coûts)  </p>
 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
                         4 </span> : Techniques de Vente et Négociation Commerciale (Psychologie du client, Techniques de
-                    persuasion, Gestion des objections) - 150h </p>
+                    persuasion, Gestion des objections) </p>
 
                  <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
                         5</span> : Marketing et Communication Digitale (Publicité en ligne, Réseaux sociaux, E-mail
-                    marketing, SEO) - 150h</p>
+                    marketing, SEO) </p>
 
 
 
@@ -151,18 +151,18 @@
 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
                         6 </span> : Gestion Financière et Comptable (Comptabilité de base, Gestion des flux de
-                    trésorerie, Calcul du seuil de rentabilité) - 100h</p>
+                    trésorerie, Calcul du seuil de rentabilité)  </p>
 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
                         7</span> : Légal et Administratif (Création d'entreprise, Régulations locales, Gestion des
-                    contrats) - 50h </p>
+                    contrats)  </p>
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
                         8</span> :Gestion Opérationnelle et Logistique (Organisation, Gestion des stocks, Relation avec
-                    les fournisseurs) - 100h </p>
+                    les fournisseurs) </p>
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        9</span> :Stratégie de Croissance et Leadership (Planification stratégique, Gestion d'équipe, Développement d'activités) - 100h </p>
+                        9</span> :Stratégie de Croissance et Leadership (Planification stratégique, Gestion d'équipe, Développement d'activités) </p>
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        10</span> :Projet Final (Lancement d’une activité commerciale réelle ou simulation, soutenance devant un jury professionnel) - 150h</p>
+                        10</span> :Projet Final (Lancement d’une activité commerciale réelle ou simulation, soutenance devant un jury professionnel) </p>
 
             </div>
         </div>
@@ -405,8 +405,7 @@
                                     inclut l'accès à tous les supports pédagogiques, le suivi personnalisé par un
                                     mentor, ainsi que la participation aux ateliers et événements organisés dans le
                                     cadre de la formation.</p>
-                                <p style="font-weight: 600;">Les outils et matériaux spécifiques (machines, cuir,
-                                    accessoires) sont à la charge des apprenants. </p>
+                                
 
 
                             </ul>
@@ -418,71 +417,12 @@
             </div>
         </div>
     </section>
-
-
-    <section>
-        <div class="container" style="margin: 110px;">
-            <div class="row">
-                <!-- Bloc 1 -->
-                <div class="col-md-4">
-                    <a href="formulaire_inscription.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-user-plus"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Candidature</span> <br>
-                                <span>Inscrivez-vous dès maintenant</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-                <!-- Bloc 2 -->
-                <div class="col-md-4">
-                    <a href="dossier\Fichier CM2.pdf" download class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-file-alt"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Documentation</span> <br>
-                                <span>Obtenir une documentation</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- Bloc 3 -->
-                <div class="col-md-4">
-                    <a href="contact.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-question-circle"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Contact</span> <br>
-                                <span>Posez-nous vos questions!</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
-
+    <?php include 'suite_formation.php'?>
     <!-- Start Footer -->
     <?php  include 'footer.php'?>
     <!-- End Footer -->
 
-    <div class="footer_bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p class="crp">© Copyrights 2024</p>
-                </div>
-            </div>
-        </div>
-    </div>
+        <?php include 'footer_bottom.php' ?>
 
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 

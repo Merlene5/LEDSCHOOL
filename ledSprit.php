@@ -14,35 +14,74 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
      <link rel="stylesheet" href=" 	https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
      <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"> -->
+     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
       <style>
- body {
+ /* Global Styles */
+body {
     font-family: 'Poppins', sans-serif;
     color: #333;
+    background-color: #f8f9fa; /* Fond léger pour un style élégant */
+    margin: 0;
 }
 
 h2 {
     color: #0b1da5;
-    padding-top: 15px;
-    font-size: 22px;
-    
+    font-size: 30px;
+    padding-top: 20px;
 }
 
 p {
     font-size: 17px;
-    line-height: 1.5;
-    text-align:justify ;
-    
+    line-height: 2;
+    text-align: justify;
+    margin-top: 15px;
 }
 
 .section-block {
-    margin-bottom: 40px;
-    gap: 20;
+    margin-bottom: 60px;
+    display: flex;
+    align-items: center;
 }
 
 .section-block img {
-    max-height: 500px;
-    object-fit: cover;
+    width: 100%; /* S'assurer que l'image prend toute la largeur */
+    height: 350px; /* Taille uniforme pour toutes les images */
+    object-fit: cover; /* Maintenir les proportions en recadrant */
+    border-radius: 10px; /* Coins arrondis pour un style doux */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Effet d'ombre */
+    transition: transform 0.3s ease-in-out; /* Animation au survol */
 }
+
+.section-block img:hover {
+    transform: scale(1.05); /* Zoom léger au survol */
+}
+
+.container {
+    max-width: 1200px; /* Limite la largeur pour une présentation soignée */
+    margin: auto;
+    padding: 20px;
+}
+
+/* Animation des titres */
+.section-block h2 {
+    position: relative;
+    padding-bottom: 10px;
+}
+
+/* Animation d'apparition */
+[data-aos="fade-right"],
+[data-aos="fade-left"],
+[data-aos="fade-up"] {
+    opacity: 0;
+    transform: translateY(30px);
+}
+
+[data-aos].aos-animate {
+    opacity: 1;
+    transform: translateY(0);
+}
+
       </style>
      
 </head>
@@ -56,7 +95,7 @@ p {
         <div class="Superpose"></div> 
         <div class="container">
             <div class="full animate__animated animate__fadeInDown">
-                <h3>Esprit led school</h3>
+                <h3>Esprit Led School</h3>
             </div>
         </div>
     </section>
@@ -64,7 +103,7 @@ p {
 
     <div class="container my-5">
         <!-- Section 1 -->
-        <div class="row section-block">
+        <div class="row section-block" data-aos="fade-right">
             <div class="col-md-6">
                 <img src="images/learning by doing.jpg" alt="Pédagogie par l'action" class="img-fluid rounded">
             </div>
@@ -76,11 +115,11 @@ p {
                 </p>
             </div>
         </div>
-
+    
         <!-- Section 2 -->
-        <div class="row section-block">
+        <div class="row section-block" data-aos="fade-left">
             <div class="col-md-6 order-md-2">
-                <img src="images/learning by doing.jpg" alt="Compétences transversales" class="img-fluid rounded">
+                <img src="images/soft and hard skills.jpg" alt="Compétences transversales" class="img-fluid rounded">
             </div>
             <div class="col-md-6 order-md-1">
                 <h2>Développement de compétences transversales (Hard & Soft Skills)</h2>
@@ -92,11 +131,11 @@ p {
                 </p>
             </div>
         </div>
-
+    
         <!-- Section 3 -->
-        <div class="row section-block">
+        <div class="row section-block" data-aos="fade-right">
             <div class="col-md-6">
-                <img src="images/learning by doing.jpg" alt="Employabilité" class="img-fluid rounded">
+                <img src="images/side-view-businesswoman-showing-analytical-charts-her-male-coworker.jpg" alt="Employabilité" class="img-fluid rounded">
             </div>
             <div class="col-md-6">
                 <h2>Employabilité et insertion professionnelle</h2>
@@ -107,11 +146,11 @@ p {
                 </p>
             </div>
         </div>
-
+    
         <!-- Section 4 -->
-        <div class="row section-block">
+        <div class="row section-block" data-aos="fade-left">
             <div class="col-md-6 order-md-2">
-                <img src="images/learning by doing.jpg" alt="Innovation et adaptation" class="img-fluid rounded">
+                <img src="images/innovation.jpg" alt="Innovation et adaptation" class="img-fluid rounded">
             </div>
             <div class="col-md-6 order-md-1">
                 <h2>Innovation et adaptation</h2>
@@ -121,11 +160,11 @@ p {
                 </p>
             </div>
         </div>
-
+    
         <!-- Section 5 -->
-        <div class="row section-block">
+        <div class="row section-block" data-aos="fade-up">
             <div class="col-md-6">
-                <img src="images/learning by doing.jpg" alt="Communauté et écosystème" class="img-fluid rounded">
+                <img src="images/communauté.jpg" alt="Communauté et écosystème" class="img-fluid rounded">
             </div>
             <div class="col-md-6">
                 <h2>Communauté et écosystème</h2>
@@ -137,18 +176,10 @@ p {
             </div>
         </div>
     </div>
-
+    
     <?php include 'footer.php'?>
 
-    <div class="footer_bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p class="crp">© Copyrights 2024 </p>
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php include 'footer_bottom.php'?>
 
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 
@@ -268,6 +299,15 @@ p {
             }
         });
     </script>
+     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init({
+            duration: 1000, /* Durée de l'animation */
+            easing: 'ease', /* Animation fluide */
+            once: true      /* Animation unique */
+        });
+    </script>
+   
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
         crossorigin="anonymous"></script>

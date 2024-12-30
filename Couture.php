@@ -101,24 +101,24 @@ Devenez Expert en Couture : Maîtrisez la Conception et la Réalisation de Vête
     <!-- Programme de la Formation -->
     <section style="padding: 50px;">
         <h2 class="section-title">Programme de la Formation</h2>
-        <p> D'une masse totale horaire de <span class="section-info"> 950 heures</span>, le programme est structuré
-            autour de modules progressifs permettant une approche globale et pratique de la gestion des réseaux sociaux.
+        <p> Le programme est structuré
+            autour de modules progressifs permettant une approche globale et pratique 
         </p>
         <div class="columns">
             <!-- Column 1 -->
             <div>
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        1</span>:Initiation à la Couture (Techniques de base, Utilisation de la machine à coudre, Types de points de couture, Couture à la main) - 100h</p>
+                        1</span>:Initiation à la Couture (Techniques de base, Utilisation de la machine à coudre, Types de points de couture, Couture à la main) </p>
          
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        2</span> : Design et Conception de Patrons (Création de croquis, Conception de patrons, Techniques de mise en forme, Utilisation de logiciels de modélisation) - 150h</p>
+                        2</span> : Design et Conception de Patrons (Création de croquis, Conception de patrons, Techniques de mise en forme, Utilisation de logiciels de modélisation) </p>
              
 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        3</span> :Couture Avancée (Techniques de couture complexes, Travail avec des tissus délicats, Techniques de finition, Couture de vêtements sur mesure) - 200h</p>
+                        3</span> :Couture Avancée (Techniques de couture complexes, Travail avec des tissus délicats, Techniques de finition, Couture de vêtements sur mesure) </p>
                 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                    4 </span> : Réalisation de Prototypes et Ajustements (Création de prototypes, Essayages et ajustements, Validation des modèles) - 150h</p>
+                    4 </span> : Réalisation de Prototypes et Ajustements (Création de prototypes, Essayages et ajustements, Validation des modèles) </p>
             
 
                 
@@ -128,13 +128,13 @@ Devenez Expert en Couture : Maîtrisez la Conception et la Réalisation de Vête
             <div>
            
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                    5</span> :Techniques de Savoir-Faire (Couture de détails spécifiques, Pose de fermetures éclair, Broderie, Application de garnitures et de décors) - 150h </p>
+                    5</span> :Techniques de Savoir-Faire (Couture de détails spécifiques, Pose de fermetures éclair, Broderie, Application de garnitures et de décors)  </p>
             
             <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                    6 </span> : Pratiques en Atelier et Collaboration (Travail en équipe, Collaboration avec des stylistes et des designers, Gestion de l'espace de travail) - 100h</p>
+                    6 </span> : Pratiques en Atelier et Collaboration (Travail en équipe, Collaboration avec des stylistes et des designers, Gestion de l'espace de travail) </p>
             
             <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                     7</span> :Présentation et Exposition de Créations (Organisation d'un défilé, Réalisation de lookbooks, Préparation de portfolio, Techniques de présentation) - 100h</p>
+                     7</span> :Présentation et Exposition de Créations (Organisation d'un défilé, Réalisation de lookbooks, Préparation de portfolio, Techniques de présentation) </p>
            
             
 
@@ -142,9 +142,6 @@ Devenez Expert en Couture : Maîtrisez la Conception et la Réalisation de Vête
             </div>
         </div>
     </section>
-
-
-
 
     <section>
         <div class="container mt-5">
@@ -301,7 +298,7 @@ Devenez Expert en Couture : Maîtrisez la Conception et la Réalisation de Vête
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
                                     Ateliers de co-développements
-                                    </span>t : Travaillez en groupe sur des projets, échangez des idées et bénéficiez de critiques constructives.</li>
+                                    </span> : Travaillez en groupe sur des projets, échangez des idées et bénéficiez de critiques constructives.</li>
                                 <br>
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
@@ -403,71 +400,12 @@ Devenez Expert en Couture : Maîtrisez la Conception et la Réalisation de Vête
         </div>
     </section>
 
-
-    <section>
-        <div class="container" style="margin: 110px;">
-            <div class="row">
-                <!-- Bloc 1 -->
-                <div class="col-md-4">
-                    <a href="formulaire_inscription.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-user-plus"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Candidature</span> <br>
-                                <span>Inscrivez-vous dès maintenant</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-                <!-- Bloc 2 -->
-                <div class="col-md-4">
-                    <a href="dossier\Fichier CM2.pdf" download class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-file-alt"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Documentation</span> <br>
-                                <span>Obtenir une documentation</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- Bloc 3 -->
-                <div class="col-md-4">
-                    <a href="contact.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-question-circle"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Contact</span> <br>
-                                <span>Posez-nous vos questions!</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
-
+<?php include'suite_formation.php'?>
+    
     <!-- Start Footer -->
     <?php  include 'footer.php'?>
     <!-- End Footer -->
-
-    <div class="footer_bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p class="crp">© Copyrights 2024</p>
-                </div>
-            </div>
-        </div>
-    </div>
-
+<?php include 'footer_bottom.php'?>
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 
     <!-- ALL JS FILES -->

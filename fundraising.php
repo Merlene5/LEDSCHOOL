@@ -107,14 +107,14 @@
     <!-- Programme de la Formation -->
     <section style="padding: 50px;">
         <h2 class="section-title">Programme de la Formation</h2>
-        <p> D'une masse horaire de  <span style="font-weight: 600;"> 900 heures </span> ,le programme est structuré
-            autour de modules progressifs permettant une approche globale et pratique de la gestion des réseaux sociaux.
+        <p> Le programme est structuré
+            autour de modules progressifs permettant une approche globale et pratique 
         </p>
         <div class="columns">
             <!-- Column 1 -->
             <div>
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        1</span>: Introduction au Fundraising (100 heures)</p>
+                        1</span>: Introduction au Fundraising </p>
                 <ul>
 
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Concepts fondamentaux de la levée
@@ -125,7 +125,7 @@
 
 
                     <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                            2</span> : Stratégies et Techniques de Levée de Fonds (150 heures)</p>
+                            2</span> : Stratégies et Techniques de Levée de Fonds </p>
                     <ul>
                         <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Elaboration de plans
                             stratégiques</li><br>
@@ -135,7 +135,7 @@
 
                         <p class="module-title"><i class="fas fa-chevron-right"></i><span
                                 style="font-weight: 600">Module 3</span> :Gestion des ressources et des parties
-                            prenantes (150h)</p>
+                            prenantes </p>
                         <ul>
                             <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Rédaction de dossiers de
                                 financement percutantsss </li>
@@ -147,7 +147,7 @@
                         </ul>
 
                         <p class="module-title"><i class="fas fa-chevron-right"></i><span
-                                style="font-weight: 600">Module 4</span> :Fundraising Digital (100 heures)</p>
+                                style="font-weight: 600">Module 4</span> :Fundraising Digital</p>
                         <ul>
                             <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Initiation au crowdfunding
                             </li>
@@ -160,7 +160,7 @@
             <!-- Column 2 -->
             <div>
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        5</span> : Gestion des Donateurs et CRM (100 heures)</p>
+                        5</span> : Gestion des Donateurs et CRM </p>
                 <ul>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Planification logistique et
                         mobilisation des participants</li>
@@ -170,7 +170,7 @@
                 </p>
 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        6</span> :Gestion des Donateurs et CRM (150 heures)</p>
+                        6</span> :Gestion des Donateurs et CRM </p>
                 <ul>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Fidélisation des donateurs</li>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Utilisation d’outils pour le suivi
@@ -178,7 +178,7 @@
                 </ul>
 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        7</span>: Évaluation et Reporting  (100 heures)</p>
+                        7</span>: Évaluation et Reporting  </p>
                 <ul>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Mesure de l’efficacité des
                         campagnes</li>
@@ -186,7 +186,7 @@
                 </ul>
 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        8</span>: Projet Final (150h)</p>
+                        8</span>: Projet Final </p>
                 <ul>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Conception et mise en œuvre d’une
                         campagne complète de fundraising</li>
@@ -271,7 +271,7 @@
                             <p> L'évaluation se fera tout au long de la formation à travers :</p>
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
-                                    ontrôles continus (quiz, exercices).</li> <br>
+                                    contrôles continus (quiz, exercices).</li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
                                     Projets individuels et en groupe.</li> <br>
@@ -424,71 +424,12 @@
         </div>
         </div>
     </section>
-
-
-    <section>
-        <div class="container" style="margin: 110px;">
-            <div class="row">
-                <!-- Bloc 1 -->
-                <div class="col-md-4">
-                    <a href="formulaire_inscription.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-user-plus"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Candidature</span> <br>
-                                <span>Inscrivez-vous dès maintenant</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-                <!-- Bloc 2 -->
-                <div class="col-md-4">
-                    <a href="dossier\Fichier CM2.pdf" download class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-file-alt"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Documentation</span> <br>
-                                <span>Obtenir une documentation</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- Bloc 3 -->
-                <div class="col-md-4">
-                    <a href="contact.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-question-circle"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Contact</span> <br>
-                                <span>Posez-nous vos questions!</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
+<?php include 'suite_formation.php'?>
 
     <!-- Start Footer -->
     <?php  include 'footer.php'?>
     <!-- End Footer -->
-
-    <div class="footer_bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p class="crp">© Copyrights 2024</p>
-                </div>
-            </div>
-        </div>
-    </div>
+<?php include 'footer_bottom.php'?>
 
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 

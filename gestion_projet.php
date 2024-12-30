@@ -94,13 +94,13 @@
     <!-- Programme de la Formation -->
     <section style="padding: 50px;">
         <h2 class="section-title">Programme de la Formation</h2>
-        <p> D'une masse totale horaire de <span class="section-info"> 550 heures</span>, le programme est structuré
+        <p> Le programme est structuré
             autour de modules progressifs permettant une approche globale et pratique de la gestion des réseaux sociaux.
         </p>
         <div class="columns">
  <!-- Column 1 -->
  <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>:  Introduction à la gestion de projet (40h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>:  Introduction à la gestion de projet )</p>
             <ul>
                 
             <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Définition et concepts clés.</li>
@@ -110,7 +110,7 @@
             <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Rôles et responsabilités du chef de projet.</li>
 
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> : Planification stratégique (80h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> : Planification stratégique </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Techniques de management et leadership.</li><br>
 
@@ -119,7 +119,7 @@
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Motivation et évaluation des performances.</li><br>
 
               
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> :Gestion des ressources et des parties prenantes (70h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> :Gestion des ressources et des parties prenantes </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Cartographie des parties prenantes </li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Mobilisation et gestion des équipes.</li>
@@ -128,7 +128,7 @@
 
             </ul>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span> :Gestion des risques (60h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span> :Gestion des risques </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Identification des risques.</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Analyse et priorisation des risques.</li>
@@ -138,7 +138,7 @@
 
         <!-- Column 2 -->
         <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> : Outils de gestion de projet (80h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> : Outils de gestion de projet </p>
                 <ul>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Utilisation de logiciels de gestion de projet (Trello, Microsoft Project, etc.).</li>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Création et suivi des diagrammes de Gantt et tableaux Kanban.</li>
@@ -146,14 +146,14 @@
                 </ul>
             </p>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 6</span> : Suivi et évaluation (70h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 6</span> : Suivi et évaluation </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Élaboration des indicateurs de performance.</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Collecte et analyse des données.</li>  
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Techniques d’évaluation finale.</li>      
             </ul>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 7</span>:   Communication et gestion d’équipe (60h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 7</span>:   Communication et gestion d’équipe </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Techniques de communication interne et externe.</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Motivation et leadership.</li>
@@ -161,7 +161,7 @@
 
             </ul>
             
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 8</span>:  Projet Final (90h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 8</span>:  Projet Final </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Réalisation d’un projet complet (de la planification à l’évaluation).</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Soutenance du projet devant un jury.</li>
@@ -250,7 +250,7 @@
                             <p> L'évaluation se fera tout au long de la formation à travers :</p>
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
-                                ontrôles continus (quiz, exercices).</li> <br>
+                                contrôles continus (quiz, exercices).</li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
                                 Projets individuels et en groupe.</li> <br>
@@ -394,71 +394,12 @@
             </div>
         </div>
     </section>
-
-
-    <section>
-        <div class="container" style="margin: 110px;">
-            <div class="row">
-                <!-- Bloc 1 -->
-                <div class="col-md-4">
-                    <a href="formulaire_inscription.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-user-plus"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Candidature</span> <br>
-                                <span>Inscrivez-vous dès maintenant</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-                <!-- Bloc 2 -->
-                <div class="col-md-4">
-                    <a href="dossier\Fichier CM2.pdf" download class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-file-alt"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Documentation</span> <br>
-                                <span>Obtenir une documentation</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- Bloc 3 -->
-                <div class="col-md-4">
-                    <a href="contact.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-question-circle"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Contact</span> <br>
-                                <span>Posez-nous vos questions!</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
+<?php include 'suite_formation.php'?>
 
     <!-- Start Footer -->
     <?php  include 'footer.php'?>
     <!-- End Footer -->
-
-    <div class="footer_bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p class="crp">© Copyrights 2024</p>
-                </div>
-            </div>
-        </div>
-    </div>
+<?php include 'footer_bottom.php' ?>
 
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 

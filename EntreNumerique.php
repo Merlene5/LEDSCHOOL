@@ -97,34 +97,34 @@
     <!-- Programme de la Formation -->
     <section style="padding: 50px;">
         <h2 class="section-title">Programme de la Formation</h2>
-        <p> D'une masse totale horaire de <span class="section-info"> 550 heures</span>, le programme est structuré
-            autour de modules progressifs permettant une approche globale et pratique de la gestion des réseaux sociaux.
+        <p> Le programme est structuré
+            autour de modules progressifs permettant une approche globale et pratique 
         </p>
         <div class="columns">
             <!-- Column 1 -->
             <div>
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        1</span>:Introduction à l’entrepreneuriat (50h)</p>
+                        1</span>:Introduction à l’entrepreneuriat </p>
                 <ul>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Découverte des bases de l’entrepreneuriat.</li>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Identifier et évaluer les opportunités d’affaires.</li>
                 </ul>
 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        2</span> :Création et gestion d’entreprise (100h)</p>
+                        2</span> :Création et gestion d’entreprise </p>
                 <ul>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Rédaction d’un business plan.</li>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Gestion administrative et fiscale d’une entreprise.</li>
                 </ul><br>
 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        3</span> :Marketing et communication digitale (100h)</p>
+                        3</span> :Marketing et communication digitale </p>
                 <ul>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Stratégies de marketing traditionnelles et numériques</li>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i>  Branding et positionnement</li>
                 </ul>
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                    4 </span> :Gestion financière et comptable (80h)</p>
+                    4 </span> :Gestion financière et comptable </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Budget prévisionnel, trésorerie, et rentabilité. </li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Initiation à la comptabilité simplifiée</li>
@@ -137,21 +137,22 @@
             <div>
            
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                    5</span> :Innovation et entrepreneuriat numérique (80h) </p>
+                    5</span> :Innovation et entrepreneuriat numérique </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Utilisation des outils numériques pour la gestion et la communication.</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Introduction aux modèles économiques numériques.</li>
               </ul>
             <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                    6 </span> :Développement personnel et leadership (50h)</p>
+                    6 </span> :Développement personnel et leadership </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Renforcer votre confiance et vos compétences en prise de décision </li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Communication et négociation efficace </li> <br>
             </ul>
             <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                     7</span> :Projet final et coaching individuel (90h)</p>
+                     7</span> :Projet final et coaching individuel </p>
             <ul>
-                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Conception et lancement d’un projet entrepreneurial sous la supervision d’un mentor.     </ul>
+                <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Conception et lancement d’un projet entrepreneurial sous la supervision d’un mentor.</li>   
+            </ul>
             
 
 
@@ -398,74 +399,12 @@
             </div>
         </div>
     </section>
-
-
-    <section>
-        <div class="container" style="margin: 110px;">
-            <div class="row">
-                <!-- Bloc 1 -->
-                <div class="col-md-4">
-                    <a href="formulaire_inscription.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-user-plus"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Candidature</span> <br>
-                                <span>Inscrivez-vous dès maintenant</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-                <!-- Bloc 2 -->
-                <div class="col-md-4">
-                    <a href="dossier\Fichier CM2.pdf" download class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-file-alt"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Documentation</span> <br>
-                                <span>Obtenir une documentation</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- Bloc 3 -->
-                <div class="col-md-4">
-                    <a href="contact.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-question-circle"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Contact</span> <br>
-                                <span>Posez-nous vos questions!</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
-
+    <?php include 'suite_formation.php'?>
     <!-- Start Footer -->
     <?php  include 'footer.php'?>
     <!-- End Footer -->
-
-    <div class="footer_bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p class="crp">© Copyrights 2024</p>
-                </div>
-            </div>
-        </div>
-    </div>
-
+    <?php include 'footer_bottom.php'?>
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
-
     <!-- ALL JS FILES -->
     <script src="js/jquery.min.js"></script>
     <script src="js/popper.min.js"></script>

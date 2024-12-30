@@ -107,20 +107,20 @@
     <div class="columns">
         <!-- Column 1 -->
         <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>: Graphisme et Design Graphique (Principes de composition, Théorie des couleurs, Typographie avancée, Création d'illustrations, Création de logos et d'éléments graphiques) - 150h </p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>: Graphisme et Design Graphique (Principes de composition, Théorie des couleurs, Typographie avancée, Création d'illustrations, Création de logos et d'éléments graphiques)</p>
             
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> :Introduction à l'UX/UI Design et Méthodologies (Recherche utilisateur, Design Thinking, Lean UX) - 150h </p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> :Introduction à l'UX/UI Design et Méthodologies (Recherche utilisateur, Design Thinking, Lean UX) </p>
            
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> :Conception UX (Wireframing, Prototypage, Création de Personas, Mapping du parcours utilisateur, Tests d'utilisabilité) - 250h </p>   
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span> :Conception UI (Principes de design, Typographie, Couleur, Iconographie, Mise en page, Grid System, Responsive Design) - 250h </p>     
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> :Conception UX (Wireframing, Prototypage, Création de Personas, Mapping du parcours utilisateur, Tests d'utilisabilité)  </p>   
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span> :Conception UI (Principes de design, Typographie, Couleur, Iconographie, Mise en page, Grid System, Responsive Design)  </p>     
         </div>
 
         <!-- Column 2 -->
         <div>
        
-        <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> :Maîtrise des outils de conception (Figma, Adobe XD ou Sketch, Gestion de versions) - 200h</p>
-        <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 6</span> :: Intégration et collaboration (Collaboration avec les développeurs, optimisation pour différents supports, responsive design) - 150h </p>
-        <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 7</span> :Projet Final (Conception d'une application web ou mobile complète, présentation et défense du projet) - 150h </p>
+        <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> :Maîtrise des outils de conception (Figma, Adobe XD ou Sketch, Gestion de versions) </p>
+        <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 6</span> :: Intégration et collaboration (Collaboration avec les développeurs, optimisation pour différents supports, responsive design) </p>
+        <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 7</span> :Projet Final (Conception d'une application web ou mobile complète, présentation et défense du projet) </p>
 
            
 
@@ -409,69 +409,13 @@
             </div>
         </div>
     </section>
-    <section>
-    <div class="container" style="margin: 110px;">
-        <div class="row">
-            <!-- Bloc 1 -->
-            <div class="col-md-4">
-                <a href="../formulaire_inscription.php" class="hover-block">
-                    <div style="display: flex;">
-                        <div class="service-item">
-                            <i class="fas fa-user-plus"></i>
-                        </div>
-                        <div style="padding: 10px;">
-                            <span style="font-weight: 900; font-size: 20px;">Candidature</span> <br>
-                            <span>Inscrivez-vous dès maintenant</span>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            
-            <!-- Bloc 2 -->
-            <div class="col-md-4">
-    <a href="" download="fichier\Nouveau_fichier.pdf" class="hover-block">
-        <div style="display: flex;">
-            <div class="service-item">
-                <i class="fas fa-file-alt"></i>
-            </div>
-            <div style="padding: 10px;">
-                <span style="font-weight: 900; font-size: 20px;">Documentation</span> <br>
-                <span>Obtenir une documentation</span>
-            </div>
-        </div>
-    </a>
-</div>
-     <!-- Bloc 3 -->
-     <div class="col-md-4">
-                <a href="contact.php" class="hover-block">
-                    <div style="display: flex;">
-                        <div class="service-item">
-                            <i class="fas fa-question-circle"></i>
-                        </div>
-                        <div style="padding: 10px;">
-                            <span style="font-weight: 900; font-size: 20px;">Contact</span> <br>
-                            <span>Posez-nous vos questions!</span>
-                        </div>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </div>
-</section>
+    <?php include 'suite_formation.php'?>
 
     <!-- Start Footer -->
    <?php  include 'footer.php'?>
     <!-- End Footer -->
 
-    <div class="footer_bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p class="crp">© Copyrights 2024</p>
-                </div>
-            </div>
-        </div>
-    </div>
+ <?php include 'footer_bottom.php'?>
 
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 

@@ -61,51 +61,53 @@
     <!-- end section -->
    <!--section-->
    <section>
-<div class="content " style="padding: 45px;">
-        <div class="content-item">
-
-            <div class="circle">1</div>
-            <div>
-                <h3>Une École qui pense différemment</h3>
-                <p>À LED School, nous ne faisons pas que former des étudiants, nous sculptons des entrepreneurs et des leaders du futur.</p>
+<div class="container mt-5">
+   
+    <div class="row">
+        <div class="col-md-4">
+            <div class="value-box">
+                <div class="value-number">1</div>
+                <h4>Une École qui pense différemment</h4>
+                <p>A LED School, nous ne faisons pas que former des étudiants, nous sculptons des entrepreneurs et des leaders du futur.</p>
             </div>
         </div>
-        <div class="content-item">
-            <div class="circle">2</div>
-            <div>
-                <h3>Un engagement pour l’excellence</h3>
-                <p>Nous croyons en votre potentiel et nous vous fournissons les outils nécessaires pour exceller.</p>
+        <div class="col-md-4">
+            <div class="value-box">
+                <div class="value-number">2</div>
+                <h4>Un engagement pour l’excellence</h4>
+                <p>Nous croyons en votre potentiel. Notre mission est de vous fournir les outils et le soutien nécessaires pour exceller.</p>
             </div>
         </div>
-        <div class="content-item">
-            <div class="circle">3</div>
-            <div>
-                <h3>Immersion totale dans le monde professionnel</h3>
+        <div class="col-md-4">
+            <div class="value-box">
+                <div class="value-number">3</div>
+                <h4>Immersion totale dans le monde professionnel</h4>
                 <p>Vivez une expérience d’apprentissage sans précédent grâce à notre pédagogie immersive.</p>
             </div>
         </div>
-        <div class="content-item">
-            <div class="circle">4</div>
-            <div>
-                <h3>Un Mentorat inspirant</h3>
+        <div class="col-md-4">
+            <div class="value-box">
+                <div class="value-number">4</div>
+                <h4>Un Mentorat inspirant</h4>
                 <p>Nos étudiants bénéficient d’un accès privilégié à un réseau de mentors passionnés.</p>
             </div>
         </div>
-        <div class="content-item">
-            <div class="circle">5</div>
-            <div>
-                <h3>Des opportunités illimitées</h3>
+        <div class="col-md-4">
+            <div class="value-box">
+                <div class="value-number">5</div>
+                <h4>Des opportunités illimitées</h4>
                 <p>Profitez d’un accès direct à un écosystème d’entreprises partenaires.</p>
             </div>
         </div>
-        <div class="content-item">
-            <div class="circle">6</div>
-            <div>
-                <h3>Une communauté dynamique et engagée</h3>
-                <p>Rejoignez une communauté vibrante d’apprenants, d’innovateurs et de créateurs.</p>
+        <div class="col-md-4">
+            <div class="value-box">
+                <div class="value-number">6</div>
+                <h4>Une communauté dynamique et engagée</h4>
+                <p>Rejoignez une communauté vibrante d’apprenants et d’innovateurs.</p>
             </div>
         </div>
     </div>
+</div>
 </section>
 
    <!--endsection-->
@@ -180,17 +182,7 @@
     <!-- Start Footer -->
    <?php include 'footer.php'?>
     <!-- End Footer -->
-
-    <div class="footer_bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p class="crp">© Copyrights 2024 </p>
-                </div>
-            </div>
-        </div>
-    </div>
-
+   <?php  include 'footer_bottom.php'?>
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 
     <!-- ALL JS FILES -->

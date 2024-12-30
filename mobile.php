@@ -101,23 +101,23 @@
     <!-- Programme de la Formation -->
 <section style="padding: 50px;">
     <h2 class="section-title">Programme de la Formation</h2>
-    <p> D'une masse totale horaire de <span class="section-info">1250 heures</span>, le programme est modulaire et couvre les aspects suivants :</p>
+    <p> Le programme est modulaire et couvre les aspects suivants :</p>
     <div class="columns">
         <!-- Column 1 -->
         <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>:Fondamentaux du Développement Mobile (Introduction aux systèmes iOS et Android, Git, Principes de conception UI/UX) - 200h</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>:Fondamentaux du Développement Mobile (Introduction aux systèmes iOS et Android, Git, Principes de conception UI/UX) </p>
             
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> : Développement Mobile Multiplateforme (Framework au choix : React Native, Flutter ou Xamarin, Tests unitaires) - 300h</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> : Développement Mobile Multiplateforme (Framework au choix : React Native, Flutter ou Xamarin, Tests unitaires) </p>
            
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> : Développement Back-End (Langage serveur au choix : Node.js, Python, PHP ou Java, Bases de données relationnelles et NoSQL, API REST, Sécurité Web) - 400h </p>        
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> : Développement Back-End (Langage serveur au choix : Node.js, Python, PHP ou Java, Bases de données relationnelles et NoSQL, API REST, Sécurité Web)  </p>        
         </div>
 
         <!-- Column 2 -->
         <div>
-        <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span> :Intégration de Fonctionnalités Natives et Déploiement (Intégration de fonctionnalités natives, Tests d'intégration, Déploiement sur les stores d'applications) - 250h </p>
-        <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> :Projet Final (Développement d'une application mobile complète mettant en œuvre les compétences acquises) – 200h</p>
+        <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span> :Intégration de Fonctionnalités Natives et Déploiement (Intégration de fonctionnalités natives, Tests d'intégration, Déploiement sur les stores d'applications)  </p>
+        <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> :Projet Final (Développement d'une application mobile complète mettant en œuvre les compétences acquises) </p>
            
 
             
@@ -386,69 +386,11 @@
             </div>
         </div>
     </section>
-    <section>
-    <div class="container" style="margin: 110px;">
-        <div class="row">
-             <!-- Bloc 1 -->
-             <div class="col-md-4">
-                <a href="formulaire_inscription.php" class="hover-block">
-                    <div style="display: flex;">
-                        <div class="service-item">
-                            <i class="fas fa-user-plus"></i>
-                        </div>
-                        <div style="padding: 10px;">
-                            <span style="font-weight: 900; font-size: 20px;">Candidature</span> <br>
-                            <span>Inscrivez-vous dès maintenant</span>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            
-            <!-- Bloc 2 -->
-            <div class="col-md-4">
-    <a href="dossier\Fichier CM2.pdf" download class="hover-block">
-        <div style="display: flex;">
-            <div class="service-item">
-                <i class="fas fa-file-alt"></i>
-            </div>
-            <div style="padding: 10px;">
-                <span style="font-weight: 900; font-size: 20px;">Documentation</span> <br>
-                <span>Obtenir une documentation</span>
-            </div>
-        </div>
-    </a>
-</div>
-     <!-- Bloc 3 -->
-     <div class="col-md-4">
-                <a href="contact.php" class="hover-block">
-                    <div style="display: flex;">
-                        <div class="service-item">
-                            <i class="fas fa-question-circle"></i>
-                        </div>
-                        <div style="padding: 10px;">
-                            <span style="font-weight: 900; font-size: 20px;">Contact</span> <br>
-                            <span>Posez-nous vos questions!</span>
-                        </div>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </div>
-</section>
-
+<?php include 'suite_formation.php'?>
     <!-- Start Footer -->
    <?php  include 'footer.php'?>
     <!-- End Footer -->
-
-    <div class="footer_bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p class="crp">© Copyrights 2024</p>
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php include 'footer_bottom.php'?>
 
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 

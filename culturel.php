@@ -100,20 +100,20 @@
     <!-- Programme de la Formation -->
     <section style="padding: 50px;">
         <h2 class="section-title">Programme de la Formation</h2>
-        <p> D'une masse totale horaire de <span class="section-info"> 780 heures</span>, le programme est structuré
-            autour de modules progressifs permettant une approche globale et pratique de la gestion des réseaux sociaux.
+        <p> Le programme est structuré
+            autour de modules progressifs permettant une approche globale et pratique .
         </p>
         <div class="columns">
             <!-- Column 1 -->
         <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>:Introduction à l’entrepreneuriat culturel, artistique et touristique (50h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>: Introduction à l’entrepreneuriat culturel, artistique et touristique </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Comprendre les enjeux et spécificités des secteurs.</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Panorama des métiers et opportunités.</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Études de cas inspirants.</li>
             </ul>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> :Conception de projets culturels et touristiques (100h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> : Conception de projets culturels et touristiques </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Identification des opportunités.</li><br>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Structuration et planification d’un projet.</li><br>
@@ -121,7 +121,7 @@
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Développement d’une vision créative et stratégique.</li><br>
 
               
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> :Communication et marketing digital dans les secteurs créatifs (100h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> : Communication et marketing digital dans les secteurs créatifs </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Stratégies de branding pour artistes et sites touristiques</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Utilisation des réseaux sociaux, sites web et applications mobiles.</li>
@@ -129,7 +129,7 @@
 
             </ul>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span> : Gestion des ressources et partenariats (80h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span> : Gestion des ressources et partenariats </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Recherche de financement (subventions, mécénat, crowdfunding)</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Collaboration avec les artistes, artisans et acteurs locaux.</li>
@@ -139,7 +139,7 @@
 
         <!-- Column 2 -->
         <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> :Légal et administratif (50h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> : Légal et administratif </p>
                 <ul>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i>    Droits d’auteur et propriété intellectuelle.</li>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Réglementations touristiques.</li>
@@ -147,7 +147,7 @@
                 </ul>
             </p>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 6</span> :Organisation d’événements et produits touristiques (150h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 6</span> : Organisation d’événements et produits touristiques </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Planification logistique </li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion des équipes et du public </li>
@@ -156,14 +156,14 @@
                            
             </ul>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 7</span>: Outils numériques pour la gestion et la promotion (100h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 7</span>: Outils numériques pour la gestion et la promotion </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Initiation aux logiciels de gestion de projet.</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Conception de supports visuels (affiches, flyers).</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Optimisation SEO pour les activités en ligne</li>
             </ul>
             </ul>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 8</span>:  Projet final (150h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 8</span>:  Projet final </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Élaboration et présentation d’un projet réel ou simulé.</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Soutenance devant un jury professionnel.</li>
@@ -265,7 +265,7 @@
                             <p> L'évaluation se fera tout au long de la formation à travers :</p>
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
-                                ontrôles continus (quiz, exercices).</li> <br>
+                                contrôles continus (quiz, exercices).</li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
                                 Études de cas pratiques.</li> <br>
@@ -427,72 +427,12 @@
             </div>
         </div>
     </section>
-
-
-    <section>
-        <div class="container" style="margin: 110px;">
-            <div class="row">
-                <!-- Bloc 1 -->
-                <div class="col-md-4">
-                    <a href="formulaire_inscription.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-user-plus"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Candidature</span> <br>
-                                <span>Inscrivez-vous dès maintenant</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-                <!-- Bloc 2 -->
-                <div class="col-md-4">
-                    <a href="dossier\Fichier CM2.pdf" download class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-file-alt"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Documentation</span> <br>
-                                <span>Obtenir une documentation</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- Bloc 3 -->
-                <div class="col-md-4">
-                    <a href="contact.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-question-circle"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Contact</span> <br>
-                                <span>Posez-nous vos questions!</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
+    <?php include 'suite_formation.php'?>
 
     <!-- Start Footer -->
     <?php  include 'footer.php'?>
     <!-- End Footer -->
-
-    <div class="footer_bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p class="crp">© Copyrights 2024</p>
-                </div>
-            </div>
-        </div>
-    </div>
-
+    <?php include 'footer_bottom.php'?>
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 
     <!-- ALL JS FILES -->

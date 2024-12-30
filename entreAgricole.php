@@ -82,11 +82,12 @@
                 <p><i class="fas fa-chevron-right"></i> Utiliser des outils de gestion et de planification pour optimiser les opérations agricoles.</p>
                 <p><i class="fas fa-chevron-right"></i> Collaborer avec des partenaires et des acteurs du secteur pour développer des projets à grande échelle.
                 <p>
-                <p><i class="fas fa-chevron-right"></i>  Assurer le suivi des performances et l’évaluation des résultats financiers de votre projet.
-                <p>
+                
 
             </div>
             <div>
+                <p><i class="fas fa-chevron-right"></i>  Assurer le suivi des performances et l’évaluation des résultats financiers de votre projet.
+                <p>
                 <p><i class="fas fa-chevron-right"></i> Gérer les aspects logistiques et marketing de votre entreprise agricole</p>
                 <p><i class="fas fa-chevron-right"></i> Concevoir des stratégies de diversification et d’innovation pour stimuler la croissance
                 <p>
@@ -101,31 +102,31 @@
     <!-- Programme de la Formation -->
     <section style="padding: 50px;">
         <h2 class="section-title">Programme de la Formation</h2>
-        <p> D'une masse totale horaire de <span class="section-info"> 1050 heures</span>, le programme est structuré
-            autour de modules progressifs permettant une approche globale et pratique de la gestion des réseaux sociaux.
+        <p> Le programme est structuré
+            autour de modules progressifs permettant une approche globale et pratique.
         </p>
         <div class="columns">
             <!-- Column 1 -->
             <div>
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        1</span>:Fondamentaux de l’agriculture moderne (120h)</p>
+                        1</span>:Fondamentaux de l’agriculture moderne </p>
                 <ul>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Introduction aux pratiques agricoles innovantes et durables, étude des différents types de cultures et de productions agricoles.</li>
                 </ul>
 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        2</span> : Gestion et planification d’un projet agricole (150h)</p>
+                        2</span> : Gestion et planification d’un projet agricole </p>
                 <ul>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Elaboration d’un business plan, stratégies de financement, analyse de la rentabilité et de la faisabilité</li>
                 </ul><br>
 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        3</span> :Marketing et commercialisation des produits agricoles (130h)</p>
+                        3</span> :Marketing et commercialisation des produits agricoles </p>
                 <ul>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Techniques de marketing agricole, stratégies de vente directe et en circuit court, développement de la marque et gestion de la distribution.</li>
                 </ul>
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                    4 </span> : Techniques de production et de gestion des ressources (200h)</p>
+                    4 </span> : Techniques de production et de gestion des ressources </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Optimisation des processus de production, gestion de l’eau et des sols, approches écologiques et durabilité. </li>
             </ul>
@@ -137,18 +138,18 @@
             <div>
            
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                    5</span> :Innovation et technologie dans l’agriculture (150h) </p>
+                    5</span> :Innovation et technologie dans l’agriculture </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Intégration de la technologie numérique et des outils modernes (applications de gestion, systèmes de surveillance, etc.) dans les activités agricoles..</li>
               </ul>
             <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                    6 </span> :Gestion financière et administration d’entreprise (120h)</p>
+                    6 </span> :Gestion financière et administration d’entreprise</p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Principes de comptabilité de base, gestion des coûts et des revenus, planification fiscale et stratégie financière. </li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Communication et négociation efficace </li> <br>
             </ul>
             <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                     7</span> : Projet pratique et études de cas (180h)</p>
+                     7</span> : Projet pratique et études de cas </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Mise en pratique des compétences acquises à travers un projet individuel ou en équipe, étude de cas sur des réussites agricoles.</li> 
             </ul>
@@ -410,71 +411,12 @@
             </div>
         </div>
     </section>
-
-
-    <section>
-        <div class="container" style="margin: 110px;">
-            <div class="row">
-                <!-- Bloc 1 -->
-                <div class="col-md-4">
-                    <a href="formulaire_inscription.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-user-plus"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Candidature</span> <br>
-                                <span>Inscrivez-vous dès maintenant</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-                <!-- Bloc 2 -->
-                <div class="col-md-4">
-                    <a href="dossier\Fichier CM2.pdf" download class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-file-alt"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Documentation</span> <br>
-                                <span>Obtenir une documentation</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- Bloc 3 -->
-                <div class="col-md-4">
-                    <a href="contact.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-question-circle"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Contact</span> <br>
-                                <span>Posez-nous vos questions!</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
-
+    <?php include 'suite_formation.php'?>
     <!-- Start Footer -->
     <?php  include 'footer.php'?>
     <!-- End Footer -->
-
-    <div class="footer_bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p class="crp">© Copyrights 2024</p>
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php include 'footer_bottom.php'?>
+    
 
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 

@@ -50,7 +50,7 @@
         <div class="Superpose"></div>
         <div class="container">
             <div class="full animate__animated animate__fadeInDown">
-                <h3> Comptable-Logisticien</h3>
+                <h3> Entrepreunariat </h3>
             </div>
         </div>
     </section>
@@ -60,14 +60,11 @@
             <div class="row">
                 <div class="col-md-12">
                     <p style="font-size: 2rem; font-weight: 600;line-height: 1.6; text-align: center">
-                        Devenez Comptable-Logisticien : Alliez Expertise Financière et Gestion Logistique
+                        
+                    Devenez Entrepreneur : Lancez et Développez Votre Propre Entreprise</p>
                 </div>
                 <div class="col-md-12 text-justify ">
-                    <p style="font-size:1rem " ;>Cette formation complète vous offre les compétences nécessaires pour
-                        exceller dans la gestion comptable et logistique. En combinant théorie et pratique, vous
-                        apprendrez à maîtriser les fondamentaux de la comptabilité, à gérer les flux financiers, et à
-                        planifier les opérations logistiques. Vous développerez des aptitudes en gestion de stocks,
-                        optimisation des processus, et utilisation d'outils numériques spécialisés.</p>
+                    <p style="font-size:1rem " ;>Cette formation immersive vous permettra d'acquérir les compétences indispensables pour transformer votre idée en un projet entrepreneurial concret et réussi. Vous apprendrez à élaborer un business plan solide, à identifier les opportunités de marché, et à mettre en place des stratégies de financement et de marketing efficaces. Grâce à une approche pratique et interactive, vous serez prêt à naviguer dans le monde de l'entrepreneuriat et à relever les défis d’un marché en constante évolution.</p>
                 </div>
             </div>
         </div>
@@ -79,23 +76,18 @@
 
         <div class="centered-columns">
             <div>
-                <p><i class="fas fa-chevron-right"></i> Maîtriser les principes fondamentaux de la comptabilité générale
-                    et analytique.
+                <p><i class="fas fa-chevron-right"></i> Comprendre les principes fondamentaux de l'entrepreneuriat.
                 </p>
-                <p><i class="fas fa-chevron-right"></i> Gérer efficacement les flux financiers et élaborer des budgets.
+                <p><i class="fas fa-chevron-right"></i> Élaborer un business plan solide.
                 </p>
-                <p><i class="fas fa-chevron-right"></i> Planifier et coordonner les opérations logistiques : achats,
-                    stockages et distributions.</p>
-                <p><i class="fas fa-chevron-right"></i> Superviser les inventaires et assurer une gestion optimale des
-                    stocks.</p>
+                <p><i class="fas fa-chevron-right"></i> Identifier les opportunités de marché et analyser la concurrence.</p>
+              
             </div>
             <div>
-                <p><i class="fas fa-chevron-right"></i>Utiliser des outils numériques et logiciels spécialisés (Excel,
-                    ERP, etc.) pour la gestion comptable et logistique. </p>
-                <p><i class="fas fa-chevron-right"></i> Collaborer avec les différents services pour optimiser les
-                    processus financiers et logistiques.</p>
-                <p><i class="fas fa-chevron-right"></i> Réaliser des rapports financiers et des tableaux de bord
-                    logistiques précis et exploitables.</p>
+                <p><i class="fas fa-chevron-right"></i> Mettre en place des stratégies de financement et de marketing.</p>
+                <p><i class="fas fa-chevron-right"></i>Gérer les aspects juridiques et administratifs de votre entreprise. </p>
+                <p><i class="fas fa-chevron-right"></i> Développer des compétences en gestion et leadership.</p>
+                
             </div>
 
     </section>
@@ -110,38 +102,42 @@
             <!-- Column 1 -->
             <div>
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1
-                    </span>: Introduction à la Comptabilité</p>
+                    </span>: Introduction à l'entrepreunariat</p>
                 <ul>
 
 
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Bases de la comptabilité générale
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Qu'est-ce que l'entrepreneuriat ?
                     </li>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Écriture comptable et analyse
-                        financière.</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Types d'entreprises et modèles économiques</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Profil de l'entrepreneur</li>
+
 
                     <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                            2</span> :Gestion Budgétaire et Finances</p>
+                            2</span> :Élaboration d’un Business Plan</p>
                     <ul>
-                        <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Écriture comptable et analyse
-                            financière.
-
+                        <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Structure et contenu d’un business plan
                         </li>
-                        <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Contrôle des dépenses et gestion de la trésorerie.
-
+                        <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Étude de marché et analyse de la concurrence
+                        </li>
+                        <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Définition des objectifs et stratégies
                         </li>
                         <p class="module-title"><i class="fas fa-chevron-right"></i><span
-                                style="font-weight: 600">Module 3</span> : Approvisionnement et Gestion des Stocks </p>
+                                style="font-weight: 600">Module 3</span> :Financement de votre Projet</p>
                         <ul>
-                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Techniques d’approvisionnement</li>
-                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Organisation des entrepôts et suivi des inventaires</li>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Sources de financement (banques, investisseurs, crowdfunding)</li>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Élaboration d’un budget prévisionnel</li>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion de la trésorerie</li>
+
 
                         </ul>
 
                         <p class="module-title"><i class="fas fa-chevron-right"></i><span
-                                style="font-weight: 600">Module 4</span> : Planification et Logistique</p>
+                                style="font-weight: 600">Module 4</span> : Stratégies de Marketing</p>
                         <ul>
-                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion des flux logistiques (achat, stockage, distribution).</li>
-                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Optimisation des processus logistiques</li>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Élaboration d’un plan marketing</li>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Techniques de promotion et de communication</li>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Utilisation des réseaux sociaux pour le développement commercial</li>
+
 
                         </ul>
             </div>
@@ -149,26 +145,42 @@
             <!-- Column 2 -->
             <div>
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        5</span> :Outils et Logiciels</p>
+                        5</span> : Aspects Juridiques et Administratifs</p>
                 <ul>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Initiation à Excel avancé pour la gestion comptable et logistique</li>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Utilisation d’un ERP (Enterprise Resource Planning).</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Choix du statut juridique de l’entreprise</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Obligations légales et réglementaires.</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion des contrats et des partenariats</li>
+
 
                 </ul>
                 </p>
 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        6</span> : Supervision et Contrôle </p>
+                        6</span> :  Gestion d’Entreprise </p>
                 <ul>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Mise en place d'indicateurs de performance.</li>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Élaboration de tableaux de bord financiers et logistiques.</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Outils de gestion (comptabilité, gestion de projet).</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion du personnel et leadership </li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Prise de décision et résolution de problèmes </li>
+
 
                 </ul>
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        7 </span> : Projet Final </p>
+                        7 </span> : Développement Durable et Responsabilité Sociale </p>
                 <ul>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> ÉÉtude de cas pratique : gestion simultanée d’un budget et d’une chaîne logistiq</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Intégration des enjeux environnementaux dans votre projet</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Stratégies pour une entreprise socialement responsable </li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Impact de l'entrepreneuriat sur la communauté </li>
+
                 </ul>
+                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                        8 </span> :Projet Final </p>
+                <ul>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Présentation de votre projet d'entreprise devant un jury</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Feedback et conseils pour la mise en œuvre</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Réseautage avec des entrepreneurs et investisseurs </li>
+
+                </ul>
+                
 
             </div>
         </div>
@@ -193,21 +205,17 @@
                         <div class="card-body">
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
-                                    Comptable spécialisé en logistique.
+                                Entrepreneur / Créateur d'entreprise
                                 </li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
-                                    Responsable logistique et financier.
+                                Consultant en création d'entreprise
                                 </li> <br>
                                 <li><i class="fas fa-chevron-right"></i>
-                                    Gestionnaire des stocks et approvisionnement
+                                Responsable de projet entrepreneurial
                                 </li> <br>
                                 <li><i class="fas fa-chevron-right"></i>
-                                    Assistant comptable-logistique.
-                                </li> <br>
-                                <li><i class="fas fa-chevron-right"></i>
-                                    Analyste financier-logistique.
-
+                                Chargé de développement économique
                                 </li> <br>
 
                             </ul>
@@ -230,11 +238,7 @@
                         <div class="card-body">
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
-                                    Intérêt pour la logistique et la gestion des flux.</li> <br>
-                                <li><i class="fas fa-chevron-right"></i>
-                                    Sens de l’organisation et esprit d’analyse</li> <br>
-                                <li><i class="fas fa-chevron-right"></i>
-                                    Bonne maîtrise de l’outil informatique.</li> <br>
+                                Motivation et passion pour l'entrepreneuriat.</li> <br>
                             </ul>
                         </div>
                     </div>
@@ -320,10 +324,9 @@
 
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
-                                        Encadrement personnalisé
+                                    Sessions de mentorat avec des entrepreneurs expérimentés
                                     </span> :
-                                    avec des professionnels expérimentés en comptabilité et logistique.
-
+                                    pour apprendre plus auprès d'eux
                                 </li>.
                                 <br>
                                 <li><i class="fas fa-chevron-right"></i>
@@ -378,34 +381,26 @@
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
-                                        Paiement en trois fois
-                                    </span> :Versez un acompte de 100 000 FCFA à l'inscription, puis deux autres
-                                    tranches de 100 000 FCFA respectivement deux et cinq mois après le début de la
-                                    formation.
+                                        Paiement en une seul fois
+                                    </span> :Montant total de 200 000 FCFA à régler lors de l'inscription.
                                 </li>
                                 <br>
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
-                                        Paiement flexible
-                                    </span> :Réglez la formation à votre rythme, en versant des sommes variables selon
-                                    vos disponibilités financières. Le montant total doit être acquitté dans un délai de
-                                    six mois.
+                                        Paiement échelonné
+                                    </span> :Versement d'un acompte de 70 000 FCFA à l'inscription, 
+                                    suivi de deux paiements de 65 000 FCFA chacun, respectivement à la fin du premier et du deuxième mois.
                                 </li> <br>
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
-                                        Paiement journalier
-                                    </span> :Optez pour un paiement quotidien de 2000 FCFA ou 1000 FCFA via Momopay,
-                                    après avoir versé l'acompte initial.
+                                    Paiement flexible
+                                    </span> :Réglez la formation à votre rythme, avec des versements adaptés à vos capacités financières, à condition que le montant total soit acquitté dans un délai de trois mois.
                                 </li>
                                 <br>
-                                <p style="font-weight: 600;">Le coût total de la formation s'élève à 350 000fcfa et
+                                <p style="font-weight: 600;">Le coût total de la formation s'élève à 200 000fcfa et
                                     inclut l'accès à tous les supports pédagogiques, le suivi personnalisé par un
                                     mentor, ainsi que la participation aux ateliers et événements organisés dans le
                                     cadre de la formation.</p>
-                                <p style="font-weight: 600;">Les outils nécessaires restent à la charge de l'apprenant.
-                                </p>
-
-
                             </ul>
 
                         </div>
@@ -416,71 +411,11 @@
         </div>
         </div>
     </section>
-
-
-    <section>
-        <div class="container" style="margin: 110px;">
-            <div class="row">
-                <!-- Bloc 1 -->
-                <div class="col-md-4">
-                    <a href="formulaire_inscription.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-user-plus"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Candidature</span> <br>
-                                <span>Inscrivez-vous dès maintenant</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-                <!-- Bloc 2 -->
-                <div class="col-md-4">
-                    <a href="dossier\Fichier CM2.pdf" download class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-file-alt"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Documentation</span> <br>
-                                <span>Obtenir une documentation</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- Bloc 3 -->
-                <div class="col-md-4">
-                    <a href="contact.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-question-circle"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Contact</span> <br>
-                                <span>Posez-nous vos questions!</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
-
+    <?php include 'suite_formation.php'?> 
     <!-- Start Footer -->
     <?php  include 'footer.php'?>
     <!-- End Footer -->
-
-    <div class="footer_bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p class="crp">© Copyrights 2024</p>
-                </div>
-            </div>
-        </div>
-    </div>
+<?php include 'footer_bottom.php' ?>
 
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 

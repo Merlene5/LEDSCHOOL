@@ -50,7 +50,7 @@
         <div class="Superpose"></div>
         <div class="container">
             <div class="full animate__animated animate__fadeInDown">
-                <h3> Comptable-Logisticien</h3>
+                <h3> Employabilité</h3>
             </div>
         </div>
     </section>
@@ -60,14 +60,11 @@
             <div class="row">
                 <div class="col-md-12">
                     <p style="font-size: 2rem; font-weight: 600;line-height: 1.6; text-align: center">
-                        Devenez Comptable-Logisticien : Alliez Expertise Financière et Gestion Logistique
+                    Devenez un Expert en Employabilité : Optimisez Vos Chances sur le Marché du Travail
                 </div>
                 <div class="col-md-12 text-justify ">
-                    <p style="font-size:1rem " ;>Cette formation complète vous offre les compétences nécessaires pour
-                        exceller dans la gestion comptable et logistique. En combinant théorie et pratique, vous
-                        apprendrez à maîtriser les fondamentaux de la comptabilité, à gérer les flux financiers, et à
-                        planifier les opérations logistiques. Vous développerez des aptitudes en gestion de stocks,
-                        optimisation des processus, et utilisation d'outils numériques spécialisés.</p>
+                    <p style="font-size:1rem " ;>Cette formation immersive vous fournira les outils et compétences essentiels pour vous démarquer dans un environnement professionnel compétitif. Vous apprendrez à rédiger des CV percutants, à maîtriser les techniques d'entretien et à développer une marque personnelle forte. Grâce à une approche interactive et pratique,
+                         vous serez prêt à naviguer avec succès dans votre recherche d'emploi et à bâtir une carrière épanouissante.</p>
                 </div>
             </div>
         </div>
@@ -79,23 +76,18 @@
 
         <div class="centered-columns">
             <div>
-                <p><i class="fas fa-chevron-right"></i> Maîtriser les principes fondamentaux de la comptabilité générale
-                    et analytique.
+                <p><i class="fas fa-chevron-right"></i>Comprendre les compétences recherchées sur le marché du travail.
                 </p>
-                <p><i class="fas fa-chevron-right"></i> Gérer efficacement les flux financiers et élaborer des budgets.
+                <p><i class="fas fa-chevron-right"></i> Rédiger un CV et une lettre de motivation efficaces.
                 </p>
-                <p><i class="fas fa-chevron-right"></i> Planifier et coordonner les opérations logistiques : achats,
-                    stockages et distributions.</p>
-                <p><i class="fas fa-chevron-right"></i> Superviser les inventaires et assurer une gestion optimale des
-                    stocks.</p>
+                <p><i class="fas fa-chevron-right"></i> Développer une marque personnelle forte sur les réseaux professionnels.</p>
+               
             </div>
             <div>
-                <p><i class="fas fa-chevron-right"></i>Utiliser des outils numériques et logiciels spécialisés (Excel,
-                    ERP, etc.) pour la gestion comptable et logistique. </p>
-                <p><i class="fas fa-chevron-right"></i> Collaborer avec les différents services pour optimiser les
-                    processus financiers et logistiques.</p>
-                <p><i class="fas fa-chevron-right"></i> Réaliser des rapports financiers et des tableaux de bord
-                    logistiques précis et exploitables.</p>
+                <p><i class="fas fa-chevron-right"></i> Maîtriser les techniques de recherche d'emploi.</p>
+                <p><i class="fas fa-chevron-right"></i>Gérer des entretiens d'embauche avec confiance. </p>
+                <p><i class="fas fa-chevron-right"></i> Élaborer un plan de développement professionnel continu.</p>
+
             </div>
 
     </section>
@@ -110,38 +102,42 @@
             <!-- Column 1 -->
             <div>
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1
-                    </span>: Introduction à la Comptabilité</p>
+                    </span>: Introduction à l’Employabilité</p>
                 <ul>
 
 
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Bases de la comptabilité générale
-                    </li>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Écriture comptable et analyse
-                        financière.</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Qu'est-ce que l'employabilité ?                    </li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Compétences clés et tendances du marché de l'emploi</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Auto-évaluation des compétences et des intérêts professionnels</li>
+
 
                     <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                            2</span> :Gestion Budgétaire et Finances</p>
+                            2</span> :Rédaction de CV et de Lettres de Motivation</p>
                     <ul>
-                        <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Écriture comptable et analyse
-                            financière.
+                        <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Structure et contenu d'un CV percutant
 
                         </li>
-                        <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Contrôle des dépenses et gestion de la trésorerie.
-
+                        <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Rédaction d'une lettre de motivation personnalisée
+                        </li>
+                        <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Adaptation des documents aux offres d'emploi
                         </li>
                         <p class="module-title"><i class="fas fa-chevron-right"></i><span
-                                style="font-weight: 600">Module 3</span> : Approvisionnement et Gestion des Stocks </p>
+                                style="font-weight: 600">Module 3</span> : Développement de la Marque Personnelle </p>
                         <ul>
-                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Techniques d’approvisionnement</li>
-                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Organisation des entrepôts et suivi des inventaires</li>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Importance de la marque personnelle dans la recherche d'emploi</li>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Optimisation de LinkedIn et autres réseaux sociaux</li>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Techniques de réseautage en ligne et hors ligne</li>
+
 
                         </ul>
 
                         <p class="module-title"><i class="fas fa-chevron-right"></i><span
-                                style="font-weight: 600">Module 4</span> : Planification et Logistique</p>
+                                style="font-weight: 600">Module 4</span> : Techniques de Recherche d’Emploi</p>
                         <ul>
-                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion des flux logistiques (achat, stockage, distribution).</li>
-                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Optimisation des processus logistiques</li>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Stratégies efficaces pour la recherche d'emploi</li>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Utilisation des plateformes de recherche d'emploi</li>
+                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Réseautage et contacts professionnels</li>
+
 
                         </ul>
             </div>
@@ -149,25 +145,41 @@
             <!-- Column 2 -->
             <div>
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        5</span> :Outils et Logiciels</p>
+                        5</span> : Préparation aux Entretiens d’Embauche</p>
                 <ul>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Initiation à Excel avancé pour la gestion comptable et logistique</li>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Utilisation d’un ERP (Enterprise Resource Planning).</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Types d'entretiens et stratégies de réponse</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Simulation d'entretiens avec retour constructif</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion du stress et techniques de communication</li>
+
 
                 </ul>
                 </p>
 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        6</span> : Supervision et Contrôle </p>
+                        6</span> : Développement Professionnel Continu </p>
                 <ul>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Mise en place d'indicateurs de performance.</li>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Élaboration de tableaux de bord financiers et logistiques.</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Importance de la formation continue et de l'auto-apprentissage.</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Ressources pour le développement personnel et professionnel</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Élaboration d'un plan de carrière à court et long terme</li>
+
 
                 </ul>
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        7 </span> : Projet Final </p>
+                        7 </span> :  Soft Skills et Compétences Transversales </p>
                 <ul>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> ÉÉtude de cas pratique : gestion simultanée d’un budget et d’une chaîne logistiq</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Développement de compétences interpersonnelles (communication, travail en équipe)</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion du temps et organisation personnelle</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Adaptabilité et résolution de problèmes</li>
+
+                </ul>
+                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                        8 </span> :  Projet de Fin de Formation </p>
+                <ul>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Élaboration d'une stratégie de recherche d'emploi</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Présentation d'un projet personnel devant un jury</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Feedback et conseils pour l'avenir</li>
+                    
+
                 </ul>
 
             </div>
@@ -193,23 +205,15 @@
                         <div class="card-body">
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
-                                    Comptable spécialisé en logistique.
+                                Formateur en Employabilité
                                 </li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
-                                    Responsable logistique et financier.
+                                Coach Professionnel
                                 </li> <br>
                                 <li><i class="fas fa-chevron-right"></i>
-                                    Gestionnaire des stocks et approvisionnement
+                                Conseiller en Insertion Professionnelle 
                                 </li> <br>
-                                <li><i class="fas fa-chevron-right"></i>
-                                    Assistant comptable-logistique.
-                                </li> <br>
-                                <li><i class="fas fa-chevron-right"></i>
-                                    Analyste financier-logistique.
-
-                                </li> <br>
-
                             </ul>
                         </div>
                     </div>
@@ -229,12 +233,10 @@
                     <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#accordion">
                         <div class="card-body">
                             <ul>
+                                
                                 <li><i class="fas fa-chevron-right"></i>
-                                    Intérêt pour la logistique et la gestion des flux.</li> <br>
-                                <li><i class="fas fa-chevron-right"></i>
-                                    Sens de l’organisation et esprit d’analyse</li> <br>
-                                <li><i class="fas fa-chevron-right"></i>
-                                    Bonne maîtrise de l’outil informatique.</li> <br>
+                                Être motivé et avoir une envie d'apprendre</li> <br>
+                              
                             </ul>
                         </div>
                     </div>
@@ -284,7 +286,7 @@
                     </div>
                     <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#accordion">
                         <div class="card-body">
-                            <p> La formation se déroule sur une durée de <span style="font-weight: 700;"> 6 mois</span>
+                            <p> La formation se déroule sur une durée de <span style="font-weight: 700;"> 2 mois</span>
                                 pour permettre aux participants de concilier apprentissage et application pratique.</p>
                         </div>
                     </div>
@@ -314,16 +316,15 @@
 
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
-                                        Études de cas réels
+                                    Simulations d'entretiens et études de cas
                                     </span> : pour comprendre les défis du terrain.
                                 </li> <br>
 
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
-                                        Encadrement personnalisé
+                                    Webinaires avec des professionnels du secteur
                                     </span> :
-                                    avec des professionnels expérimentés en comptabilité et logistique.
-
+                                     pour apprendre plus auprès d'eux.
                                 </li>.
                                 <br>
                                 <li><i class="fas fa-chevron-right"></i>
@@ -378,32 +379,28 @@
                             <ul>
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
-                                        Paiement en trois fois
-                                    </span> :Versez un acompte de 100 000 FCFA à l'inscription, puis deux autres
-                                    tranches de 100 000 FCFA respectivement deux et cinq mois après le début de la
-                                    formation.
+                                        Paiement en une seule fois
+                                    </span> :Montant total de 150 000 FCFA à régler lors de l'inscription.
                                 </li>
                                 <br>
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
-                                        Paiement flexible
-                                    </span> :Réglez la formation à votre rythme, en versant des sommes variables selon
-                                    vos disponibilités financières. Le montant total doit être acquitté dans un délai de
-                                    six mois.
+                                        Paiement échelonné
+                                    </span> :Versement d'un acompte de 50 000 FCFA à l'inscription, 
+                                    suivi de deux paiements de 50 000 FCFA chacun, respectivement à la fin du premier et du deuxième mois.
                                 </li> <br>
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
-                                        Paiement journalier
-                                    </span> :Optez pour un paiement quotidien de 2000 FCFA ou 1000 FCFA via Momopay,
-                                    après avoir versé l'acompte initial.
+                                        Paiement flexible
+                                    </span> :Réglez la formation à votre rythme, avec des versements adaptés à vos capacités financières,
+                                     à condition que le montant total soit acquitté dans un délai de trois mois.
                                 </li>
                                 <br>
-                                <p style="font-weight: 600;">Le coût total de la formation s'élève à 350 000fcfa et
+                                <p style="font-weight: 600;">Le coût total de la formation s'élève à 150 000fcfa et
                                     inclut l'accès à tous les supports pédagogiques, le suivi personnalisé par un
                                     mentor, ainsi que la participation aux ateliers et événements organisés dans le
                                     cadre de la formation.</p>
-                                <p style="font-weight: 600;">Les outils nécessaires restent à la charge de l'apprenant.
-                                </p>
+                                
 
 
                             </ul>
@@ -416,72 +413,11 @@
         </div>
         </div>
     </section>
-
-
-    <section>
-        <div class="container" style="margin: 110px;">
-            <div class="row">
-                <!-- Bloc 1 -->
-                <div class="col-md-4">
-                    <a href="formulaire_inscription.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-user-plus"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Candidature</span> <br>
-                                <span>Inscrivez-vous dès maintenant</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-                <!-- Bloc 2 -->
-                <div class="col-md-4">
-                    <a href="dossier\Fichier CM2.pdf" download class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-file-alt"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Documentation</span> <br>
-                                <span>Obtenir une documentation</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- Bloc 3 -->
-                <div class="col-md-4">
-                    <a href="contact.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-question-circle"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Contact</span> <br>
-                                <span>Posez-nous vos questions!</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
-
+    <?php include 'suite_formation.php'?>
     <!-- Start Footer -->
     <?php  include 'footer.php'?>
     <!-- End Footer -->
-
-    <div class="footer_bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p class="crp">© Copyrights 2024</p>
-                </div>
-            </div>
-        </div>
-    </div>
-
+    <?php include 'footer_bottom.php'?>
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 
     <!-- ALL JS FILES -->

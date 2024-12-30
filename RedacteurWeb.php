@@ -99,23 +99,24 @@
    <!-- Programme de la Formation -->
 <section style="padding: 50px;">
     <h2 class="section-title">Programme de la Formation</h2>
-    <p> D'une masse totale horaire de <span class="section-info"> 750 heures</span>, le programme est structuré autour de modules progressifs permettant une approche globale et pratique de la gestion des réseaux sociaux.</p><div class="columns">
+    <p> Le programme est structuré autour de modules progressifs permettant une approche globale et pratique.</p>
+    <div class="columns">
         <!-- Column 1 -->
         <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>: Fondamentaux de la Rédaction Web et SEO -100h</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>: Fondamentaux de la Rédaction Web et SEO </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Introduction à la rédaction web, principes de base du SEO, initiation aux outils de recherche de mots-clés, notions de référencement naturel.</li>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> :Techniques de Rédaction -150h</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> :Techniques de Rédaction </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Rédaction d'articles de blog, rédaction pour les réseaux sociaux, adaptation du style selon le support, storytelling et copywriting persuasif.</li><br>
               
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> :Outils du Rédacteur Web - 100h</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> :Outils du Rédacteur Web </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Utilisation de CMS (WordPress), outils de gestion de contenu, analyse SEO (Google Analytics, Semrush), gestion de l'optimisation sémantique.</li>
             </ul>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span> : Création de Contenu Multimédia et Gestion des Réseaux Sociaux - 150h</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span> : Création de Contenu Multimédia et Gestion des Réseaux Sociaux </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Création de contenu visuel : Maîtrise des outils de création d'images (Canva, Adobe Spark) et de vidéos (Premiere Pro, Filmora) pour les réseaux sociaux.</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Infographies : Conception et utilisation des infographies pour renforcer l'impact des articles de blog et posts</li>
@@ -125,7 +126,7 @@
 
         <!-- Column 2 -->
         <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> :Référencement Naturel (SEO) Avancé - 150h</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> :Référencement Naturel (SEO) Avancé </p>
                 <ul>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Mots-clés et optimisation : Techniques de recherche avancée de mots-clés, balisage HTML (meta-tags, balises H1-H6), optimisation sémantique, et SEO on-page.</li>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	SEO off-page : Stratégies de backlinks, optimisation du netlinking et intégration avec les stratégies de contenu.</li>
@@ -133,13 +134,13 @@
                 </ul>
             </p>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 6</span> :Marketing de Contenu et Stratégies Editoriales - 100h </p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 6</span> :Marketing de Contenu et Stratégies Editoriales  </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Élaboration de stratégies de contenu, mise en place d'un calendrier éditorial, coordination avec les équipes marketing et webmasters.</li>
                            
             </ul>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 7</span>:  Projet Final - 100h</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 7</span>:  Projet Final </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Création d'un portfolio personnel incluant plusieurs types de contenus (articles, pages web, réseaux sociaux, vidéos) basés sur les objectifs marketing d'un client fictif.</li>
             </ul>
@@ -411,72 +412,11 @@
             </div>
         </div>
     </section>
-
-
-    <section>
-    <div class="container" style="margin: 110px;">
-        <div class="row">
-            <!-- Bloc 1 -->
-            <div class="col-md-4">
-                <a href="formulaire_inscription.php" class="hover-block">
-                    <div style="display: flex;">
-                        <div class="service-item">
-                            <i class="fas fa-user-plus"></i>
-                        </div>
-                        <div style="padding: 10px;">
-                            <span style="font-weight: 900; font-size: 20px;">Candidature</span> <br>
-                            <span>Inscrivez-vous dès maintenant</span>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            
-            <!-- Bloc 2 -->
-            <div class="col-md-4">
-    <a href="dossier\Fichier CM2.pdf" download class="hover-block">
-        <div style="display: flex;">
-            <div class="service-item">
-                <i class="fas fa-file-alt"></i>
-            </div>
-            <div style="padding: 10px;">
-                <span style="font-weight: 900; font-size: 20px;">Documentation</span> <br>
-                <span>Obtenir une documentation</span>
-            </div>
-        </div>
-    </a>
-</div>
-     <!-- Bloc 3 -->
-     <div class="col-md-4">
-                <a href="contact.php" class="hover-block">
-                    <div style="display: flex;">
-                        <div class="service-item">
-                            <i class="fas fa-question-circle"></i>
-                        </div>
-                        <div style="padding: 10px;">
-                            <span style="font-weight: 900; font-size: 20px;">Contact</span> <br>
-                            <span>Posez-nous vos questions!</span>
-                        </div>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </div>
-</section>
-
+    <?php include 'suite_formation.php'?>
     <!-- Start Footer -->
    <?php  include 'footer.php'?>
     <!-- End Footer -->
-
-    <div class="footer_bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p class="crp">© Copyrights 2024</p>
-                </div>
-            </div>
-        </div>
-    </div>
-
+    <?php include 'footer_bottom.php'?>
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 
     <!-- ALL JS FILES -->

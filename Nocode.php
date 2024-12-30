@@ -103,24 +103,24 @@
     <!-- Programme de la Formation -->
 <section style="padding: 50px;">
     <h2 class="section-title">Programme de la Formation</h2>
-    <p> D'une masse totale horaire de <span class="section-info">1750 heures</span>, le programme est modulaire et couvre les aspects suivants :</p>
+    <p>Le programme est modulaire et couvre les aspects suivants :</p>
     <div class="columns">
         <!-- Column 1 -->
         <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>:Fondamentaux du Web et No Code (HTML, CSS, Outils No Code) - 150h</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>:Fondamentaux du Web et No Code (HTML, CSS, Outils No Code) </p>
             
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> :Développement d'Applications No Code (Adalo, Webflow,) - 300h</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> :Développement d'Applications No Code (Adalo, Webflow,) </p>
            
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> : Développement avec WordPress (Création de sites, Plugins, Thèmes) - 300h</p>   
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span> :Développement d'Applications avec Bubble (Création d'applications web, Gestion de données) - 300h</p>     
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> : Développement avec WordPress (Création de sites, Plugins, Thèmes) </p>   
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span> :Développement d'Applications avec Bubble (Création d'applications web, Gestion de données) </p>     
         </div>
 
         <!-- Column 2 -->
         <div>
        
-        <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> :Utilisation de l'IA dans le Développement No Code (Outils IA, Automatisation, Amélioration de l'expérience utilisateur) - 200h</p>
-        <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 6</span> :Déploiement et Hébergement (Mise en ligne d’applications, gestion de la sécurité et des performances) - 200h </p>
-        <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 7</span> :Projet Final (Développement d’une application complète mettant en œuvre les compétences acquises) – 300 h </p>
+        <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> :Utilisation de l'IA dans le Développement No Code (Outils IA, Automatisation, Amélioration de l'expérience utilisateur) </p>
+        <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 6</span> :Déploiement et Hébergement (Mise en ligne d’applications, gestion de la sécurité et des performances)  </p>
+        <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 7</span> :Projet Final (Développement d’une application complète mettant en œuvre les compétences acquises)  </p>
 
            
 
@@ -420,69 +420,12 @@
             </div>
         </div>
     </section>
-    <section>
-    <div class="container" style="margin: 110px;">
-        <div class="row">
-            <!-- Bloc 1 -->
-            <div class="col-md-4">
-                <a href="formulaire_inscription.php" class="hover-block">
-                    <div style="display: flex;">
-                        <div class="service-item">
-                            <i class="fas fa-user-plus"></i>
-                        </div>
-                        <div style="padding: 10px;">
-                            <span style="font-weight: 900; font-size: 20px;">Candidature</span> <br>
-                            <span>Inscrivez-vous dès maintenant</span>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            
-            <!-- Bloc 2 -->
-            <div class="col-md-4">
-    <a href="" download="fichier\Nouveau_fichier.pdf" class="hover-block">
-        <div style="display: flex;">
-            <div class="service-item">
-                <i class="fas fa-file-alt"></i>
-            </div>
-            <div style="padding: 10px;">
-                <span style="font-weight: 900; font-size: 20px;">Documentation</span> <br>
-                <span>Obtenir une documentation</span>
-            </div>
-        </div>
-    </a>
-</div>
-     <!-- Bloc 3 -->
-     <div class="col-md-4">
-                <a href="contact.php" class="hover-block">
-                    <div style="display: flex;">
-                        <div class="service-item">
-                            <i class="fas fa-question-circle"></i>
-                        </div>
-                        <div style="padding: 10px;">
-                            <span style="font-weight: 900; font-size: 20px;">Contact</span> <br>
-                            <span>Posez-nous vos questions!</span>
-                        </div>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </div>
-</section>
-
+  <?php include 'suite_formation.php'?> 
     <!-- Start Footer -->
    <?php  include 'footer.php'?>
     <!-- End Footer -->
 
-    <div class="footer_bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p class="crp">© Copyrights 2019 design by html.design</p>
-                </div>
-            </div>
-        </div>
-    </div>
+   <?php include 'footer_bottom.php'?>
 
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 

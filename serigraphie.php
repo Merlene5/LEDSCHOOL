@@ -95,10 +95,10 @@
    <!-- Programme de la Formation -->
 <section style="padding: 50px;">
     <h2 class="section-title">Programme de la Formation</h2>
-    <p> D'une masse totale horaire de <span class="section-info"> 750 heures</span>, le programme est structuré autour de modules progressifs permettant une approche globale et pratique de la gestion des réseaux sociaux.</p><div class="columns">
+    <p> D'une masse totale horaire de <span class="section-info"> 750 heures</span>, le programme est structuré autour de modules progressifs permettant une approche globale et pratique</p><div class="columns">
         <!-- Column 1 -->
         <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>:Introduction à la conception graphique (50h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>:Introduction à la conception graphique </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Comprendre les fondamentaux du design graphique.</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Théorie des couleurs et psychologie des couleurs.</li>
@@ -107,14 +107,14 @@
 
 
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> :Outils de conception graphique (100h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> :Outils de conception graphique </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Initiation aux logiciels de design graphique : Adobe Photoshop,Adobe Illustrator,CorelDRAW </li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion des calques, masques, et effets spéciaux.</li>
 
             </ul><br>
               
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> : Création graphique avancée (120h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> : Création graphique avancée </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Conception de logos, chartes graphiques, et identités visuelles.</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Réalisation d’affiches, flyers, et brochures.</li>
@@ -124,13 +124,13 @@
 
             </ul>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span> : Introduction à la sérigraphie (80h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span> : Introduction à la sérigraphie </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Comprendre les techniques et outils de sérigraphie</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Infographies : Les différents supports d’impression (textile, papier, plastique, métal).</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Réseaux sociaux :Présentation des encres et matériaux nécessaires.</li>
             </ul>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> :Préparation des fichiers pour l’impression (70h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> :Préparation des fichiers pour l’impression</p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Formats de fichiers adaptés à l’impression.</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Conversion des couleurs pour l’impression (CMJN vs RVB).</li>
@@ -145,7 +145,7 @@
         <div>
            
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 6</span> : Atelier de sérigraphie pratique (150h) </p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 6</span> : Atelier de sérigraphie pratique </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Préparation des cadres et des écrans de sérigraphie.</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Réalisation d’impressions sur textiles (t-shirts, sacs, etc.).</li>
@@ -156,19 +156,19 @@
                            
             </ul>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 7</span>:  Marketing et branding visuel (50h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 7</span>:  Marketing et branding visuel </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Concevoir des supports de communication pour une marque.</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Création de visuels impactants pour la publicité et les réseaux sociaux.</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Principes de storytelling visuel et de branding.</li>
             </ul>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 8</span>:  Gestion de projets en conception graphique (50h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 8</span>:  Gestion de projets en conception graphique </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Comprendre le processus de création, du brief client à la livraison.</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Organisation et gestion du temps pour des projets multiples.</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Collaboration avec les clients et équipes de production.</li>
             </ul>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 9</span>:  Projet final et présentation (80h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 9</span>:  Projet final et présentation </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Réalisation d’un projet complet : conception graphique et impression.</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Préparation d’un portfolio professionnel.</li>
@@ -441,71 +441,12 @@
             </div>
         </div>
     </section>
-
-
-    <section>
-    <div class="container" style="margin: 110px;">
-        <div class="row">
-            <!-- Bloc 1 -->
-            <div class="col-md-4">
-                <a href="formulaire_inscription.php" class="hover-block">
-                    <div style="display: flex;">
-                        <div class="service-item">
-                            <i class="fas fa-user-plus"></i>
-                        </div>
-                        <div style="padding: 10px;">
-                            <span style="font-weight: 900; font-size: 20px;">Candidature</span> <br>
-                            <span>Inscrivez-vous dès maintenant</span>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            
-            <!-- Bloc 2 -->
-            <div class="col-md-4">
-                <a href="dossier\Fichier CM2.pdf" download class="hover-block">
-                    <div style="display: flex;">
-                        <div class="service-item">
-                            <i class="fas fa-file-alt"></i>
-                        </div>
-                        <div style="padding: 10px;">
-                            <span style="font-weight: 900; font-size: 20px;">Documentation</span> <br>
-                            <span>Obtenir une documentation</span>
-                        </div>
-                    </div>
-                </a>
-            </div>
-     <!-- Bloc 3 -->
-     <div class="col-md-4">
-                <a href="contact.php" class="hover-block">
-                    <div style="display: flex;">
-                        <div class="service-item">
-                            <i class="fas fa-question-circle"></i>
-                        </div>
-                        <div style="padding: 10px;">
-                            <span style="font-weight: 900; font-size: 20px;">Contact</span> <br>
-                            <span>Posez-nous vos questions!</span>
-                        </div>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </div>
-</section>
-
+    <?php include 'suite_formation.php'?>
     <!-- Start Footer -->
    <?php  include 'footer.php'?>
     <!-- End Footer -->
-
-    <div class="footer_bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p class="crp">© Copyrights 2024</p>
-                </div>
-            </div>
-        </div>
-    </div>
+    
+    <?php include 'footer_bottom.php'?>
 
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 
@@ -646,4 +587,4 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
-</html>q
+</html>

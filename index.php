@@ -36,204 +36,178 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <!--link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"-->
 </head>
-
 <style>
-    a {
-        text-decoration: none;
-    }
-
-    ul,
-    ol {
-        list-style-type: none;
-    }
-
-    /* normal menu css */
-    .sub_menu_d {
-        max-height: 500px;
-
-        overflow-y: auto;
-        /* Activer le défilement vertical si nécessaire */
-        overflow-x: hidden;
-        /* Désactiver le défilement horizontal */
-    }
-
-    .main_menu>ul>li {
-        display: inline-block;
-        position: relative;
-        margin: 0 -2px;
-    }
-
-    .main_menu ul li {
-        position: relative;
-    }
-
-    .main_menu ul li a {
-        font-size: 16px;
-        color: #353535;
-        padding: 20px 25px;
-        display: block;
-        font-weight: 400;
-    }
-
-    main_menu ul li .active,
-    .main_menu ul li:hover>a {
-        color: var(--hover-color);
-    }
-
-    /* Normal Dropdown menu */
-    .main_menu ul li ul {
-        width: 230px;
-        background: #fff;
-        transition: 0.5s;
-        box-shadow: 0px 5px 15px 0px rgba(212, 201, 201, 0.75);
-    }
-
-    .main_menu ul li ul li a {
-        padding: 10px 25px;
-        font-size: 15px;
-    }
-
-    .main_menu ul li ul li a i {
-        float: bottom;
-    }
-
-    .main_menu ul li ul li ul {
-        left: 100%;
-        top: 0;
-    }
-
-    /* responsive css */
-    /* @media (min-width: 992px) and (max-width: 1199.98px) {
-        .container {
-            width: 960px;
+        /* normal menu css */
+        .sub_menu_d {
+            max-height: 500px;
+            /* Hauteur maximale */
+            overflow-y: auto;
+            /* Activer le défilement vertical si nécessaire */
+            overflow-x: hidden;
+            /* Désactiver le défilement horizontal */
         }
 
-        .mega_menu_demo_2 .mega_menu {
-            width: 940px;
-        }
-
-        .main_menu ul li ul {
-            width: 150px;
-        }
-    } */
-
-    @media (min-width: 768px) and (max-width: 991.98px) {
-        .container {
-            width: 720px;
-        }
-
-        .mega_menu_demo_2 .mega_menu {
-            width: 700px;
-        }
-
-        .main_menu ul li a {
-
-            padding: 20px 16px;
-        }
-
-        .main_menu ul li ul {
-            width: 150px;
-        }
-    }
-
-    @media (min-width: 768px) {
-        .main_menu ul li ul {
-            visibility: hidden;
-            /* opacity: 0; */
-            position: absolute;
-            margin-top: 50px;
-        }
-
-        .main_menu ul li .mega_menu {
-            visibility: hidden;
-            opacity: 0;
-            position: absolute;
-            margin-top: 50px;
-        }
-
-        .main_menu ul li:hover>ul {
-            visibility: visible;
-            opacity: 1;
-            margin-top: 0px;
-            z-index: 99;
-        }
-
-        .main_menu ul li:hover {
-            visibility: visible;
-            opacity: 1;
-            margin-top: 0;
-            z-index: 99;
-        }
-    }
-
-    @media (max-width: 767.98px) {
-        .main_menu {
-            display: none;
-            width: 100%;
+        .main_menu>ul>li {
+            display: inline-block;
+            position: relative;
+            margin: 0 -2px;
         }
 
         .main_menu ul li {
-            display: block;
-        }
-
-        .main_menu ul li a i {
-            float: right;
+            position: relative;
         }
 
         .main_menu ul li a {
-            border-bottom: 1px solid #ddd;
-
+            font-size: 16px;
+            color: #353535;
+            padding: 20px 25px;
+            display: block;
+            font-weight: 400;
         }
 
+        main_menu ul li .active,
+        .main_menu ul li:hover>a {
+            color: var(--hover-color);
+        }
+
+        /* Normal Dropdown menu */
         .main_menu ul li ul {
-            width: 100%;
+            width: 230px;
+            background: hsl(0, 0%, 100%);
+            transition: 0.5s;
+            box-shadow: 0px 5px 15px 0px rgba(212, 201, 201, 0.75);
+        }
+
+        .main_menu ul li ul li a {
+            padding: 10px 25px;
+            font-size: 15px;
+        }
+
+        .main_menu ul li ul li a i {
+            float: bottom;  
         }
 
         .main_menu ul li ul li ul {
-            left: 0;
-            top: auto;
+            left: 100%;
+            top: 0;
         }
 
-        .mega_menu .mega_menu_item {
-            width: 50%;
+        /* responsive css */
+        @media (min-width: 992px) and (max-width: 1199.98px) {
+            .container {
+                width: 960px;
+            }
+
+            .mega_menu_demo_2 .mega_menu {
+                width: 940px;
+            }
+
+            .main_menu ul li ul {
+                width: 150px;
+            }
         }
 
-        .main_menu ul li ul {
-            display: none;
-            transition: none;
+        @media (min-width: 768px) and (max-width: 991.98px) {
+            .container {
+                width: 720px;
+            }
+
+            .mega_menu_demo_2 .mega_menu {
+                width: 700px;
+            }
+
+            .main_menu ul li a {
+
+                padding: 20px 16px;
+            }
+
+            .main_menu ul li ul {
+                width: 150px;
+            }
         }
 
-        .main_menu ul li {
-            display: none;
-            transition: none;
+        @media (min-width: 768px) {
+            .main_menu ul li ul {
+                visibility: hidden;
+                opacity: 0;
+                position: absolute;
+                margin-top: 50px;
+            }
+
+            .main_menu ul li .mega_menu {
+                visibility: hidden;
+                opacity: 0;
+                position: absolute;
+                margin-top: 50px;
+            }
+
+            .main_menu ul li:hover>ul {
+                visibility: visible;
+                opacity: 1;
+                margin-top: 0px;
+                z-index: 99;
+            }
+
+            .main_menu ul li:hover {
+                visibility: visible;
+                opacity: 1;
+                margin-top: 0;
+                z-index: 99;
+            }
         }
 
+        @media (max-width: 767.98px) {
+            .main_menu {
+                display: none;
+                width: 100%;
+            }
 
-    }
+            .main_menu ul li {
+                display: block;
+            }
 
-    h3 {
-        color: #000;
-    }
+            .main_menu ul li a i {
+                float: right;
+            }
 
-    .text-danger {
-        font-weight: bold;
-    }
-</style>
+            .main_menu ul li a {
+                border-bottom: 1px solid #ddd;
+
+            }
+
+            .main_menu ul li ul {
+                width: 100%;
+            }
+
+            .main_menu ul li ul li ul {
+                left: 0;
+                top: auto;
+            }
+
+            .mega_menu .mega_menu_item {
+                width: 50%;
+            }
+
+            .main_menu ul li ul {
+                display: none;
+                transition: none;
+            }
+
+            .main_menu ul li {
+                display: none;
+                transition: none;
+            }
+
+
+        }
+
+  </style>
 </head>
 
-<body id="home" data-spy="scroll" data-target="#navbar-wd" data-offset="98" class="bg-light">
+<body id="home" data-spy="scroll" data-target="#navbar-wd" data-offset="98">
 
-    <!-- LOADER -->
-    <!--div id="preloader">
-        <div class="loader">
-            <img src="images/loader.gif" alt="#" />
-        </div>
-    </div-->
-    <!-- end loader -->
-    <!-- END LOADER -->
 
-    <!-- Start header -->
-    <header class="top-header">
+<header class="top-header">
         <nav class="navbar header-nav navbar-expand-lg">
             <div class="container-fluid">
                 <a class="navbar-brand" href="index.php"><img src="images/logoR-removebg-preview.png" alt="image"></a>
@@ -287,10 +261,8 @@
                                                 <li><a href="community.php">Community Manager</a></li>
                                                 <li><a href="social.php">Social media et influence</a></li>
                                                 <li><a href="infoBureautique.php">Informatique et Bureautique</a></li>
-                                                <li><a href="charge.php">Chargé de communication et marketing
-                                                        digital</a></li>
-                                                <li><a href="serigraphie.php">Conception graphique et sérigraphie</a>
-                                                </li>
+                                                <li><a href="charge.php">Chargé de communication et marketing digital</a></li>
+                                                <li><a href="serigraphie.php">Conception graphique et sérigraphie</a></li>
                                                 <li><a href="maintenance.php">Maintenance informatique et GSM</a></li>
                                                 <li><a href="journalisme.php">Web journalisme</a></li>
                                                 <li><a href="reporter.php">Jeune reporter d'images </a></li>
@@ -339,7 +311,7 @@
                         <li><a class="nav-link" href="admission.php">Admission</a></li>
                         <li><a class="nav-link" href="pedagogie.php">Pédadogie</a></li>
                         <li><a class="nav-link" href="actualites.php">Actualités</a></li>
-                        <li><a class="nav-link" href="contact.php">Contactez-nous </a></li>
+                        <li><a class="nav-link" href="contact.php">contactez-nous</a></li>
 
 
                     </ul>
@@ -409,17 +381,25 @@
                 <div class="col-md-12">
                     <div class="tab_menu">
                         <ul>
-                            <li><a href="#"><span class="icon"><i class="fas fa-lightbulb"></i></span><span>Innovation</span></a></li>
-                            <li><a href="#"><span class="icon"><i class="fas fa-user-tie"></i></span><span>Leadership</span></a></li>
-                            <li><a href="#"><span class="icon"><i class="fas fa-project-diagram"></i></span><span>Projets Réels</span></a></li>
-                            <li><a href="#"><span class="icon"><i class="fas fa-compass"></i></span><span>Coaching </span></a></li>
-                            <li><a href="#"><span class="icon"><i class="fas fa-handshake"></i></span><span>Mentorat</span></a></li>
-                            <li><a href="#"><span class="icon"><i class="fas fa-users"></i></span><span>Communauté</span></a></li>
-                            <li><a href="#"><span class="icon"><i class="fas fa-hands-helping"></i></span><span>Soft Skills</span></a></li>
+                            <li><a href="#"><span class="icon"><i
+                                            class="fas fa-lightbulb"></i></span><span>Innovation</span></a></li>
+                            <li><a href="#"><span class="icon"><i
+                                            class="fas fa-user-tie"></i></span><span>Leadership</span></a></li>
+                            <li><a href="#"><span class="icon"><i
+                                            class="fas fa-project-diagram"></i></span><span>Projets Réels</span></a>
+                            </li>
+                            <li><a href="#"><span class="icon"><i class="fas fa-compass"></i></span><span>Coaching
+                                    </span></a></li>
+                            <li><a href="#"><span class="icon"><i
+                                            class="fas fa-handshake"></i></span><span>Mentorat</span></a></li>
+                            <li><a href="#"><span class="icon"><i
+                                            class="fas fa-users"></i></span><span>Communauté</span></a></li>
+                            <li><a href="#"><span class="icon"><i class="fas fa-hands-helping"></i></span><span>Soft
+                                        Skills</span></a></li>
                         </ul>
                     </div>
-                    
-                    
+
+
                 </div>
             </div>
         </div>
@@ -546,134 +526,57 @@
         <p class="text-center">Notre pédagogie innovante vise à créer un environnement d'apprentissage dynamique et
             inclusif.</p>
     </div>
+
     <div class="container mt-5">
-        <div class="row mt-5">
-            <!-- Cartes visibles (1 à 4) -->
-            <div class="col-md-6">
-                <div class="card">
-                    <div class="card-body">
-                        <h5 class="card-title">
-                            <i class="fas fa-user-graduate"></i>
-                            Pédagogie centrée sur l'apprenant
-                        </h5>
-                        <p class="card-text">Nous personnalisons l'apprentissage en tenant compte des intérêts et des
-                            besoins de chaque apprenant, favorisant leur engagement et motivation.</p>
+        <div class="row">
+            <!-- Première boîte : Pédagogie centrée sur l'apprenant -->
+            <div class="col-md-4">
+                <div class="feature-box bg-gray">
+                    <div class="feature-icon">
+                        <!-- Icône Font Awesome : Utilisateur -->
+                        <i class="fas fa-user"></i>
                     </div>
+                    <h4><span style="color:black; font-weight: 600;">Pédagogie centrée sur l'apprenant</span></h4>
+                    <p>Nous personnalisons l'apprentissage en tenant compte des besoins, des intérêts et des styles de
+                        chaque apprenant, renforçant leur engagement et leur motivation.</p>
                 </div>
             </div>
-            <div class="col-md-6">
-                <div class="card">
-                    <div class="card-body">
-                        <h5 class="card-title">
-                            <i class="fas fa-chalkboard-teacher"></i>
-                            Intégration des technologies éducatives
-                        </h5>
-                        <p class="card-text">Nous utilisons des plateformes d'apprentissage en ligne et des applications
-                            éducatives pour enrichir l'expérience d'apprentissage.</p>
+            <!-- Deuxième boîte : Intégration des technologies éducatives -->
+            <div class="col-md-4">
+                <div class="feature-box">
+                    <div class="feature-icon">
+                        <!-- Icône Font Awesome : Ordinateur -->
+                        <i class="fas fa-laptop-code"></i>
                     </div>
+                    <h4><span style="color: black;font-weight: 600;">Intégration des technologies éducatives</span></h4>
+                    <p>Nous utilisons des plateformes en ligne et des outils numériques pour rendre l'apprentissage
+                        interactif et favoriser la collaboration entre les apprenants.</p>
                 </div>
             </div>
-            <div class="col-md-6">
-                <div class="card">
-                    <div class="card-body">
-                        <h5 class="card-title">
-                            <i class="fas fa-lightbulb"></i>
-                            Apprentissage par projet
-                        </h5>
-                        <p class="card-text">Les projets impliquent des problématiques concrètes et actuelles,
-                            permettant aux élèves de développer leur créativité et leur capacité à résoudre des
-                            problèmes.</p>
+            <!-- Troisième boîte : Apprentissage par projet -->
+            <div class="col-md-4">
+                <div class="feature-box">
+                    <div class="feature-icon">
+                        <!-- Icône Font Awesome : Ampoule -->
+                        <i class="fas fa-lightbulb"></i>
                     </div>
+                    <h4><span style="color:black;font-weight:600">Apprentissage par projet</span></h4>
+                    <p>Grâce à des projets concrets et pertinents, les apprenants développent leur créativité et leur
+                        capacité à résoudre des problèmes complexes.</p>
                 </div>
             </div>
-            <div class="col-md-6">
-                <div class="card">
-                    <div class="card-body">
-                        <h5 class="card-title">
-                            <i class="fas fa-sync"></i>
-                            Alternance d'apprentissage
-                        </h5>
-                        <p class="card-text">Les élèves alternent entre l'apprentissage en classe et en milieu
-                            professionnel, leur permettant d'appliquer leurs connaissances dans un environnement réel.
-                        </p>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Cartes cachées (5 à 8) -->
-            <!-- <div class="collapse" id="more-cards">
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="card">
-                            <div class="card-body">
-                                <h5 class="card-title">
-                                    <i class="fas fa-trophy"></i>
-                                    Challenges
-                                </h5>
-                                <p class="card-text">Nous proposons des défis comme des hackathons, incitant les élèves
-                                    à sortir de leur zone de confort et à travailler sur des problèmes réels.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="card">
-                            <div class="card-body">
-                                <h5 class="card-title">
-                                    <i class="fas fa-handshake"></i>
-                                    Développement des Soft Skills
-                                </h5>
-                                <p class="card-text">Nous intégrons le développement de compétences interpersonnelles,
-                                    comme le leadership, essentielles dans le monde professionnel.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="card">
-                            <div class="card-body">
-                                <h5 class="card-title">
-                                    <i class="fas fa-briefcase"></i>
-                                    Coaching carrière
-                                </h5>
-                                <p class="card-text">Nous offrons un accompagnement personnalisé pour aider les élèves à
-                                    développer un plan d'action et à se préparer aux entretiens et au monde
-                                    professionnel.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="card">
-                            <div class="card-body">
-                                <h5 class="card-title">
-                                    <i class="fas fa-user-friends"></i>
-                                    Mentorat
-                                </h5>
-                                <p class="card-text">Nos programmes de mentorat permettent aux élèves de bénéficier des
-                                    conseils de professionnels et d'élargir leur réseau.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div> -->
-
-            <!-- Bouton Suite -->
-            <!-- <div class="show-more text-center mt-3">
-                <a href="pedagogie.php" class=" decouvrir">
-                    Détails plus <i class="fa fa-arrow-right" aria-hidden="true"></i>
-                </a>
-            </div> -->
-            <div class="show-more">
+        </div>
+        <div class="show-more">
             <a href="pedagogie.php" class="btn-decouvrir">
             Découvrir <i class="fas fa-arrow-right"></i>
              </a>
-            </div>
-
-
         </div>
     </div>
+    
     <!--fin de la partie pédagogie-->
     <!-- section -->
     <div class="container mt-5">
-        <div class="heading_main text_align_center col-md-12">
+        <div class="heading_main text_align_center col-md-12" style="margin-bottom: 30px;">
             <h2><span>
                     Evènements
                 </span></h2>
@@ -780,7 +683,7 @@
                                     <div class="row">
                                         <div style="display: flex; justify-content: space-between;">
                                             <div>
-                                                <img  src="images/img9.png" alt="#"  width="500px" height="350 px"/>
+                                                <img src="images/img9.png" alt="#" width="500px" height="350 px" />
                                             </div>
                                             <div class="text-justify" style="margin: 30px;">
                                                 <p
@@ -810,7 +713,7 @@
                                     <div class="row">
                                         <div style="display: flex; justify-content: space-between;">
                                             <div>
-                                                <img  src="images/img9.png" alt="#"  width="500px" height="350 px"/>
+                                                <img src="images/img9.png" alt="#" width="500px" height="350 px" />
                                             </div>
                                             <div class="text-justify" style="margin: 30px;">
                                                 <p
@@ -906,78 +809,9 @@
         <!-- End Section -->
 
     </div> <!-- Start Footer -->
-    <footer class="footer-box">
-        <div class="container">
-
-            <div class="row">
-
-                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
-                    <div class="footer_blog">
-                        <div class="full margin-bottom_30">
-                            <img src="images/logoR-removebg-preview.png" alt="#" />
-                        </div>
-                        <div class="full white_fonts">
-                            <p>Apprenez en faisant,
-                                reussissez en devenant!
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
-                    <div class="footer_blog footer_menu white_fonts">
-                        <h3>Liens utiles</h3>
-                        <ul>
-                            <li><a href="index.php">> accueil</a></li>
-                            <li><a href="presentation.php">>Presentation </a></li>
-                            <li><a href="">> Actualités</a></li>
-                            <li><a href="#">> Pédagogie</a></li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
-                    <div class="footer_blog full white_fonts">
-                        <h3>Newsletter</h3>
-                        <p>Laissez nous un message</p>
-                        <div class="newsletter_form">
-                            <form action="index.html">
-                                <input type="email" placeholder="Your Email" name="#" required />
-                                <button>envoyer</button>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
-                    <div class="footer_blog full white_fonts">
-                        <h3>Contact us</h3>
-                        <ul class="full">
-                            <li><img src="images/i5.png"><span>Ladjifarani, voie camp Séro Kpéra rue Cap Finance<br>
-                                    Parakou,Benin
-                                </span></li>
-                            <li><img src="images/i6.png"></li>
-                            <li><img src="images/i7.png"><span> (+229) 67589631 / 63100010 </span></li>
-                        </ul>
-                    </div>
-                </div>
-
-            </div>
-
-        </div>
-    </footer>
+    <?php include 'footer.php'?>
     <!-- End Footer -->
-    
-    <div class="footer_bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p class="crp">© Copyrights 2024 </p>
-                </div>
-            </div>
-        </div>
-    </div>
-
+  <?php include 'footer_bottom.php'?>
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 
     <!-- ALL JS FILES -->

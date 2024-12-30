@@ -112,14 +112,14 @@
     <!-- Programme de la Formation -->
     <section style="padding: 50px;">
         <h2 class="section-title">Programme de la Formation</h2>
-        <p> D'une masse totale horaire de <span class="section-info"> 700 heures</span>, le programme est structuré
+        <p>Le programme est structuré
             autour de modules progressifs permettant une approche globale et pratique de la gestion des réseaux sociaux.
         </p>
         <div class="columns">
             <!-- Column 1 -->
             <div>
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        1</span>:Fondamentaux de l'informatique et des technologies mobiles (100h)</p>
+                        1</span>:Fondamentaux de l'informatique et des technologies mobiles </p>
                 <ul>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Bases du matériel informatique et
                         des réseaux.</li>
@@ -128,7 +128,7 @@
                 </ul>
 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        2</span> :Maintenance des équipements informatiques (150h)</p>
+                        2</span> :Maintenance des équipements informatiques </p>
                 <ul>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Diagnostic et réparation des
                         composants matériels (disques durs, RAM, processeurs).</li>
@@ -141,7 +141,7 @@
                 </ul><br>
 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        3</span> : Maintenance des équipements GSM (200h)</p>
+                        3</span> : Maintenance des équipements GSM </p>
                 <ul>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Diagnostic et réparation des
                         smartphones et tablettes.</li>
@@ -158,7 +158,7 @@
             <!-- Column 2 -->
             <div>
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                    4</span> :Technologies avancées (100h)</p>
+                    4</span> :Technologies avancées </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Introduction aux technologies IoT
                     (Internet des objets).</li>
@@ -166,7 +166,7 @@
                     (smartwatches, capteurs intelligents).</li>
             </ul>
             <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                    5</span> :Projets pratiques et cas réels (150h)</p>
+                    5</span> :Projets pratiques et cas réels</p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Ateliers de dépannage d’équipements
                     informatiques et GSM.</li>
@@ -326,7 +326,7 @@
 
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
-                                        Ateliers pratiques :
+                                        Ateliers pratiques 
                                     </span> :     Travaillez sur des équipements réels pour développer des compétences concrètes.
                                 </li> <br>
 
@@ -438,71 +438,13 @@
             </div>
         </div>
     </section>
-
-
-    <section>
-        <div class="container" style="margin: 110px;">
-            <div class="row">
-                <!-- Bloc 1 -->
-                <div class="col-md-4">
-                    <a href="formulaire_inscription.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-user-plus"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Candidature</span> <br>
-                                <span>Inscrivez-vous dès maintenant</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-                <!-- Bloc 2 -->
-                <div class="col-md-4">
-                    <a href="dossier\Fichier CM2.pdf" download class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-file-alt"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Documentation</span> <br>
-                                <span>Obtenir une documentation</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- Bloc 3 -->
-                <div class="col-md-4">
-                    <a href="contact.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-question-circle"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Contact</span> <br>
-                                <span>Posez-nous vos questions!</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
+<?php include 'suite_formation.php'?>
 
     <!-- Start Footer -->
     <?php  include 'footer.php'?>
     <!-- End Footer -->
 
-    <div class="footer_bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p class="crp">© Copyrights 2024</p>
-                </div>
-            </div>
-        </div>
-    </div>
+  <?php include 'footer_bottom.php'?>
 
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 

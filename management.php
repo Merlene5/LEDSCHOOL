@@ -43,137 +43,115 @@
 <body id="inner_page" data-spy="scroll" data-target="#navbar-wd" data-offset="98">
 
     <!-- Start header -->
-    <?php  include 'header.php'?>
+    <?php include 'header.php'?>
     <!-- End header -->
 
     <section class="inner_banner">
         <div class="Superpose"></div>
         <div class="container">
             <div class="full animate__animated animate__fadeInDown">
-                <h3> Comptable-Logisticien</h3>
+                <h3>Formation en Management</h3>
             </div>
         </div>
     </section>
-    <!--section-->
+
     <section>
         <div class="container" style="padding-top: 60px;">
             <div class="row">
                 <div class="col-md-12">
-                    <p style="font-size: 2rem; font-weight: 600;line-height: 1.6; text-align: center">
-                        Devenez Comptable-Logisticien : Alliez Expertise Financière et Gestion Logistique
+                    <p style="font-size: 2rem; font-weight: 600; line-height: 1.6; text-align: center">
+                        Formation en Management : Développez vos Compétences de Leadership
+                    </p>
                 </div>
-                <div class="col-md-12 text-justify ">
-                    <p style="font-size:1rem " ;>Cette formation complète vous offre les compétences nécessaires pour
-                        exceller dans la gestion comptable et logistique. En combinant théorie et pratique, vous
-                        apprendrez à maîtriser les fondamentaux de la comptabilité, à gérer les flux financiers, et à
-                        planifier les opérations logistiques. Vous développerez des aptitudes en gestion de stocks,
-                        optimisation des processus, et utilisation d'outils numériques spécialisés.</p>
+                <div class="col-md-12 text-justify">
+                    <p style="font-size: 1rem;">Cette formation vous permettra d'acquérir les compétences essentielles
+                        pour gérer des équipes, motiver les collaborateurs et optimiser les performances au sein de
+                        votre organisation. Vous apprendrez à appliquer des techniques de management modernes et à
+                        développer votre style de leadership.</p>
                 </div>
             </div>
         </div>
     </section>
+
     <!-- Objectifs de la Formation -->
     <section style="padding: 50px;">
         <h2 class="section-title">Objectifs de la Formation</h2>
-        <p>A l'issue de la formation vous serez capable de : </p>
-
+        <p>A l'issue de la formation vous serez capable de :</p>
         <div class="centered-columns">
             <div>
-                <p><i class="fas fa-chevron-right"></i> Maîtriser les principes fondamentaux de la comptabilité générale
-                    et analytique.
-                </p>
-                <p><i class="fas fa-chevron-right"></i> Gérer efficacement les flux financiers et élaborer des budgets.
-                </p>
-                <p><i class="fas fa-chevron-right"></i> Planifier et coordonner les opérations logistiques : achats,
-                    stockages et distributions.</p>
-                <p><i class="fas fa-chevron-right"></i> Superviser les inventaires et assurer une gestion optimale des
-                    stocks.</p>
+                <p><i class="fas fa-chevron-right"></i> Comprendre les concepts fondamentaux du management.</p>
+                <p><i class="fas fa-chevron-right"></i> Développer un style de leadership adapté à votre équipe.</p>
+                <p><i class="fas fa-chevron-right"></i> Communiquer efficacement avec les membres de l'équipe.</p>
+                <p><i class="fas fa-chevron-right"></i> Gérer les conflits et prendre des décisions éclairées.</p>
             </div>
             <div>
-                <p><i class="fas fa-chevron-right"></i>Utiliser des outils numériques et logiciels spécialisés (Excel,
-                    ERP, etc.) pour la gestion comptable et logistique. </p>
-                <p><i class="fas fa-chevron-right"></i> Collaborer avec les différents services pour optimiser les
-                    processus financiers et logistiques.</p>
-                <p><i class="fas fa-chevron-right"></i> Réaliser des rapports financiers et des tableaux de bord
-                    logistiques précis et exploitables.</p>
-            </div>
-
-    </section>
-
-    <!-- Programme de la Formation -->
-    <section style="padding: 50px;">
-        <h2 class="section-title">Programme de la Formation</h2>
-        <p> Le programme est structuré
-            autour de modules progressifs permettant une approche globale et pratique
-        </p>
-        <div class="columns">
-            <!-- Column 1 -->
-            <div>
-                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1
-                    </span>: Introduction à la Comptabilité</p>
-                <ul>
-
-
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Bases de la comptabilité générale
-                    </li>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Écriture comptable et analyse
-                        financière.</li>
-
-                    <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                            2</span> :Gestion Budgétaire et Finances</p>
-                    <ul>
-                        <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Écriture comptable et analyse
-                            financière.
-
-                        </li>
-                        <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Contrôle des dépenses et gestion de la trésorerie.
-
-                        </li>
-                        <p class="module-title"><i class="fas fa-chevron-right"></i><span
-                                style="font-weight: 600">Module 3</span> : Approvisionnement et Gestion des Stocks </p>
-                        <ul>
-                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Techniques d’approvisionnement</li>
-                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Organisation des entrepôts et suivi des inventaires</li>
-
-                        </ul>
-
-                        <p class="module-title"><i class="fas fa-chevron-right"></i><span
-                                style="font-weight: 600">Module 4</span> : Planification et Logistique</p>
-                        <ul>
-                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion des flux logistiques (achat, stockage, distribution).</li>
-                            <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Optimisation des processus logistiques</li>
-
-                        </ul>
-            </div>
-
-            <!-- Column 2 -->
-            <div>
-                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        5</span> :Outils et Logiciels</p>
-                <ul>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Initiation à Excel avancé pour la gestion comptable et logistique</li>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Utilisation d’un ERP (Enterprise Resource Planning).</li>
-
-                </ul>
-                </p>
-
-                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        6</span> : Supervision et Contrôle </p>
-                <ul>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Mise en place d'indicateurs de performance.</li>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Élaboration de tableaux de bord financiers et logistiques.</li>
-
-                </ul>
-                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        7 </span> : Projet Final </p>
-                <ul>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> ÉÉtude de cas pratique : gestion simultanée d’un budget et d’une chaîne logistiq</li>
-                </ul>
-
+                <p><i class="fas fa-chevron-right"></i> Mettre en place des indicateurs de performance.</p>
+                <p><i class="fas fa-chevron-right"></i> Élaborer des plans d'action pour améliorer la performance.</p>
+                <p><i class="fas fa-chevron-right"></i> Gérer le changement au sein de l'organisation.</p>
             </div>
         </div>
     </section>
 
+    <!-- Programme de la Formation -->
+    <!-- Programme de la Formation -->
+    <section style="padding: 50px;">
+        <h2 class="section-title">Programme de la Formation</h2>
+        <p>Le programme est structuré autour de modules progressifs permettant une approche globale et pratique.</p>
+        <div class="columns">
+            <!-- Column 1 -->
+            <div style="padding-left: 55px;">
+                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                        1</span>: Introduction au Management</p>
+                <ul>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Concepts fondamentaux du
+                        management.</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Styles de leadership.</li>
+                </ul>
+
+                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                        2</span>: Communication et Leadership</p>
+                <ul>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Techniques de communication
+                        interpersonnelle.</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Écoute active et feedback.</li>
+                </ul>
+
+                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                        3</span>: Gestion d'Équipe</p>
+                <ul>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Formation et développement
+                        d’équipe.</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion des conflits.</li>
+                </ul>
+            </div>
+            <!-- Column 2 -->
+            <div style="padding-left: 60px;">
+                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                        4</span>: Prise de Décision</p>
+                <ul>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Techniques de prise de décision.
+                    </li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion des risques.</li>
+                </ul>
+
+                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                        5</span>: Gestion du Changement</p>
+                <ul>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Stratégies pour accompagner le
+                        changement.</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Communication autour du changement.
+                    </li>
+                </ul>
+
+                <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
+                        6</span>: Projet Final</p>
+                <ul>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Présentation d’un projet de
+                        management.</li>
+                </ul>
+            </div>
+        </div>
+    </section>
     <section>
         <div class="container mt-5">
             <div id="accordion">
@@ -192,24 +170,10 @@
                     <div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#accordion">
                         <div class="card-body">
                             <ul>
-                                <li><i class="fas fa-chevron-right"></i>
-                                    Comptable spécialisé en logistique.
-                                </li> <br>
-
-                                <li><i class="fas fa-chevron-right"></i>
-                                    Responsable logistique et financier.
-                                </li> <br>
-                                <li><i class="fas fa-chevron-right"></i>
-                                    Gestionnaire des stocks et approvisionnement
-                                </li> <br>
-                                <li><i class="fas fa-chevron-right"></i>
-                                    Assistant comptable-logistique.
-                                </li> <br>
-                                <li><i class="fas fa-chevron-right"></i>
-                                    Analyste financier-logistique.
-
-                                </li> <br>
-
+                                <li><i class="fas fa-chevron-right"></i> Manager d'équipe.</li> <br>
+                                <li><i class="fas fa-chevron-right"></i> Responsable de projet.</li> <br>
+                                <li><i class="fas fa-chevron-right"></i> Consultant en management.</li> <br>
+                                <li><i class="fas fa-chevron-right"></i> Coordinateur de programme.</li>
                             </ul>
                         </div>
                     </div>
@@ -229,12 +193,11 @@
                     <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#accordion">
                         <div class="card-body">
                             <ul>
-                                <li><i class="fas fa-chevron-right"></i>
-                                    Intérêt pour la logistique et la gestion des flux.</li> <br>
-                                <li><i class="fas fa-chevron-right"></i>
-                                    Sens de l’organisation et esprit d’analyse</li> <br>
-                                <li><i class="fas fa-chevron-right"></i>
-                                    Bonne maîtrise de l’outil informatique.</li> <br>
+                                <li><i class="fas fa-chevron-right"></i> Intérêt pour le management et le leadership.
+                                </li> <br>
+                                <li><i class="fas fa-chevron-right"></i> Esprit d'analyse et de synthèse.</li> <br>
+                                <li><i class="fas fa-chevron-right"></i> Bonne maîtrise des outils informatiques.</li>
+                                <br>
                             </ul>
                         </div>
                     </div>
@@ -253,17 +216,12 @@
                     </div>
                     <div id="collapse3" class="collapse" aria-labelledby="heading3" data-parent="#accordion">
                         <div class="card-body">
-                            <p> L'évaluation se fera tout au long de la formation à travers :</p>
+                            <p>L'évaluation se fera tout au long de la formation à travers :</p>
                             <ul>
-                                <li><i class="fas fa-chevron-right"></i>
-                                    contrôles continus (quiz, exercices).</li> <br>
-
-                                <li><i class="fas fa-chevron-right"></i>
-                                    Projets individuels et en groupe.</li> <br>
-
-                                <li><i class="fas fa-chevron-right"></i>
-                                    Présentation et défense du projet final.</li> <br>
-
+                                <li><i class="fas fa-chevron-right"></i> Contrôles continus (quiz, exercices).</li> <br>
+                                <li><i class="fas fa-chevron-right"></i> Projets individuels et en groupe.</li> <br>
+                                <li><i class="fas fa-chevron-right"></i> Présentation et défense du projet final.</li>
+                                <br>
                             </ul>
                         </div>
                     </div>
@@ -273,9 +231,7 @@
                         <h5 class="mb-0 d-flex justify-content-between align-items-center">
                             <span class="btn collapsed" style="border: none" data-toggle="collapse"
                                 data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-
                                 Durée et rythme
-
                             </span>
                             <div class="cercle">
                                 <span class="toggle-icon">+</span>
@@ -284,7 +240,7 @@
                     </div>
                     <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#accordion">
                         <div class="card-body">
-                            <p> La formation se déroule sur une durée de <span style="font-weight: 700;"> 6 mois</span>
+                            <p>La formation se déroule sur une durée de <span style="font-weight: 700;">6 mois</span>
                                 pour permettre aux participants de concilier apprentissage et application pratique.</p>
                         </div>
                     </div>
@@ -293,7 +249,7 @@
                     <div class="card-header" id="heading5">
                         <h5 class="mb-0 d-flex justify-content-between align-items-center">
                             <span class="btn collapsed" style="border: none" data-toggle="collapse"
-                                data-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
+                                data-target="#collapse5" aria-expanded="false">
                                 Pédagogie
                             </span>
                             <div class="cercle">
@@ -306,32 +262,16 @@
                             <p>Notre méthode d'apprentissage combine théorie et pratique, s'articulant autour des
                                 éléments suivants :</p>
                             <ul>
-
-                                <li><i class="fas fa-chevron-right"></i>
-                                    <span style="font-weight: 600;"> Cours interactifs </span> : Apprentissage en ligne
-                                    et en présentiel.
-                                </li> <br>
-
-                                <li><i class="fas fa-chevron-right"></i>
-                                    <span style="font-weight: 600;">
-                                        Études de cas réels
-                                    </span> : pour comprendre les défis du terrain.
-                                </li> <br>
-
-                                <li><i class="fas fa-chevron-right"></i>
-                                    <span style="font-weight: 600;">
-                                        Encadrement personnalisé
-                                    </span> :
-                                    avec des professionnels expérimentés en comptabilité et logistique.
-
-                                </li>.
+                                <li><i class="fas fa-chevron-right"></i> <span style="font-weight: 600;">Cours
+                                        interactifs</span>: Apprentissage en ligne et en présentiel.</li> <br>
+                                <li><i class="fas fa-chevron-right"></i> <span style="font-weight: 600;">Études de cas
+                                        réels</span>: pour comprendre les défis du terrain.</li><br>
+                                <li><i class="fas fa-chevron-right"></i> <span style="font-weight: 600;">Encadrement
+                                        personnalisé</span>: avec des professionnels expérimentés en management.</li>
                                 <br>
-                                <li><i class="fas fa-chevron-right"></i>
-                                    <span style="font-weight: 600;">
-                                        Évaluations régulières 
-                                    </span> :
-                                    pour mesurer les progrès et consolider les acquis.
-                                </li> <br>
+                                <li><i class="fas fa-chevron-right"></i> <span style="font-weight: 600;">Évaluations
+                                        régulières</span>: pour mesurer les progrès et consolider les acquis.</li> <br>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -339,7 +279,7 @@
                     <div class="card-header" id="heading6">
                         <h5 class="mb-0 d-flex justify-content-between align-items-center">
                             <span class="btn collapsed" style="border: none" data-toggle="collapse"
-                                data-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
+                                data-target="#collapse6" aria-expanded="false">
                                 Intégrer la formation
                             </span>
                             <div class="cercle">
@@ -351,9 +291,8 @@
                         <div class="card-body">
                             <p>Pour intégrer la formation, veuillez remplir le formulaire d'inscription disponible sur
                                 <a href="formulaire_inscription.php"><span
-                                        style="text-decoration: underline;">ici</span></a> Les places sont limitées,
-                                nous vous encourageons à vous inscrire
-                                rapidement.
+                                        style="text-decoration: underline;">ici</span></a>. Les places sont limitées,
+                                nous vous encourageons à vous inscrire rapidement.
                             </p>
                         </div>
                     </div>
@@ -362,7 +301,7 @@
                     <div class="card-header" id="heading7">
                         <h5 class="mb-0 d-flex justify-content-between align-items-center">
                             <span class="btn collapsed" style="border: none" data-toggle="collapse"
-                                data-target="#collapse7" aria-expanded="false" aria-controls="collapse7">
+                                data-target="#collapse7" aria-expanded="false">
                                 Le tarif
                             </span>
                             <div class="cercle">
@@ -372,116 +311,37 @@
                     </div>
                     <div id="collapse7" class="collapse" aria-labelledby="heading7" data-parent="#accordion">
                         <div class="card-body">
-
-                            <p> Nous souhaitons rendre cette formation accessible au plus grand nombre. C'est pourquoi
+                            <p>Nous souhaitons rendre cette formation accessible au plus grand nombre. C'est pourquoi
                                 nous vous proposons plusieurs options de paiement :</p>
                             <ul>
-                                <li><i class="fas fa-chevron-right"></i>
-                                    <span style="font-weight: 600;">
-                                        Paiement en trois fois
-                                    </span> :Versez un acompte de 100 000 FCFA à l'inscription, puis deux autres
-                                    tranches de 100 000 FCFA respectivement deux et cinq mois après le début de la
-                                    formation.
-                                </li>
-                                <br>
-                                <li><i class="fas fa-chevron-right"></i>
-                                    <span style="font-weight: 600;">
-                                        Paiement flexible
-                                    </span> :Réglez la formation à votre rythme, en versant des sommes variables selon
-                                    vos disponibilités financières. Le montant total doit être acquitté dans un délai de
-                                    six mois.
-                                </li> <br>
-                                <li><i class="fas fa-chevron-right"></i>
-                                    <span style="font-weight: 600;">
-                                        Paiement journalier
-                                    </span> :Optez pour un paiement quotidien de 2000 FCFA ou 1000 FCFA via Momopay,
-                                    après avoir versé l'acompte initial.
-                                </li>
-                                <br>
-                                <p style="font-weight: 600;">Le coût total de la formation s'élève à 350 000fcfa et
-                                    inclut l'accès à tous les supports pédagogiques, le suivi personnalisé par un
-                                    mentor, ainsi que la participation aux ateliers et événements organisés dans le
-                                    cadre de la formation.</p>
-                                <p style="font-weight: 600;">Les outils nécessaires restent à la charge de l'apprenant.
-                                </p>
-
-
+                                <li><i class="fas fa-chevron-right"></i> <span style="font-weight: 600;">Paiement en
+                                        trois fois</span>: Versez un acompte de 100 000 FCFA à l'inscription, puis deux
+                                    autres tranches de 100 000 FCFA respectivement deux et cinq mois après le début de
+                                    la formation.</li> <br>
+                                <li><i class="fas fa-chevron-right"></i> <span style="font-weight: 600;">Paiement
+                                        flexible</span>: Réglez la formation à votre rythme, en versant des sommes
+                                    variables selon vos disponibilités financières. Le montant total doit être acquitté
+                                    dans un délai de six mois.</li> <br>
+                                <li><i class="fas fa-chevron-right"></i> <span style="font-weight: 600;">Paiement
+                                        journalier</span>: Optez pour un paiement quotidien de 2000 FCFA ou 1000 FCFA
+                                    via Momopay, après avoir versé l'acompte initial.</li> <br>
                             </ul>
-
+                            <p style="font-weight: 600;">Le coût total de la formation s'élève à 350 000 FCFA et inclut
+                                l'accès à tous les supports pédagogiques, le suivi personnalisé par un mentor, ainsi que
+                                la participation aux ateliers et événements organisés dans le cadre de la formation.</p>
+                            <p style="font-weight: 600;">Les outils nécessaires restent à la charge de l'apprenant.</p>
                         </div>
                     </div>
                 </div>
             </div>
-
-        </div>
         </div>
     </section>
-
-
-    <section>
-        <div class="container" style="margin: 110px;">
-            <div class="row">
-                <!-- Bloc 1 -->
-                <div class="col-md-4">
-                    <a href="formulaire_inscription.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-user-plus"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Candidature</span> <br>
-                                <span>Inscrivez-vous dès maintenant</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-                <!-- Bloc 2 -->
-                <div class="col-md-4">
-                    <a href="dossier\Fichier CM2.pdf" download class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-file-alt"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Documentation</span> <br>
-                                <span>Obtenir une documentation</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- Bloc 3 -->
-                <div class="col-md-4">
-                    <a href="contact.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-question-circle"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Contact</span> <br>
-                                <span>Posez-nous vos questions!</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
+    <?php include 'suite_formation.php'?>
 
     <!-- Start Footer -->
     <?php  include 'footer.php'?>
     <!-- End Footer -->
-
-    <div class="footer_bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p class="crp">© Copyrights 2024</p>
-                </div>
-            </div>
-        </div>
-    </div>
-
+    <?php include 'footer_bottom.php'?>
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 
     <!-- ALL JS FILES -->

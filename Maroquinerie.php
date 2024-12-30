@@ -112,28 +112,28 @@
     <!-- Programme de la Formation -->
     <section style="padding: 50px;">
         <h2 class="section-title">Programme de la Formation</h2>
-        <p> D'une masse totale horaire de <span class="section-info"> 1200 heures</span>, le programme est structuré
-            autour de modules progressifs permettant une approche globale et pratique de la gestion des réseaux sociaux.
+        <p> Le programme est structuré
+            autour de modules progressifs permettant une approche globale et pratique.
         </p>
         <div class="columns">
             <!-- Column 1 -->
             <div>
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
                         1</span>: Introduction à la Maroquinerie et aux Matériaux (Histoire, Types de cuir et matériaux,
-                    Entretien du cuir) - 100h</p>
+                    Entretien du cuir) </p>
 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
                         2</span> : Conception et Patronage (Techniques de dessin, Création de patrons pour sacs,
-                    portefeuilles et accessoires) - 150h </p>
+                    portefeuilles et accessoires) </p>
 
 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
                         3</span> : Techniques de Découpe et Assemblage (Découpe manuelle et mécanique, Préparation des
-                    pièces pour l’assemblage) - 200h </p>
+                    pièces pour l’assemblage) </p>
 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
                         4 </span> : Couture à la Main et à la Machine (Points de couture, Renforcement des coutures,
-                    Utilisation de machines à coudre spéciales cuir) - 200h </p>
+                    Utilisation de machines à coudre spéciales cuir) </p>
 
 
 
@@ -144,18 +144,18 @@
 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
                         5</span> : Finition et Personnalisation (Peinture, teinture, embossage, pose d’ornements et
-                    accessoires métalliques) - 150h</p>
+                    accessoires métalliques) </p>
 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
                         6 </span> : Création d’Articles de Maroquinerie (Fabrication de sacs, ceintures, portefeuilles,
-                    étuis, accessoires divers) - 200h</p>
+                    étuis, accessoires divers) </p>
 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
                         7</span> : Gestion d’un Atelier et Commercialisation (Organisation de l’atelier,
-                    Approvisionnement, Prix de revient, Marketing et vente) - 100h </p>
+                    Approvisionnement, Prix de revient, Marketing et vente)  </p>
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
                         7</span> :Projet Final et Soutenance (Création d'une collection ou d'un article phare,
-                    présentation devant un jury professionnel) - 100h </p>
+                    présentation devant un jury professionnel)  </p>
 
             </div>
         </div>
@@ -419,72 +419,11 @@
             </div>
         </div>
     </section>
-
-
-    <section>
-        <div class="container" style="margin: 110px;">
-            <div class="row">
-                <!-- Bloc 1 -->
-                <div class="col-md-4">
-                    <a href="formulaire_inscription.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-user-plus"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Candidature</span> <br>
-                                <span>Inscrivez-vous dès maintenant</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-                <!-- Bloc 2 -->
-                <div class="col-md-4">
-                    <a href="dossier\Fichier CM2.pdf" download class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-file-alt"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Documentation</span> <br>
-                                <span>Obtenir une documentation</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- Bloc 3 -->
-                <div class="col-md-4">
-                    <a href="contact.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-question-circle"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Contact</span> <br>
-                                <span>Posez-nous vos questions!</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
-
+    <?php include 'suite_formation.php'?>
     <!-- Start Footer -->
     <?php  include 'footer.php'?>
     <!-- End Footer -->
-
-    <div class="footer_bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p class="crp">© Copyrights 2024</p>
-                </div>
-            </div>
-        </div>
-    </div>
-
+<?php include 'footer_bottom.php'?>
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 
     <!-- ALL JS FILES -->

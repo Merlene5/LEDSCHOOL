@@ -96,24 +96,24 @@
     <!-- Programme de la Formation -->
     <section style="padding: 50px;">
         <h2 class="section-title">Programme de la Formation</h2>
-        <p> D'une masse totale horaire de <span class="section-info"> 900 heures</span>, le programme est structuré
-            autour de modules progressifs permettant une approche globale et pratique de la gestion des réseaux sociaux.
+        <p>Le programme est structuré
+            autour de modules progressifs permettant une approche globale et pratique 
         </p>
         <div class="columns">
             <!-- Column 1 -->
             <div>
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        1</span>: Introduction à la Cordonnerie et aux Matériaux (Histoire de la cordonnerie, Types de cuir et autres matériaux, Préparation des matériaux) - 100h</p>
+                        1</span>: Introduction à la Cordonnerie et aux Matériaux (Histoire de la cordonnerie, Types de cuir et autres matériaux, Préparation des matériaux) </p>
          
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        2</span> :  Techniques de Réparation de Chaussures (Changement de semelles, réparation de talons, couture de cuir, réparation de déchirures) - 150h</p>
+                        2</span> :  Techniques de Réparation de Chaussures (Changement de semelles, réparation de talons, couture de cuir, réparation de déchirures) </p>
              
 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        3</span> : Création et Conception de Chaussures (Patronage, coupe et assemblage des pièces, couture à la main et à la machine) - 200h </p>
+                        3</span> : Création et Conception de Chaussures (Patronage, coupe et assemblage des pièces, couture à la main et à la machine) </p>
                 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                    4 </span> :  Personnalisation et Finishing (Teinture et traitement du cuir, application de produits de finition, techniques de décoration) - 100h</p>
+                    4 </span> :  Personnalisation et Finishing (Teinture et traitement du cuir, application de produits de finition, techniques de décoration)</p>
             
 
                 
@@ -123,13 +123,13 @@
             <div>
            
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                    5</span> : Fabrication d'Accessoires en Cuir (Création de ceintures, sacs et autres accessoires, techniques de couture et de découpe) - 150h</p>
+                    5</span> : Fabrication d'Accessoires en Cuir (Création de ceintures, sacs et autres accessoires, techniques de couture et de découpe) </p>
             
             <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                    6 </span> :Gestion d'Atelier et Relation Client (Organisation de l'atelier, gestion des stocks, service client, marketing de la cordonnerie) - 100h</p>
+                    6 </span> :Gestion d'Atelier et Relation Client (Organisation de l'atelier, gestion des stocks, service client, marketing de la cordonnerie) </p>
             
             <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                     7</span> : Projet Final et Présentation (Réparation et création d'une pièce complète, présentation des réalisations devant un jury) - 100h </p>
+                     7</span> : Projet Final et Présentation (Réparation et création d'une pièce complète, présentation des réalisations devant un jury)  </p>
            
             
 
@@ -390,72 +390,14 @@
             </div>
         </div>
     </section>
-
-
-    <section>
-        <div class="container" style="margin: 110px;">
-            <div class="row">
-                <!-- Bloc 1 -->
-                <div class="col-md-4">
-                    <a href="formulaire_inscription.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-user-plus"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Candidature</span> <br>
-                                <span>Inscrivez-vous dès maintenant</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-                <!-- Bloc 2 -->
-                <div class="col-md-4">
-                    <a href="dossier\Fichier CM2.pdf" download class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-file-alt"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Documentation</span> <br>
-                                <span>Obtenir une documentation</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- Bloc 3 -->
-                <div class="col-md-4">
-                    <a href="contact.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-question-circle"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Contact</span> <br>
-                                <span>Posez-nous vos questions!</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
+    <?php include 'suite_formation.php'?>
 
     <!-- Start Footer -->
     <?php  include 'footer.php'?>
     <!-- End Footer -->
 
-    <div class="footer_bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p class="crp">© Copyrights 2024</p>
-                </div>
-            </div>
-        </div>
-    </div>
-
+    <?php  include 'footer_bottom.php'?>
+    
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 
     <!-- ALL JS FILES -->

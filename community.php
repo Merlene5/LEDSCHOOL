@@ -101,14 +101,15 @@
    <!-- Programme de la Formation -->
 <section style="padding: 50px;">
     <h2 class="section-title">Programme de la Formation</h2>
-    <p> D'une masse totale horaire de <span class="section-info"> 600 heures</span>, leLe programme est structuré autour de modules progressifs permettant une approche globale et pratique de la gestion des réseaux sociaux.</p><div class="columns">
+    <p> Le programme est structuré autour de modules progressifs permettant une approche globale et pratique </p>
+    <div class="columns">
         <!-- Column 1 -->
         <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>: Introduction au Community Management et aux Réseaux Sociaux (50h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>: Introduction au Community Management et aux Réseaux Sociaux </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Introduction aux principaux réseaux sociaux (Facebook, Instagram, LinkedIn, Twitter, TikTok, YouTube), compréhension des enjeux du community management, rôles et responsabilité du community manager.</li>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> : Création et Planification de Contenu (100h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> : Création et Planification de Contenu </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Création de contenu : Apprendre à concevoir des visuels et des vidéos adaptés aux réseaux sociaux. Utilisation d'outils comme Canva, Adobe Spark, et des logiciels de montage vidéo.</li><br>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Calendrier : éditorial Structuration et planification du contenu en fonction des objectifs de communication (hebdomadaire, mensuel).</li> <br>
@@ -116,14 +117,14 @@
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Création de contenu : Storytelling et copywriting : Techniques de rédaction pour captiver les audiences, utilisation des formats (stories, reels, lives).</li> <br>
 
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> :Stratégie et Publicité sur les Réseaux Sociaux (150h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> :Stratégie et Publicité sur les Réseaux Sociaux </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Élaboration d'une stratégie social media : Identification des objectifs, segmentation du public cible, création de personas, définition des KPIs.</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>o	Publicité sur les réseaux sociaux : Mise en place de campagnes payantes sur Facebook, Instagram, LinkedIn, et TikTok. Utilisation de Facebook Ads Manager et gestion des budgets publicitaires.</li>
 
             </ul>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span> : Gestion des Communautés et Modération (100h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span> : Gestion des Communautés et Modération </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Animation de communauté : Techniques d'interaction avec les abonnés, gestion des commentaires, engagement de la communauté (concours, questions-réponses, lives).</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Modération et gestion de crise : Réponses aux critiques, modération des commentaires négatifs, gestion des trolls, et gestion des crises sur les réseaux sociaux.</li>
@@ -133,7 +134,7 @@
 
         <!-- Column 2 -->
         <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> :  Analyse des Performances et Veille Digitale (100h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> :  Analyse des Performances et Veille Digitale </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Analyse des KPIs : Utilisation d'outils comme Google Analytics, Facebook Insights, Twitter Analytics pour mesurer l'engagement, la portée, les interactions et ajuster les stratégies.</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Reporting : Création de rapports d'analyse, interprétation des données et recommandations pour améliorer la stratégie.</li>
@@ -142,13 +143,13 @@ Veille digitale et e-réputation : Techniques pour surveiller les tendances et l
 </li>
             </ul>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 6</span> :Collaboration avec Influenceurs et Partenaires (50h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 6</span> :Collaboration avec Influenceurs et Partenaires </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Marketing d'influence : Identification et collaboration avec des influenceurs pertinents pour votre marque. Suivi des performances des collaborations.</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Gestion des partenariats : Négociation de collaborations, organisation de concours, et co-création de contenu avec des partenaires.
             </ul>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 7</span>:  Projet Professionnel Final (50h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 7</span>:  Projet Professionnel Final </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Conception et gestion d'une campagne complète de community management pour un client fictif ou réel, incluant création de contenu, animation de la communauté, et analyse des résultats.</li>
             </ul>
@@ -423,69 +424,12 @@ Veille digitale et e-réputation : Techniques pour surveiller les tendances et l
             </div>
         </div>
     </section>
-    <section>
-    <div class="container" style="margin: 110px;">
-        <div class="row">
-            <!-- Bloc 1 -->
-            <div class="col-md-4">
-                <a href="../formulaire_inscription.php" class="hover-block">
-                    <div style="display: flex;">
-                        <div class="service-item">
-                            <i class="fas fa-user-plus"></i>
-                        </div>
-                        <div style="padding: 10px;">
-                            <span style="font-weight: 900; font-size: 20px;">Candidature</span> <br>
-                            <span>Inscrivez-vous dès maintenant</span>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            
-            <!-- Bloc 2 -->
-            <div class="col-md-4">
-    <a href="dossier\Fichier CM2.pdf" download class="hover-block">
-        <div style="display: flex;">
-            <div class="service-item">
-                <i class="fas fa-file-alt"></i>
-            </div>
-            <div style="padding: 10px;">
-                <span style="font-weight: 900; font-size: 20px;">Documentation</span> <br>
-                <span>Obtenir une documentation</span>
-            </div>
-        </div>
-    </a>
-</div>
-     <!-- Bloc 3 -->
-     <div class="col-md-4">
-                <a href="contact.php" class="hover-block">
-                    <div style="display: flex;">
-                        <div class="service-item">
-                            <i class="fas fa-question-circle"></i>
-                        </div>
-                        <div style="padding: 10px;">
-                            <span style="font-weight: 900; font-size: 20px;">Contact</span> <br>
-                            <span>Posez-nous vos questions!</span>
-                        </div>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </div>
-</section>
+   <?php include 'suite_formation.php' ?> 
 
     <!-- Start Footer -->
    <?php  include 'footer.php'?>
     <!-- End Footer -->
-
-    <div class="footer_bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p class="crp">© Copyrights 2024</p>
-                </div>
-            </div>
-        </div>
-    </div>
+ <?php include 'footer_bottom.php'?>
 
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 

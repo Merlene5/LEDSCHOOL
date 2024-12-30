@@ -101,21 +101,21 @@
             <!-- Column 1 -->
             <div>
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        1</span>:Introduction au métier de reporter d’images (50h)</p>
+                        1</span>:Introduction au métier de reporter d’images </p>
                 <ul>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Les fondamentaux du reportage audiovisuel.</li>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Éthique et déontologie du journalisme visuel</li>
                 </ul>
 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        2</span> :Techniques de captation d’images et de son (150h)</p>
+                        2</span> :Techniques de captation d’images et de son </p>
                 <ul>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Utilisation des caméras, drones et enregistreurs audio</li>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Prise en main des réglages (exposition, cadre, balance des blancs, etc.)</li>
                 </ul><br>
 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        3</span> :Narration visuelle et storytelling (100h)</p>
+                        3</span> :Narration visuelle et storytelling </p>
                 <ul>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Éléments clés de la narration visuelle</li>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i>  Structuration d’un reportage captivant.</li>
@@ -123,7 +123,7 @@
 
                 </ul>
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                    4 </span> :Montage et post-production (150h)</p>
+                    4 </span> :Montage et post-production </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Logiciels de montage (Adobe Premiere, Final Cut, etc.). </li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Étalonnage et effets visuels pour enrichir les reportages.</li>
@@ -138,19 +138,19 @@
             <div>
            
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                    5</span> :Reportage sur le terrain (100h)</p>
+                    5</span> :Reportage sur le terrain </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Pratique intensive sur des cas réels</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Gestion des imprévus et des contraintes terrain..</li>
             </ul>
             <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                    6 </span> :Publication et diffusion digitale (50h)</p>
+                    6 </span> :Publication et diffusion digitale</p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Formats adaptés aux réseaux sociaux et plateformes vidéo</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Optimisation pour l’audience en ligne.</li> <br>
             </ul>
             <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                     7</span> : Projet final(50h)</p>
+                     7</span> : Projet final</p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Réalisation d’un reportage complet présenté devant un jury professionnel</li>
             </ul>
@@ -408,71 +408,12 @@
             </div>
         </div>
     </section>
-
-
-    <section>
-        <div class="container" style="margin: 110px;">
-            <div class="row">
-                <!-- Bloc 1 -->
-                <div class="col-md-4">
-                    <a href="formulaire_inscription.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-user-plus"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Candidature</span> <br>
-                                <span>Inscrivez-vous dès maintenant</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-                <!-- Bloc 2 -->
-                <div class="col-md-4">
-                    <a href="dossier\Fichier CM2.pdf" download class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-file-alt"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Documentation</span> <br>
-                                <span>Obtenir une documentation</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- Bloc 3 -->
-                <div class="col-md-4">
-                    <a href="contact.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-question-circle"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Contact</span> <br>
-                                <span>Posez-nous vos questions!</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
+    <?php include 'suite_formation.php'?>
 
     <!-- Start Footer -->
     <?php  include 'footer.php'?>
     <!-- End Footer -->
-
-    <div class="footer_bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p class="crp">© Copyrights 2024</p>
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php include 'footer_bottom.php'?> 
 
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 

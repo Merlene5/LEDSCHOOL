@@ -269,7 +269,7 @@
                         <li><a class="nav-link" href="admission.php">Admission</a></li>
                         <li><a class="nav-link" href="pedagogie.php">Pédadogie</a></li>
                         <li><a class="nav-link" href="actualites.php">Actualités</a></li>
-                        <li><a class="nav-link" href="contact.php">Contactez-nous</a></li>
+                        <li><a class="nav-link" href="contact.php">contactez-nous</a></li>
 
                     </ul>
                 </div>

@@ -103,7 +103,7 @@
  <section>
     <div class="container mt-5">
         <!-- Title -->
-        <h2 class="text-center fw-bold mb-4" >Quelle formation souhaitez-vous suivre, en tant qu'entrepreneur artisanal ?</h2>
+        <h2 class="text-center fw-bold mb-4" >Quelle formation souhaitez-vous suivre, en tant qu'Entrepreneur artisanal ?</h2>
       
         <!-- Cards Section -->
         <div class="row">
@@ -161,15 +161,7 @@
     <?php include 'footer.php' ?>
     <!-- End Footer -->
 
-    <div class="footer_bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p class="crp">© Copyrights 2024</p>
-                </div>
-            </div>
-        </div>
-    </div>
+   <?php  include 'footer_bottom.php'?>
 
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 

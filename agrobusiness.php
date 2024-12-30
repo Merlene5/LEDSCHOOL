@@ -100,14 +100,14 @@
         <div class="columns">
             <!-- Column 1 -->
         <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>: Introduction à l'agro business (50h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>: Introduction à l'agro business </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Comprendre les principes fondamentaux de l'agro business</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Identifier les différents types d'entreprises agricoles</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Comprendre les enjeux de la durabilité et de la responsabilité environnementale</li>
             </ul>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> :Gestion et management d'entreprise agricole (100h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> :Gestion et management d'entreprise agricole </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Comprendre les principes de gestion et de management d'entreprise agricole</li><br>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Apprendre à créer et à mettre en œuvre des stratégies de marketing et de vente</li><br>
@@ -115,7 +115,7 @@
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Comprendre les techniques de production et de transformation des produits agricoles</li><br>
 
               
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> : Stratégie de marketing et de vente (150h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> : Stratégie de marketing et de vente </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Comprendre les principes de marketing et de vente pour les produits agricoles</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i> Apprendre à créer et à mettre en œuvre des stratégies de marketing et de vente</li>
@@ -128,13 +128,13 @@
 
         <!-- Column 2 -->
         <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span> :  Production et transformation des produits agricoles (100h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span> :  Production et transformation des produits agricoles </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>    Comprendre les techniques de production et de transformation des produits agricoles</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Apprendre à créer et à mettre en œuvre des stratégies de production et de transformation</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>  Comprendre les enjeux de la qualité et de la sécurité alimentaire</li>
             </ul>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> : Durabilité et responsabilité environnementale (100h</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> : Durabilité et responsabilité environnementale </p>
                 <ul>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i>    Droits d’auteur et propriété intellectuelle.</li>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Réglementations touristiques.</li>
@@ -397,69 +397,13 @@
     </section>
 
 
-    <section>
-        <div class="container" style="margin: 110px;">
-            <div class="row">
-                <!-- Bloc 1 -->
-                <div class="col-md-4">
-                    <a href="formulaire_inscription.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-user-plus"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Candidature</span> <br>
-                                <span>Inscrivez-vous dès maintenant</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-                <!-- Bloc 2 -->
-                <div class="col-md-4">
-                    <a href="dossier\Fichier CM2.pdf" download class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-file-alt"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Documentation</span> <br>
-                                <span>Obtenir une documentation</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- Bloc 3 -->
-                <div class="col-md-4">
-                    <a href="contact.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-question-circle"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Contact</span> <br>
-                                <span>Posez-nous vos questions!</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
+  <?php include 'suite_formation.php'?>
 
     <!-- Start Footer -->
     <?php  include 'footer.php'?>
     <!-- End Footer -->
-
-    <div class="footer_bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p class="crp">© Copyrights 2024</p>
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php  include 'footer_bottom.php'?>
+    
 
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 

@@ -97,17 +97,17 @@
    <!-- Programme de la Formation -->
 <section style="padding: 50px;">
     <h2 class="section-title">Programme de la Formation</h2>
-    <p> D'une masse totale horaire de <span class="section-info"> 1000 heures</span>, le programme est structuré autour de modules progressifs permettant une approche globale et pratique de la gestion des réseaux sociaux.</p><div class="columns">
+    <p> Le programme est structuré autour de modules progressifs permettant une approche globale et pratique de la gestion des réseaux sociaux.</p><div class="columns">
         <!-- Column 1 -->
         <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>: Fondamentaux de l'informatique et gestion des systèmes (100h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 1</span>: Fondamentaux de l'informatique et gestion des systèmes </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Introduction aux systèmes d’exploitation.</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Maintenance et dépannage informatique</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Gestion des fichiers et des ressources système.</li>
 
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> :Logiciels bureautiques avancés (200h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 2</span> :Logiciels bureautiques avancés </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Word : Techniques avancées de mise en page, création de documents complexes</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Excel : Formules avancées, analyse de données, tableaux croisés dynamiques.</li>
@@ -117,14 +117,14 @@
           
             </ul>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> :Automatisation et optimisation des processus (150h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 3</span> :Automatisation et optimisation des processus </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Création et gestion de macros dans Excel.</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Introduction à l'utilisation de scripts pour automatiser des tâches de bureautique.</li>
 
             </ul>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span> :Sécurité des données et gestion de l'information (100h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 4</span> :Sécurité des données et gestion de l'information </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Création de contenu visuel :Techniques de sauvegarde et protection des données.</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Sécurité informatique de base pour la prévention des pertes et des cyberattaques.</li>
@@ -134,22 +134,22 @@
 
         <!-- Column 2 -->
         <div>
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> :Collaboration et gestion de projet (100h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 5</span> :Collaboration et gestion de projet </p>
                 <ul>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Utilisation d'outils de collaboration comme Microsoft Teams et Google Drive.</li>
                     <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Notions essentielles de gestion de projet avec Trello, Asana et autres outils.</li>
-                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>     SEO local : Optimisation du contenu pour la visibilité locale, gestion des fiches Google My Business.</li>
+                    <li class="list-item"><i class="fa fa-check-circle li-icon"></i>    SEO local : Optimisation du contenu pour la visibilité locale, gestion des fiches Google My Business.</li>
                 </ul>
             </p>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 6</span> : Productivité avancée et astuces (100h) </p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 6</span> : Productivité avancée et astuces </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Raccourcis clavier et techniques d’optimisation.</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>	Intégration de la technologie dans le quotidien professionnel pour améliorer la productivité.</li>
                           
             </ul>
 
-            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 7</span>:  Projet pratique et mise en situation (150h)</p>
+            <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module 7</span>:  Projet pratique et mise en situation </p>
             <ul>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Application des compétences dans un projet de gestion documentaire ou de création de documents professionnels.</li>
                 <li class="list-item"><i class="fa fa-check-circle li-icon"></i>Présentation et évaluation de projets par un jury.</li>
@@ -415,72 +415,12 @@
             </div>
         </div>
     </section>
-
-
-    <section>
-    <div class="container" style="margin: 110px;">
-        <div class="row">
-            <!-- Bloc 1 -->
-            <div class="col-md-4">
-                <a href="formulaire_inscription.php" class="hover-block">
-                    <div style="display: flex;">
-                        <div class="service-item">
-                            <i class="fas fa-user-plus"></i>
-                        </div>
-                        <div style="padding: 10px;">
-                            <span style="font-weight: 900; font-size: 20px;">Candidature</span> <br>
-                            <span>Inscrivez-vous dès maintenant</span>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            
-            <!-- Bloc 2 -->
-            <div class="col-md-4">
-    <a href="dossier\Fichier CM2.pdf" download class="hover-block">
-        <div style="display: flex;">
-            <div class="service-item">
-                <i class="fas fa-file-alt"></i>
-            </div>
-            <div style="padding: 10px;">
-                <span style="font-weight: 900; font-size: 20px;">Documentation</span> <br>
-                <span>Obtenir une documentation</span>
-            </div>
-        </div>
-    </a>
-</div>
-     <!-- Bloc 3 -->
-     <div class="col-md-4">
-                <a href="contact.php" class="hover-block">
-                    <div style="display: flex;">
-                        <div class="service-item">
-                            <i class="fas fa-question-circle"></i>
-                        </div>
-                        <div style="padding: 10px;">
-                            <span style="font-weight: 900; font-size: 20px;">Contact</span> <br>
-                            <span>Posez-nous vos questions!</span>
-                        </div>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </div>
-</section>
+    <?php include 'suite_formation.php'?>
 
     <!-- Start Footer -->
    <?php  include 'footer.php'?>
     <!-- End Footer -->
-
-    <div class="footer_bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p class="crp">© Copyrights 2024</p>
-                </div>
-            </div>
-        </div>
-    </div>
-
+<?php include 'footer_bottom.php'?>
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 
     <!-- ALL JS FILES -->

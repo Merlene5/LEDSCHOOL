@@ -99,24 +99,24 @@
     <!-- Programme de la Formation -->
     <section style="padding: 50px;">
         <h2 class="section-title">Programme de la Formation</h2>
-        <p> D'une masse totale horaire de <span class="section-info"> 900 heures</span>, le programme est structuré
-            autour de modules progressifs permettant une approche globale et pratique de la gestion des réseaux sociaux.
+        <p>  le programme est structuré
+            autour de modules progressifs permettant une approche globale et pratique.
         </p>
         <div class="columns">
             <!-- Column 1 -->
             <div>
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        1</span>:Introduction au Tissage et aux Matériaux (Histoire du tissage, Types de fibres, Préparation des fils, Principes de base du tissage) - 100h</p>
+                        1</span>:Introduction au Tissage et aux Matériaux (Histoire du tissage, Types de fibres, Préparation des fils, Principes de base du tissage) </p>
          
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        2</span> :  Techniques de Tissage Traditionnelles (Tissage à la main, Tissage sur métier à tisser manuel, Création de motifs de base) - 150h</p>
+                        2</span> :  Techniques de Tissage Traditionnelles (Tissage à la main, Tissage sur métier à tisser manuel, Création de motifs de base) </p>
              
 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                        3</span> :Techniques de Tissage Moderne (Utilisation de métiers à tisser mécaniques, Tissage complexe, Intégration de motifs avancés) - 200h</p>
+                        3</span> :Techniques de Tissage Moderne (Utilisation de métiers à tisser mécaniques, Tissage complexe, Intégration de motifs avancés) </p>
                 
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                    4 </span> : Conception et Création de Motifs (Design de motifs, Utilisation de logiciels de modélisation de motifs, Techniques de dessin) - 150h</p>
+                    4 </span> : Conception et Création de Motifs (Design de motifs, Utilisation de logiciels de modélisation de motifs, Techniques de dessin) </p>
             
 
                 
@@ -126,17 +126,13 @@
             <div>
            
                 <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                    5</span> : Teinture et Finition des Tissus (Techniques de teinture, Traitement des tissus, Application de finitions pour améliorer la texture et la durabilité) - 100h</p>
+                    5</span> : Teinture et Finition des Tissus (Techniques de teinture, Traitement des tissus, Application de finitions pour améliorer la texture et la durabilité) </p>
             
             <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                    6 </span> : Gestion de l'Atelier et Collaboration (Organisation de l'espace de travail, Collaboration avec des créateurs, Optimisation des ressources) - 100h</p>
+                    6 </span> : Gestion de l'Atelier et Collaboration (Organisation de l'espace de travail, Collaboration avec des créateurs, Optimisation des ressources) </p>
             
             <p class="module-title"><i class="fas fa-chevron-right"></i><span style="font-weight: 600">Module
-                     7</span> :Projet Final et Présentation (Conception et réalisation d'une collection de tissus, Présentation des créations devant un jury) - 100hProjet Final et Présentation (Conception et réalisation d'une collection de tissus, Présentation des créations devant un jury) - 100h</p>
-           
-            
-
-
+                     7</span> :Projet Final et Présentation (Conception et réalisation d'une collection de tissus, Présentation des créations devant un jury) </p>
             </div>
         </div>
     </section>
@@ -391,9 +387,7 @@
                                     cadre de la formation.</p>
                                 <p style="font-weight: 600;">Les outils nécessaires (métier à tisser, fils, matériaux) restent à la charge de l'apprenant. </p>
 
-
                             </ul>
-
                         </div>
                     </div>
                 </div>
@@ -401,71 +395,13 @@
             </div>
         </div>
     </section>
-
-
-    <section>
-        <div class="container" style="margin: 110px;">
-            <div class="row">
-                <!-- Bloc 1 -->
-                <div class="col-md-4">
-                    <a href="formulaire_inscription.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-user-plus"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Candidature</span> <br>
-                                <span>Inscrivez-vous dès maintenant</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-                <!-- Bloc 2 -->
-                <div class="col-md-4">
-                    <a href="dossier\Fichier CM2.pdf" download class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-file-alt"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Documentation</span> <br>
-                                <span>Obtenir une documentation</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- Bloc 3 -->
-                <div class="col-md-4">
-                    <a href="contact.php" class="hover-block">
-                        <div style="display: flex;">
-                            <div class="service-item">
-                                <i class="fas fa-question-circle"></i>
-                            </div>
-                            <div style="padding: 10px;">
-                                <span style="font-weight: 900; font-size: 20px;">Contact</span> <br>
-                                <span>Posez-nous vos questions!</span>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
+<?php include 'suite_formation.php' ?>
 
     <!-- Start Footer -->
     <?php  include 'footer.php'?>
     <!-- End Footer -->
 
-    <div class="footer_bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <p class="crp">© Copyrights 2024</p>
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php include 'footer_bottom.php'?>
 
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
 

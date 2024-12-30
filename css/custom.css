@@ -3,70 +3,30 @@
   body {
  
     font-family: 'Poppins', sans-serif;
-    /* background-color: #beb6b6; */
+  
   
   } 
   
 /* style concercant la partie pedagogie*/
 
-.card {
-  border: 1px solid #ccc;
-  height: 200px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  margin-bottom: 30px;
-  color: black;
-  background: transparent
-  
+.feature-box {
+  padding: 20px;
+  text-align: left;
+  border-radius: 5px;
 }
-
-.card-body {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+.bg-gray {
+  background-color: #f0f0f0; /* Fond gris clair */
 }
-
-
-.card-title {
-  display: flex;
-  align-items: center;
-  font-weight: 600;
-  font-size: 20px;
-  color:#2c3e50;
-  /* color: black */
-  
+.feature-icon {
+  font-size: 40px;
+  color: #ecdb07; /* Couleur jaune */
+  margin-bottom: 10px;
 }
-.card-text{
- 
-  font-size: 1rem;
-}
-
-.card-title i {
-  margin-right: 10px;
-  font-size: 35px;
-  color: #ecdb07; 
-
-}
-
-.container h2 {
-  margin-bottom: 60px;
-}
-
-
 
 .show-more{
-  background-color: transparent;
-  color:#2c3e50;
-  font-size: 15px;
   margin-left: 985px;
+}
 
-}
-.btn:hover {
-  background:transparent;
-  color: #0b1da5;
-  
-}
 /* style de la partie evenement*/
 .event-container {
     position: relative;
@@ -169,7 +129,7 @@
     box-shadow: 0px 3px 7px rgba(0, 0, 0, 0.2);
 }
 .btn-decouvrir {
-  border: 1px solid #2c3e50; 
+  border: 1px solid transparent; 
   border-radius: 50px;
   padding: 10px; 
   font-weight: 600; 
@@ -180,7 +140,8 @@
 }
 
 .btn-decouvrir:hover {
-  background-color:#000;
+  background-color:#0b1da5;
+  opacity: 0.8;
   color: #fff; 
   text-decoration: none;
 }
@@ -220,13 +181,13 @@
 /* Icônes */
 .icon-box i {
     font-size: 40px;
-    color: #0b1da5;
+    color: #ecdb07;
     transition: color 0.3s ease;
 }
 
 /* Effet hover */
 .icon-box .icon-circle:hover {
-    background-color: #ecdb07;
+    background-color: #0b1da5;
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
 }
 
