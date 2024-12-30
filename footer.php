@@ -47,7 +47,7 @@
                         <h3>Contactez-nous </h3>
                         <ul class="full">
                             <li><img src="images/i5.png"><span>Ladjifarani,voie Camp Séro Kpéra rue Cap Finance,Parakou, Benin</span></li>
-                            <li><img src="images/i6.png"><span></span></li>
+                            <li><img src="images/i6.png"><span>contact@example.com </span></li>
                             <li><img src="images/i7.png"><span >+229 67589631 /63100010 / 64193817 </span></li>
                         </ul>
                     </div>

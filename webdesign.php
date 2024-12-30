@@ -103,7 +103,7 @@
     <!-- Programme de la Formation -->
 <section style="padding: 50px;">
     <h2 class="section-title">Programme de la Formation</h2>
-    <p> D'une masse totale horaire de <span class="section-info">1300 heures</span>, le programme est modulaire et couvre les aspects suivants :</p>
+    <p> le programme est modulaire et couvre les aspects suivants :</p>
     <div class="columns">
         <!-- Column 1 -->
         <div>
@@ -279,15 +279,6 @@
                                     animés par nos professeurs compétents, où vous pourrez échanger,
                                     poser des questions et travailler sur des projets concrets.
                                 </li> <br>
-
-                                <li><i class="fas fa-chevron-right"></i>
-                                    <span style="font-weight: 600;">
-                                        Ateliers présentiels
-                                    </span> : Approfondissez vos connaissances en ligne lors des cours en présentiels
-                                    animés par nos professeurs compétents, où vous pourrez échanger,
-                                    poser des questions et travailler sur des projets concrets.
-                                </li> <br>
-
                                 <li><i class="fas fa-chevron-right"></i>
                                     <span style="font-weight: 600;">
                                         Mentorat personnalisé

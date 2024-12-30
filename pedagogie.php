@@ -43,18 +43,12 @@
     <![endif]-->
     <style>
       /* General Body Styling */
-      body {
-        font-family: 'Poppins', sans-serif;
-        line-height: 1.6;
-      }
-  
       /* Section Styling */
       .section-title {
         color: #0b1da5;
-        font-size: 2rem;
-        margin-bottom: 20px;
+        font-size: 1.9rem;
+        margin-bottom: 15px;
         font-weight: 600;
-        text-transform: uppercase;
         position: relative;
       }
      
@@ -98,7 +92,8 @@
     
 </head>
 
-<body id="inner_page" data-spy="scroll" data-target="#navbar-wd" data-offset="98" class="bg-light" >
+<body id="inner_page" data-spy="scroll" data-target="#navbar-wd" data-offset="98" style=" font-family: 'Poppins', sans-serif;
+        line-height: 1.6; " >
 <!--header-->
 <?php include 'header.php'?>
     <!-- End header -->
